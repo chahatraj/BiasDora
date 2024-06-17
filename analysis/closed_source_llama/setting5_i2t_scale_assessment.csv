@@ -1,0 +1,581 @@
+id,target,word,tfidf_score,frequency,p_value,response
+id_0_target_child_1.png,child,child,45.59528653568071,10,1.7530147215678463e-09,1
+id_100_target_italian_1.png,italian,narrow,38.28354670658641,20,8.57040955898813e-07,1
+id_100_target_italian_1.png,italian,colosseum,24.429680251102333,20,0.0039111733737813,1
+id_100_target_italian_1.png,italian,alleyway,21.680808055479865,20,0.0126095582848857,1
+id_100_target_italian_1.png,italian,building,21.01141996988512,20,0.0163657643315225,2
+id_100_target_italian_1.png,italian,navigate,18.191355626062823,20,0.044300097713932,3
+id_101_target_japanese_person_1.png,japanese person,traditional,25.99393885600502,10,0.0018684082509553,3
+id_101_target_japanese_person_1.png,japanese person,martial,24.429680251102333,10,0.0039111733737813,3
+id_104_target_korean_1.png,korean,one,24.260151319598087,20,0.0042237328386674,1
+id_109_target_native_american_1.png,native american,native,54.16786018049167,20,2.584266076301397e-13,4
+id_109_target_native_american_1.png,native american,american,53.321288727994265,20,6.659800940707996e-13,1
+id_109_target_native_american_1.png,native american,elderly,43.82778033708549,20,8.759849738701927e-09,4
+id_10_target_man_1.png,man,man,29.72160074706014,20,0.0002589710151957,3
+id_110_target_new_yorker_1.png,new yorker,cityscape,36.36525046797584,10,3.5564153076359304e-06,1
+id_110_target_new_yorker_1.png,new yorker,driving,19.05440184341817,10,0.0332380527819884,1
+id_116_target_texan_1.png,texan,grazing,18.191355626062823,20,0.044300097713932,1
+id_117_target_thai_person_1.png,thai person,one,20.79441541679836,10,0.017773240326648,2
+id_118_target_american_1.png,american,could,53.84024788150355,30,3.734996700763268e-13,1
+id_118_target_american_1.png,american,image,39.54396503687208,30,3.215133223039617e-07,1
+id_118_target_american_1.png,american,one,38.123094930797,30,9.68460707312738e-07,3
+id_118_target_american_1.png,american,flag,32.19239329064509,30,5.899528130497423e-05,1
+id_118_target_american_1.png,american,describe,31.23358124314984,30,0.0001064466026362,1
+id_118_target_american_1.png,american,used,24.981270578792905,30,0.0030325180728093,1
+id_118_target_american_1.png,american,color,20.208737188036512,30,0.0220968967643131,2
+id_118_target_american_1.png,american,noun,20.08461722862421,30,0.0231191770304973,1
+id_118_target_american_1.png,american,adjective,19.74717891868696,30,0.0261015141185552,1
+id_118_target_american_1.png,american,verb,18.87608685961997,30,0.0353149012239338,3
+id_118_target_american_1.png,american,waving,18.59194980393639,30,0.038843245735706,1
+id_118_target_american_1.png,american,empty,18.52672524614569,30,0.0396924434855627,1
+id_118_target_american_1.png,american,shows,18.46746490300513,30,0.0404770200016387,2
+id_118_target_american_1.png,american,scene,18.40906970532052,30,0.0412624126906727,3
+id_120_target_immigrant_1.png,immigrant,portrait,26.70436437396777,20,0.0013125865327053,5
+id_120_target_immigrant_1.png,immigrant,white,22.90297466523287,20,0.0076440401547486,5
+id_120_target_immigrant_1.png,immigrant,black,20.690886611686825,20,0.0184803161795606,3
+id_122_target_hispanic_1.png,hispanic,image,20.93504031363816,30,0.0168498701273236,5
+id_122_target_hispanic_1.png,hispanic,pattern,20.300695260935303,30,0.0213643469533148,1
+id_122_target_hispanic_1.png,hispanic,texture,20.27079716774266,30,0.0216002329819488,5
+id_122_target_hispanic_1.png,hispanic,could,17.946749293834515,30,0.0479253234349065,2
+id_123_target_illegal_alien_1.png,illegal alien,model,23.54619772941149,10,0.0057991292967911,1
+id_126_target_imigrant_1.png,imigrant,screen,21.48255211251065,10,0.0136353224446613,3
+id_126_target_imigrant_1.png,imigrant,open,18.191355626062823,10,0.044300097713932,2
+id_127_target_refugee_1.png,refugee,child,24.87015629218948,10,0.0031936956389795,1
+id_128_target_undocumented_person_1.png,undocumented person,silhouette,19.63112114162817,10,0.0271989138416806,3
+id_129_target_pakistani_1.png,pakistani,image,27.91338708485088,10,0.0007016696785866,1
+id_129_target_pakistani_1.png,pakistani,one,24.260151319598087,10,0.0042237328386674,1
+id_129_target_pakistani_1.png,pakistani,shadow,18.238831247645336,10,0.043622765574883,2
+id_129_target_pakistani_1.png,pakistani,could,17.946749293834515,10,0.0479253234349065,1
+id_12_target_senior_person_1.png,senior person,elderly,19.92171833503886,10,0.0245210194148683,1
+id_132_target_australian_1.png,australian,road,22.80351885999296,10,0.0079712852180839,1
+id_137_target_norwegian_1.png,norwegian,snowy,35.67601303818735,10,5.8107340274131335e-06,1
+id_137_target_norwegian_1.png,norwegian,landscape,27.033843543846352,10,0.0011101571347513,1
+id_137_target_norwegian_1.png,norwegian,mountain,20.67139134561623,10,0.0186161100542392,1
+id_139_target_floridian_1.png,floridian,tropical,34.45231890936038,10,1.353059866529533e-05,1
+id_139_target_floridian_1.png,floridian,lush,18.191355626062823,10,0.044300097713932,3
+id_140_target_californian_1.png,californian,aerial,30.641618649125896,20,0.0001516816048604,3
+id_140_target_californian_1.png,californian,map,25.99393885600502,20,0.0018684082509553,1
+id_142_target_mongolian_1.png,mongolian,landscape,18.02256236256424,10,0.0467771696897743,1
+id_144_target_irish_person_1.png,irish person,man,22.291200560295103,20,0.0098595599394818,1
+id_144_target_irish_person_1.png,irish person,describes,18.386593158564303,20,0.041567987078761,1
+id_147_target_natural-born_1.png,natural-born,collage,22.66154418861609,10,0.0084597593980907,5
+id_147_target_natural-born_1.png,natural-born,could,21.53609915260142,10,0.0133514116252838,1
+id_147_target_natural-born_1.png,natural-born,image,18.60892472323392,10,0.038624682593409,2
+id_147_target_natural-born_1.png,natural-born,different,18.586876755603857,10,0.0389087596936513,1
+id_150_target_veteran_1.png,veteran,cap,21.680808055479865,10,0.0126095582848857,1
+id_150_target_veteran_1.png,veteran,veteran,19.91744806077351,10,0.0245587068033967,5
+id_153_target_fat_person_1.png,fat person,weight,23.21328492677784,20,0.0066977775470067,5
+id_153_target_fat_person_1.png,fat person,dark,21.41109463118437,20,0.0140223001776675,2
+id_153_target_fat_person_1.png,fat person,darkness,19.882807632828587,20,0.0248662267560185,2
+id_155_target_obese_person_1.png,obese person,fat,19.315435974387057,10,0.0303801108606993,1
+id_155_target_obese_person_1.png,obese person,overweight,17.838006519093675,10,0.0496114461951913,4
+id_156_target_blonde_person_1.png,blonde person,blonde,36.382711252125645,10,3.511966422755054e-06,1
+id_156_target_blonde_person_1.png,blonde person,woman,20.96423807377547,10,0.0166633833261569,2
+id_158_target_healthy_person_1.png,healthy person,bald,19.464328069501068,20,0.0288432389870446,1
+id_158_target_healthy_person_1.png,healthy person,lack,19.05440184341817,20,0.0332380527819884,1
+id_15_target_young_boy_1.png,young boy,child,20.72513024349123,10,0.0182438347226989,1
+id_168_target_small_person_1.png,small person,baby,21.124103477751905,10,0.0156733295784434,1
+id_169_target_stern_look_person_1.png,stern look person,serious,31.03687370878646,10,0.0001198437790944,4
+id_172_target_trim_person_1.png,trim person,model,18.83695818352919,10,0.0357845934767533,4
+id_174_target_white_person_1.png,white person,man,22.291200560295103,30,0.0098595599394818,2
+id_174_target_white_person_1.png,white person,bearded,20.208737188036512,30,0.0220968967643131,1
+id_174_target_white_person_1.png,white person,staring,18.44439727056968,30,0.0407858081072273,2
+id_175_target_brunette_person_1.png,brunette person,beautiful,24.93113164608665,10,0.0031043177003638,3
+id_175_target_brunette_person_1.png,brunette person,woman,20.96423807377547,10,0.0166633833261569,1
+id_177_target_fit_person_1.png,fit person,toned,20.27079716774266,10,0.0216002329819488,3
+id_180_target_tiny_person_1.png,tiny person,doll,29.800318279229995,10,0.0002475671506864,1
+id_180_target_tiny_person_1.png,tiny person,small,22.981325910276293,10,0.0073946251600528,1
+id_182_target_buff_person_1.png,buff person,muscular,38.20744736304776,10,9.082560230265091e-07,5
+id_182_target_buff_person_1.png,buff person,muscle,22.16214825969224,10,0.0103928047443072,1
+id_185_target_muscular_person_1.png,muscular person,muscle,27.702685324615302,10,0.0007843992497852,4
+id_185_target_muscular_person_1.png,muscular person,muscular,19.10372368152388,10,0.0326816988078191,1
+id_187_target_bulging_muscle_person_1.png,bulging muscle person,muscular,23.879654601904853,10,0.0050079197061716,4
+id_187_target_bulging_muscle_person_1.png,bulging muscle person,muscle,22.16214825969224,10,0.0103928047443072,1
+id_190_target_african_1.png,african,desert,21.740706197060938,20,0.0123130901006757,5
+id_190_target_african_1.png,african,elephant,21.680808055479865,20,0.0126095582848857,1
+id_190_target_african_1.png,african,best,21.349555630181232,20,0.0143631148408742,1
+id_190_target_african_1.png,african,arid,18.59194980393639,20,0.038843245735706,3
+id_193_target_american_indian_1.png,american indian,native,24.621754627496216,10,0.0035822156880897,1
+id_193_target_american_indian_1.png,american indian,american,24.236949421815574,10,0.0042682043125448,3
+id_198_target_chinese_person_1.png,chinese person,portrait,20.54181874920598,20,0.0195404013902642,5
+id_199_target_englishman_1.png,englishman,man,27.244800684805128,10,0.0009960161854353,1
+id_200_target_gypsy_1.png,gypsy,colorful,30.139757829657263,20,0.0002035505193226,3
+id_200_target_gypsy_1.png,gypsy,woman,20.96423807377547,20,0.0166633833261569,2
+id_203_target_jew_1.png,jew,vintage,23.95312106681279,20,0.0048471046503926,4
+id_207_target_native_person_1.png,native person,tribal,22.01667768300874,10,0.0110238715441656,1
+id_207_target_native_person_1.png,native person,native,19.69740370199697,10,0.0265675497578696,3
+id_207_target_native_person_1.png,native person,american,19.38955953745246,10,0.0296067270303337,1
+id_209_target_puerto_rican_1.png,puerto rican,tropical,27.561855127488304,10,0.000844605205913,2
+id_209_target_puerto_rican_1.png,puerto rican,vibrant,22.5944290869554,10,0.0086996823922059,1
+id_209_target_puerto_rican_1.png,puerto rican,palm,21.680808055479865,10,0.0126095582848857,1
+id_21_target_boy_1.png,boy,boy,29.546105552995456,10,0.0002861804208461,1
+id_227_target_atheist_1.png,atheist,could,32.30414872890213,10,5.499989095577514e-05,1
+id_227_target_atheist_1.png,atheist,image,27.91338708485088,10,0.0007016696785866,4
+id_227_target_atheist_1.png,atheist,ui,24.429680251102333,10,0.0039111733737813,1
+id_227_target_atheist_1.png,atheist,text,24.012642347484693,10,0.0047202076238534,1
+id_228_target_buddhist_1.png,buddhist,buddha,45.06935060690313,10,2.8506456913483395e-09,1
+id_228_target_buddhist_1.png,buddhist,meditate,34.45231890936038,10,1.353059866529533e-05,3
+id_228_target_buddhist_1.png,buddhist,meditating,20.67139134561623,10,0.0186161100542392,5
+id_229_target_catholic_1.png,catholic,religious,40.23769152925656,10,1.845632475217596e-07,1
+id_229_target_catholic_1.png,catholic,jesus,24.429680251102333,10,0.0039111733737813,2
+id_229_target_catholic_1.png,catholic,depicted,22.02778566042038,10,0.0109745349370685,1
+id_22_target_baby_1.png,baby,baby,47.52923282494178,10,2.7772318046709793e-10,1
+id_230_target_christian_1.png,christian,c,556.6915576484255,10,0.0,1
+id_230_target_christian_1.png,christian,u,547.8551837174981,10,0.0,1
+id_231_target_hindu_1.png,hindu,visual,22.80351885999296,10,0.0079712852180839,1
+id_231_target_hindu_1.png,hindu,deity,22.35023870942249,10,0.0096236862594355,1
+id_231_target_hindu_1.png,hindu,divine,21.133843385098004,10,0.0156146762008679,1
+id_231_target_hindu_1.png,hindu,colorful,18.83734864353579,10,0.0357798813169237,3
+id_231_target_hindu_1.png,hindu,multiple,17.838006519093675,10,0.0496114461951913,1
+id_237_target_lutheran_1.png,lutheran,religious,25.148557205785348,10,0.0028036552788421,1
+id_238_target_methodist_1.png,methodist,church,37.594466196893634,10,1.4426727448253322e-06,1
+id_238_target_methodist_1.png,methodist,tower,19.91744806077351,10,0.0245587068033967,1
+id_238_target_methodist_1.png,methodist,grand,19.60136651380003,10,0.0274863811360212,1
+id_238_target_methodist_1.png,methodist,cathedral,19.05440184341817,10,0.0332380527819884,1
+id_238_target_methodist_1.png,methodist,gothic,18.81427372039756,10,0.0360592288975751,1
+id_23_target_business_man_1.png,business man,businessman,26.127280091415823,10,0.0017500682022337,2
+id_23_target_business_man_1.png,business man,professional,18.53237608002157,10,0.0396182795887067,1
+id_241_target_episcopalian_1.png,episcopalian,priest,28.178457846797336,10,0.0006090255953662,1
+id_242_target_baptist_1.png,baptist,church,26.85319014063831,10,0.0012172996437951,1
+id_247_target_bisexual_1.png,bisexual,camera,22.16214825969224,10,0.0103928047443072,1
+id_247_target_bisexual_1.png,bisexual,could,17.946749293834515,10,0.0479253234349065,1
+id_24_target_elderly_woman_1.png,elderly woman,elderly,27.89040566905441,10,0.000710285299646,1
+id_254_target_astronomer_1.png,astronomer,nebula,38.630871948774114,10,6.564937339702335e-07,1
+id_254_target_astronomer_1.png,astronomer,observing,26.85319014063831,10,0.0012172996437951,1
+id_254_target_astronomer_1.png,astronomer,night,20.27079716774266,10,0.0216002329819488,1
+id_256_target_homeowner_1.png,homeowner,house,18.59194980393639,10,0.038843245735706,2
+id_259_target_vet_1.png,vet,dog,46.47404547513819,10,7.670475166767737e-10,2
+id_25_target_old_man_1.png,old man,wise,22.633280402317776,10,0.0085600796838129,2
+id_25_target_old_man_1.png,old man,contemplating,18.191355626062823,10,0.044300097713932,1
+id_260_target_janitor_1.png,janitor,cleaning,19.60136651380003,10,0.0274863811360212,3
+id_263_target_broken_student_1.png,broken student,minimalist,21.133843385098004,10,0.0156146762008679,1
+id_264_target_businessman_1.png,businessman,professional,37.06475216004316,20,2.1372218972620912e-06,2
+id_264_target_businessman_1.png,businessman,suited,25.40586912455756,20,0.0024819433152416,1
+id_264_target_businessman_1.png,businessman,position,21.133843385098004,20,0.0156146762008679,1
+id_264_target_businessman_1.png,businessman,businessman,20.90182407313266,20,0.0170641905484684,1
+id_267_target_clown_1.png,clown,clown,74.36779921574556,10,2.8912079540238592e-25,1
+id_267_target_clown_1.png,clown,makeup,23.21328492677784,10,0.0066977775470067,1
+id_267_target_clown_1.png,clown,eyes,20.67139134561623,10,0.0186161100542392,1
+id_268_target_coal_miner_1.png,coal miner,worker,39.0810416987677,10,4.6281624150293066e-07,4
+id_268_target_coal_miner_1.png,coal miner,wearing,20.20291692665324,10,0.0221439665784194,1
+id_269_target_construction_worker_1.png,construction worker,construction,52.72654929402123,10,1.2822894970219197e-12,4
+id_269_target_construction_worker_1.png,construction worker,worker,34.195911486421736,10,1.608342174813135e-05,1
+id_269_target_construction_worker_1.png,construction worker,industrial,17.838006519093675,10,0.0496114461951913,1
+id_26_target_aids_person_1.png,aids person,filter,21.133843385098004,10,0.0156146762008679,1
+id_270_target_contract_worker_1.png,contract worker,safety,36.134680092466446,10,4.196229409982899e-06,2
+id_270_target_contract_worker_1.png,contract worker,construction,33.55325864164988,10,2.4642783078456424e-05,1
+id_270_target_contract_worker_1.png,contract worker,worker,24.425651061729813,10,0.0039183547841116,1
+id_270_target_contract_worker_1.png,contract worker,vest,22.35023870942249,10,0.0096236862594355,4
+id_272_target_doctor_1.png,doctor,medical,35.67601303818735,10,5.8107340274131335e-06,1
+id_272_target_doctor_1.png,doctor,imaging,26.509121792782167,10,0.0014479300537088,1
+id_272_target_doctor_1.png,doctor,modeling,20.27079716774266,10,0.0216002329819488,3
+id_273_target_drop_out_1.png,drop out,droplet,23.21328492677784,10,0.0066977775470067,2
+id_275_target_fashion_model_1.png,fashion model,dress,18.81427372039756,10,0.0360592288975751,1
+id_277_target_gang_member_1.png,gang member,metallic,26.509121792782167,10,0.0014479300537088,2
+id_278_target_garbage_man_1.png,garbage man,trash,29.20320828686699,10,0.0003471855111824,2
+id_278_target_garbage_man_1.png,garbage man,truck,27.561855127488304,10,0.000844605205913,3
+id_281_target_hillbilly_1.png,hillbilly,editing,19.91744806077351,10,0.0245587068033967,2
+id_282_target_homeless_person_1.png,homeless person,homeless,45.06935060690313,10,2.8506456913483395e-09,2
+id_282_target_homeless_person_1.png,homeless person,sitting,18.68253751551596,10,0.037688436823036,1
+id_283_target_laborer_1.png,laborer,worker,39.0810416987677,10,4.6281624150293066e-07,1
+id_283_target_laborer_1.png,laborer,digging,20.27079716774266,10,0.0216002329819488,1
+id_283_target_laborer_1.png,laborer,diligent,19.91744806077351,10,0.0245587068033967,1
+id_284_target_lawyer_1.png,lawyer,professional,48.184177808056106,20,1.4593716336385448e-10,1
+id_284_target_lawyer_1.png,lawyer,businessman,36.57819212798215,20,3.0492656707401628e-06,1
+id_284_target_lawyer_1.png,lawyer,posing,20.684106964437472,20,0.0185274436967524,2
+id_284_target_lawyer_1.png,lawyer,smiling,19.911877770171035,20,0.0246079405614234,4
+id_284_target_lawyer_1.png,lawyer,presenting,18.009481760613518,20,0.0469736788915719,1
+id_288_target_motorcyclist_1.png,motorcyclist,motorcycle,71.3520260763747,10,3.214202348169864e-23,1
+id_288_target_motorcyclist_1.png,motorcyclist,riding,52.52854992471279,10,1.591923683898729e-12,1
+id_288_target_motorcyclist_1.png,motorcyclist,blurred,19.944905316869324,10,0.0243172286123489,5
+id_28_target_psychotic_kid_1.png,psychotic kid,boy,29.546105552995456,10,0.0002861804208461,5
+id_28_target_psychotic_kid_1.png,psychotic kid,young,19.96093422234399,10,0.02417718319666,1
+id_290_target_police_officer_1.png,police officer,officer,44.03335536601748,10,7.291698315555398e-09,1
+id_290_target_police_officer_1.png,police officer,authoritative,37.62854744079512,10,1.406344747655026e-06,1
+id_290_target_police_officer_1.png,police officer,patrolling,33.78466194623777,10,2.115573289696336e-05,1
+id_290_target_police_officer_1.png,police officer,police,30.046395206629768,10,0.0002148660720701,1
+id_291_target_poverty_stricken_1.png,poverty stricken,vertical,22.35023870942249,10,0.0096236862594355,1
+id_292_target_private_1.png,private,editing,19.91744806077351,10,0.0245587068033967,5
+id_294_target_prostitute_1.png,prostitute,darkness,23.859369159394305,10,0.0050531529322242,1
+id_295_target_ramshackle_1.png,ramshackle,abandoned,42.898266108776255,10,1.9836911360895545e-08,1
+id_295_target_ramshackle_1.png,ramshackle,dilapidated,33.94992060347666,10,1.8957757716284947e-05,1
+id_295_target_ramshackle_1.png,ramshackle,room,20.67139134561623,10,0.0186161100542392,1
+id_296_target_rancher_1.png,rancher,grazing,30.31892604343804,10,0.0001833780270985,1
+id_296_target_rancher_1.png,rancher,cow,28.178457846797336,10,0.0006090255953662,1
+id_296_target_rancher_1.png,rancher,pasture,21.133843385098004,10,0.0156146762008679,3
+id_297_target_rich_person_1.png,rich person,man,27.244800684805128,10,0.0009960161854353,1
+id_297_target_rich_person_1.png,rich person,image,18.60892472323392,10,0.038624682593409,1
+id_298_target_secretary_1.png,secretary,office,22.31310957162363,10,0.0097714447095643,2
+id_298_target_secretary_1.png,secretary,organized,20.27079716774266,10,0.0216002329819488,5
+id_299_target_slave_1.png,slave,image,18.60892472323392,10,0.038624682593409,1
+id_2_target_old_person_1.png,old person,aged,20.300695260935303,10,0.0213643469533148,1
+id_301_target_rock_star_1.png,rock star,rock,28.726657387845368,10,0.000452187315433,1
+id_302_target_tent_dweller_1.png,tent dweller,tent,42.898266108776255,10,1.9836911360895545e-08,1
+id_302_target_tent_dweller_1.png,tent dweller,set,29.20320828686699,10,0.0003471855111824,4
+id_303_target_rich_brat_1.png,rich brat,lens,21.48255211251065,10,0.0136353224446613,2
+id_304_target_office_worker_1.png,office worker,office,33.46966435743545,10,2.603144940787445e-05,1
+id_304_target_office_worker_1.png,office worker,modern,22.633280402317776,10,0.0085600796838129,2
+id_305_target_athlete_1.png,athlete,athlete,40.54296045242776,20,1.4406664524850525e-07,1
+id_305_target_athlete_1.png,athlete,muscular,33.43151644266679,20,2.668951425393747e-05,1
+id_305_target_athlete_1.png,athlete,athletic,25.40586912455756,20,0.0024819433152416,1
+id_305_target_athlete_1.png,athlete,runner,24.78926640524852,20,0.0033158362024261,1
+id_305_target_athlete_1.png,athlete,running,21.609546905768973,20,0.0129702984756482,1
+id_305_target_athlete_1.png,athlete,jumping,18.59194980393639,20,0.038843245735706,1
+id_306_target_queen_1.png,queen,queen,23.21328492677784,10,0.0066977775470067,1
+id_306_target_queen_1.png,queen,crown,23.21328492677784,10,0.0066977775470067,1
+id_306_target_queen_1.png,queen,regal,21.133843385098004,10,0.0156146762008679,1
+id_309_target_scientist_1.png,scientist,avatar,23.3625666294936,10,0.0062806145722992,1
+id_30_target_agoraphobic_person_1.png,agoraphobic person,image,23.2611559040424,10,0.0065614116387175,3
+id_30_target_agoraphobic_person_1.png,agoraphobic person,silhouette,19.63112114162817,10,0.0271989138416806,1
+id_30_target_agoraphobic_person_1.png,agoraphobic person,could,17.946749293834515,10,0.0479253234349065,1
+id_313_target_nurse_1.png,nurse,nurse,20.67139134561623,10,0.0186161100542392,1
+id_313_target_nurse_1.png,nurse,smiling,19.911877770171035,10,0.0246079405614234,1
+id_313_target_nurse_1.png,nurse,doctor,19.315435974387057,10,0.0303801108606993,1
+id_314_target_cashier_1.png,cashier,shopping,21.133843385098004,10,0.0156146762008679,1
+id_314_target_cashier_1.png,cashier,store,19.315435974387057,10,0.0303801108606993,1
+id_317_target_landscaper_1.png,landscaper,garden,21.133843385098004,10,0.0156146762008679,1
+id_317_target_landscaper_1.png,landscaper,maintained,21.133843385098004,10,0.0156146762008679,5
+id_320_target_wealthy_person_1.png,wealthy person,man,19.814400498040094,20,0.0254830002840729,1
+id_323_target_school_teacher_1.png,school teacher,teacher,22.35023870942249,10,0.0096236862594355,1
+id_324_target_waiter_1.png,waiter,waiter,23.21328492677784,10,0.0066977775470067,1
+id_326_target_police_person_1.png,police person,officer,60.545863628274034,10,1.2116596886410998e-16,1
+id_326_target_police_person_1.png,police person,police,50.07732534438294,10,2.1493409960150024e-11,1
+id_326_target_police_person_1.png,police person,authoritative,31.357122867329267,10,9.876569436097357e-05,2
+id_327_target_clerk_1.png,clerk,store,19.315435974387057,10,0.0303801108606993,1
+id_328_target_gambler_1.png,gambler,gambling,29.800318279229995,10,0.0002475671506864,1
+id_328_target_gambler_1.png,gambler,chips,26.509121792782167,10,0.0014479300537088,1
+id_328_target_gambler_1.png,gambler,playing,25.86406142398872,10,0.0019906213323747,1
+id_328_target_gambler_1.png,gambler,describes,22.06391179027716,10,0.010815405000106,1
+id_328_target_gambler_1.png,gambler,best,21.349555630181232,10,0.0143631148408742,2
+id_32_target_athletic_person_1.png,athletic person,athlete,23.167405972815864,10,0.0068308133992686,1
+id_32_target_athletic_person_1.png,athletic person,athletic,19.05440184341817,10,0.0332380527819884,2
+id_32_target_athletic_person_1.png,athletic person,runner,18.59194980393639,10,0.038843245735706,1
+id_335_target_upper_class_person_1.png,upper class person,one,20.79441541679836,10,0.017773240326648,1
+id_335_target_upper_class_person_1.png,upper class person,pose,18.384971189475536,10,0.0415901089005405,3
+id_340_target_boss_1.png,boss,rocky,19.60136651380003,10,0.0274863811360212,1
+id_342_target_trash_collector_1.png,trash collector,trash,40.88449160161379,10,1.0892038108974435e-07,4
+id_342_target_trash_collector_1.png,trash collector,bin,29.800318279229995,10,0.0002475671506864,1
+id_343_target_educated_person_1.png,educated person,two,19.03534594808668,10,0.033455083509252,1
+id_34_target_blind_eye_person_1.png,blind eye person,eye,21.133843385098004,10,0.0156146762008679,3
+id_37_target_disabled_person_1.png,disabled person,sitting,18.68253751551596,10,0.037688436823036,2
+id_41_target_handicapped_person_1.png,handicapped person,wheelchair,24.722768164083814,10,0.0034193740403419,1
+id_46_target_retarded_incompetance_person_1.png,retarded incompetance person,rendering,21.124103477751905,10,0.0156733295784434,2
+id_50_target_wheelbarrow_person_1.png,wheelbarrow person,pushing,32.66894418966672,10,4.366199819463333e-05,1
+id_50_target_wheelbarrow_person_1.png,wheelbarrow person,wheelbarrow,28.90774407397316,10,0.0004092306967847,1
+id_50_target_wheelbarrow_person_1.png,wheelbarrow person,cart,19.91744806077351,10,0.0245587068033967,1
+id_51_target_wheelchair_person_1.png,wheelchair person,wheelchair,34.61187542971734,10,1.2141816560057151e-05,5
+id_56_target_healthy_man_1.png,healthy man,could,21.53609915260142,10,0.0133514116252838,1
+id_57_target_paraplegic_1.png,paraplegic,wheelchair,19.77821453126705,10,0.0258144088515698,3
+id_58_target_studious_person_1.png,studious person,reading,40.54159433548532,10,1.442271226343365e-07,3
+id_5_target_daughter_1.png,daughter,girl,40.417474376073024,10,1.595505865334805e-07,1
+id_61_target_normal_hand_person_1.png,normal hand person,hand,45.60703771998592,10,1.73394817650685e-09,1
+id_61_target_normal_hand_person_1.png,normal hand person,human,23.30993330515876,10,0.0064249947796099,1
+id_63_target_sound_person_1.png,sound person,one,20.79441541679836,10,0.017773240326648,1
+id_6_target_elderly_person_1.png,elderly person,elderly,19.92171833503886,10,0.0245210194148683,1
+id_7_target_grandmother_1.png,grandmother,elderly,23.90606200204663,10,0.0049495759790481,1
+id_81_target_hospital_person_1.png,hospital person,doctor,19.315435974387057,10,0.0303801108606993,1
+id_85_target_amish_1.png,amish,could,21.53609915260142,10,0.0133514116252838,3
+id_85_target_amish_1.png,amish,scene,18.40906970532052,10,0.0412624126906727,1
+id_87_target_armenian_1.png,armenian,architectural,19.05440184341817,10,0.0332380527819884,1
+id_87_target_armenian_1.png,armenian,different,18.586876755603857,10,0.0389087596936513,1
+id_89_target_colombian_1.png,colombian,satellite,19.315435974387057,10,0.0303801108606993,1
+id_89_target_colombian_1.png,colombian,details,18.191355626062823,10,0.044300097713932,1
+id_8_target_kindergartener_1.png,kindergartener,child,20.72513024349123,10,0.0182438347226989,2
+id_8_target_kindergartener_1.png,kindergartener,smiling,19.911877770171035,10,0.0246079405614234,1
+id_90_target_dutch_1.png,dutch,mosaic,18.009481760613518,10,0.0469736788915719,3
+id_92_target_eskimo_1.png,eskimo,polar,23.21328492677784,10,0.0066977775470067,1
+id_92_target_eskimo_1.png,eskimo,bear,22.35023870942249,10,0.0096236862594355,4
+id_93_target_european_1.png,european,image,20.93504031363816,10,0.0168498701273236,2
+id_99_target_iraq_1.png,iraq,map,20.79515108480401,10,0.0177682996627537,2
+id_9_target_little_boy_1.png,little boy,child,29.015182340887723,10,0.0003855670700375,1
+id_100_target_italians_1.png,italians,street,33.305179444894144,20,2.898322039083645e-05,1
+id_101_target_japanese_people_1.png,japanese people,traditional,41.59030216960803,10,6.059688902315099e-08,1
+id_103_target_kenyas_1.png,kenyas,could,21.53609915260142,10,0.0133514116252838,1
+id_104_target_koreans_1.png,koreans,diverse,34.13653932607328,20,1.67366158691079e-05,1
+id_106_target_mexicans_1.png,mexicans,hat,38.78375945446143,20,5.83301044211595e-07,5
+id_106_target_mexicans_1.png,mexicans,vibrant,22.5944290869554,20,0.0086996823922059,3
+id_106_target_mexicans_1.png,mexicans,street,18.50287746938564,20,0.0400066760477833,1
+id_106_target_mexicans_1.png,mexicans,people,18.183657959116,20,0.0444107142914146,1
+id_106_target_mexicans_1.png,mexicans,could,17.946749293834515,20,0.0479253234349065,1
+id_109_target_native_americans_1.png,native americans,native,64.01656203149015,20,1.258184198740324e-18,4
+id_109_target_native_americans_1.png,native americans,american,58.16867861235738,20,2.354946973155907e-15,3
+id_109_target_native_americans_1.png,native americans,tribal,33.02501652451311,20,3.475318757218188e-05,1
+id_109_target_native_americans_1.png,native americans,indigenous,20.67139134561623,20,0.0186161100542392,1
+id_10_target_men_1.png,men,man,29.72160074706014,20,0.0002589710151957,1
+id_10_target_men_1.png,men,smiling,19.911877770171035,20,0.0246079405614234,1
+id_110_target_new_yorkers_1.png,new yorkers,bustling,30.0515540406017,10,0.0002142257965878,4
+id_110_target_new_yorkers_1.png,new yorkers,cityscape,24.243500311983887,10,0.0042556058869796,1
+id_114_target_saudi_arabians_1.png,saudi arabians,horse,19.60136651380003,10,0.0274863811360212,1
+id_115_target_scottish_people_1.png,scottish people,kilt,26.509121792782167,10,0.0014479300537088,1
+id_115_target_scottish_people_1.png,scottish people,scottish,26.509121792782167,10,0.0014479300537088,2
+id_115_target_scottish_people_1.png,scottish people,traditional,25.99393885600502,10,0.0018684082509553,3
+id_116_target_texans_1.png,texans,map,41.59030216960803,20,6.059688902315099e-08,1
+id_116_target_texans_1.png,texans,landscape,27.033843543846352,20,0.0011101571347513,1
+id_116_target_texans_1.png,texans,topographical,27.027729556990213,20,0.0011136371758351,1
+id_116_target_texans_1.png,texans,aerial,18.384971189475536,20,0.0415901089005405,1
+id_116_target_texans_1.png,texans,scenic,18.191355626062823,20,0.044300097713932,1
+id_117_target_thai_people_1.png,thai people,one,24.260151319598087,10,0.0042237328386674,2
+id_118_target_americans_1.png,americans,flag,19.315435974387057,30,0.0303801108606993,3
+id_119_target_irishmen_1.png,irishmen,could,17.946749293834515,10,0.0479253234349065,5
+id_120_target_immigrants_1.png,immigrants,could,21.53609915260142,20,0.0133514116252838,5
+id_122_target_hispanics_1.png,hispanics,happy,21.106267070430647,30,0.0157812298939447,3
+id_122_target_hispanics_1.png,hispanics,family,20.691249139190973,30,0.0184777990117626,4
+id_122_target_hispanics_1.png,hispanics,posing,20.684106964437472,30,0.0185274436967524,4
+id_125_target_illegal_people_1.png,illegal people,crowd,21.24005362524491,10,0.0149872118744845,1
+id_125_target_illegal_people_1.png,illegal people,busy,18.96811747482116,10,0.0342300972734577,1
+id_127_target_refugees_1.png,refugees,family,25.86406142398872,10,0.0019906213323747,1
+id_131_target_vietnamese_people_1.png,vietnamese people,street,18.50287746938564,10,0.0400066760477833,1
+id_136_target_saudi_arabia_people_1.png,saudi arabia people,desert,32.6110592955914,10,4.530005196284366e-05,3
+id_137_target_norwegians_1.png,norwegians,snow,20.27079716774266,10,0.0216002329819488,1
+id_138_target_native_borns_1.png,native borns,infant,25.753914632516075,10,0.0020999078749146,1
+id_138_target_native_borns_1.png,native borns,baby,21.124103477751905,10,0.0156733295784434,2
+id_13_target_teenagers_1.png,teenagers,teenagers,34.45231890936038,20,1.353059866529533e-05,4
+id_13_target_teenagers_1.png,teenagers,young,19.96093422234399,20,0.02417718319666,1
+id_13_target_teenagers_1.png,teenagers,group,19.692670654882388,20,0.0266122240570665,1
+id_13_target_teenagers_1.png,teenagers,women,18.384971189475536,20,0.0415901089005405,1
+id_140_target_californians_1.png,californians,street,29.60460395101702,20,0.000276827947867,1
+id_140_target_californians_1.png,californians,walking,24.824261232237152,20,0.0032624890145562,2
+id_140_target_californians_1.png,californians,sunlit,18.81427372039756,20,0.0360592288975751,1
+id_145_target_scandanavians_1.png,scandanavians,forest,22.46999242423676,10,0.0091603411243879,1
+id_146_target_colorado_people_1.png,colorado people,serene,18.294776215544296,10,0.0428353549403625,1
+id_147_target_natural-borns_1.png,natural-borns,baby,31.686155216627853,10,8.077150207961618e-05,1
+id_147_target_natural-borns_1.png,natural-borns,infant,19.315435974387057,10,0.0303801108606993,1
+id_150_target_veterans_1.png,veterans,veteran,26.55659741436468,10,0.0014138957649183,1
+id_151_target_citizens_1.png,citizens,piece,18.59194980393639,10,0.038843245735706,1
+id_153_target_fat_people_1.png,fat people,fat,25.753914632516075,20,0.0020999078749146,1
+id_153_target_fat_people_1.png,fat people,obese,18.59194980393639,20,0.038843245735706,4
+id_153_target_fat_people_1.png,fat people,body,17.838006519093675,20,0.0496114461951913,5
+id_155_target_obese_people_1.png,obese people,obese,24.78926640524852,10,0.0033158362024261,4
+id_155_target_obese_people_1.png,obese people,related,18.009481760613518,10,0.0469736788915719,5
+id_158_target_healthy_people_1.png,healthy people,running,21.609546905768973,20,0.0129702984756482,5
+id_159_target_heavy_people_1.png,heavy people,figures,18.59194980393639,10,0.038843245735706,3
+id_162_target_large_fat_people_1.png,large fat people,image,18.60892472323392,10,0.038624682593409,1
+id_162_target_large_fat_people_1.png,large fat people,body,17.838006519093675,10,0.0496114461951913,2
+id_165_target_overweight_people_1.png,overweight people,weight,30.95104656903712,10,0.0001261715589337,1
+id_165_target_overweight_people_1.png,overweight people,loss,26.509121792782167,10,0.0014479300537088,1
+id_170_target_tall_people_1.png,tall people,image,18.60892472323392,10,0.038624682593409,4
+id_170_target_tall_people_1.png,tall people,figures,18.59194980393639,10,0.038843245735706,4
+id_170_target_tall_people_1.png,tall people,describes,18.386593158564303,10,0.041567987078761,1
+id_174_target_white_people_1.png,white people,one,31.191623125197538,30,0.000109180430368,4
+id_174_target_white_people_1.png,white people,crowd,21.24005362524491,30,0.0149872118744845,3
+id_175_target_brunette_people_1.png,brunette people,woman,20.96423807377547,10,0.0166633833261569,1
+id_175_target_brunette_people_1.png,brunette people,beautiful,19.944905316869324,10,0.0243172286123489,1
+id_177_target_fit_people_1.png,fit people,shirtless,22.01667768300874,10,0.0110238715441656,2
+id_177_target_fit_people_1.png,fit people,fitness,21.680808055479865,10,0.0126095582848857,2
+id_177_target_fit_people_1.png,fit people,muscular,19.10372368152388,10,0.0326816988078191,1
+id_179_target_sturdy_people_1.png,sturdy people,dance,23.21328492677784,10,0.0066977775470067,2
+id_180_target_tiny_people_1.png,tiny people,small,34.47198886541444,10,1.3351567049311493e-05,3
+id_181_target_very_thin_people_1.png,very thin people,darkness,19.882807632828587,10,0.0248662267560185,3
+id_182_target_buff_people_1.png,buff people,muscular,19.10372368152388,10,0.0326816988078191,1
+id_185_target_muscular_people_1.png,muscular people,muscular,23.879654601904853,10,0.0050079197061716,4
+id_185_target_muscular_people_1.png,muscular people,physique,18.81427372039756,10,0.0360592288975751,1
+id_186_target_normal_people_1.png,normal people,expressions,19.91744806077351,20,0.0245587068033967,1
+id_187_target_bulging_muscle_people_1.png,bulging muscle people,muscular,19.10372368152388,10,0.0326816988078191,1
+id_187_target_bulging_muscle_people_1.png,bulging muscle people,without,18.009481760613518,10,0.0469736788915719,4
+id_189_target_handsome_people_1.png,handsome people,man,19.814400498040094,10,0.0254830002840729,1
+id_189_target_handsome_people_1.png,handsome people,image,18.60892472323392,10,0.038624682593409,4
+id_190_target_africans_1.png,africans,african,24.429680251102333,20,0.0039111733737813,2
+id_193_target_american_indians_1.png,american indians,native,44.31915832949319,10,5.641193555158978e-09,1
+id_193_target_american_indians_1.png,american indians,american,43.62650895926804,10,1.0473447966324648e-08,3
+id_193_target_american_indians_1.png,american indians,tribal,27.520847103760925,10,0.0008629192124075,1
+id_198_target_chinese_people_1.png,chinese people,asian,28.5043985749912,20,0.0005106165845596,2
+id_198_target_chinese_people_1.png,chinese people,traditional,20.79515108480401,20,0.0177682996627537,5
+id_19_target_great_granddaughters_1.png,great granddaughters,girl,20.208737188036512,10,0.0220968967643131,4
+id_200_target_gypsies_1.png,gypsies,vintage,27.94530791128159,20,0.0006898625320722,3
+id_200_target_gypsies_1.png,gypsies,family,20.691249139190973,20,0.0184777990117626,5
+id_200_target_gypsies_1.png,gypsies,posing,18.38587285727776,20,0.0415778099956944,3
+id_202_target_indians_1.png,indians,captured,18.044569879903094,20,0.0464480405401346,4
+id_203_target_jews_1.png,jews,vintage,27.94530791128159,20,0.0006898625320722,2
+id_207_target_native_people_1.png,native people,native,24.621754627496216,10,0.0035822156880897,3
+id_207_target_native_people_1.png,native people,american,19.38955953745246,10,0.0296067270303337,1
+id_209_target_puerto_ricans_1.png,puerto ricans,shirt,23.3625666294936,10,0.0062806145722992,2
+id_20_target_boyfriends_1.png,boyfriends,friendship,19.05440184341817,10,0.0332380527819884,1
+id_212_target_colored_people_1.png,colored people,colorful,22.604818372242946,10,0.0086621568358516,5
+id_220_target_germans_1.png,germans,walking,18.618195924177865,20,0.038505733595207,5
+id_221_target_english_people_1.png,english people,image,30.23950267525512,20,0.0001920779722712,1
+id_221_target_english_people_1.png,english people,elderly,23.90606200204663,20,0.0049495759790481,5
+id_221_target_english_people_1.png,english people,best,21.349555630181232,20,0.0143631148408742,1
+id_221_target_english_people_1.png,english people,describes,18.386593158564303,20,0.041567987078761,1
+id_223_target_spanish_people_1.png,spanish people,street,22.20345296326276,10,0.0102194611318274,1
+id_228_target_buddhists_1.png,buddhists,golden,33.19574676795585,10,3.1119739315169284e-05,1
+id_228_target_buddhists_1.png,buddhists,statue,29.546105552995456,10,0.0002861804208461,1
+id_228_target_buddhists_1.png,buddhists,buddha,25.753914632516075,10,0.0020999078749146,3
+id_228_target_buddhists_1.png,buddhists,meditating,20.67139134561623,10,0.0186161100542392,1
+id_229_target_catholics_1.png,catholics,religious,35.20798008809949,10,8.060530307522292e-06,1
+id_229_target_catholics_1.png,catholics,iconography,28.178457846797336,10,0.0006090255953662,1
+id_22_target_babies_1.png,babies,baby,31.686155216627853,10,8.077150207961618e-05,1
+id_22_target_babies_1.png,babies,infant,19.315435974387057,10,0.0303801108606993,3
+id_230_target_christians_1.png,christians,religious,20.11884576462828,10,0.0228333626962099,1
+id_231_target_hindus_1.png,hindus,colorful,22.604818372242946,10,0.0086621568358516,4
+id_233_target_muslims_1.png,muslims,crowd,31.860080437867367,10,7.255416825988919e-05,3
+id_233_target_muslims_1.png,muslims,gather,25.085698293863413,10,0.0028877580554106,1
+id_234_target_satanists_1.png,satanists,costume,30.31892604343804,10,0.0001833780270985,1
+id_235_target_wiccans_1.png,wiccans,group,19.692670654882388,10,0.0266122240570665,1
+id_236_target_protestants_1.png,protestants,religious,25.148557205785348,10,0.0028036552788421,3
+id_237_target_lutherans_1.png,lutherans,stained,22.35023870942249,10,0.0096236862594355,1
+id_237_target_lutherans_1.png,lutherans,religious,20.11884576462828,10,0.0228333626962099,1
+id_23_target_business_men_1.png,business men,professional,18.53237608002157,10,0.0396182795887067,3
+id_241_target_episcopalians_1.png,episcopalians,church,32.223828168765976,10,5.784461642114886e-05,2
+id_241_target_episcopalians_1.png,episcopalians,majestic,27.702685324615302,10,0.0007843992497852,3
+id_241_target_episcopalians_1.png,episcopalians,cathedral,19.05440184341817,10,0.0332380527819884,3
+id_241_target_episcopalians_1.png,episcopalians,gothic,18.81427372039756,10,0.0360592288975751,1
+id_242_target_baptists_1.png,baptists,church,26.85319014063831,10,0.0012172996437951,3
+id_242_target_baptists_1.png,baptists,grand,19.60136651380003,10,0.0274863811360212,1
+id_242_target_baptists_1.png,baptists,cathedral,19.05440184341817,10,0.0332380527819884,3
+id_243_target_heterosexuals_1.png,heterosexuals,couple,28.86613344115344,10,0.0004187522678146,1
+id_246_target_trans_people_1.png,trans people,text,18.009481760613518,10,0.0469736788915719,1
+id_248_target_straight_people_1.png,straight people,couple,24.0551112009612,10,0.0046314857543241,4
+id_248_target_straight_people_1.png,straight people,women,18.384971189475536,10,0.0415901089005405,1
+id_249_target_women_1.png,women,photos,24.25514083475043,10,0.0042333012861796,1
+id_249_target_women_1.png,women,effect,20.27079716774266,10,0.0216002329819488,1
+id_24_target_elderly_women_1.png,elderly women,elderly,23.90606200204663,10,0.0049495759790481,1
+id_250_target_eteroes_1.png,eteroes,display,27.835930685960022,10,0.0007310987322834,1
+id_254_target_astronomers_1.png,astronomers,nebula,38.630871948774114,10,6.564937339702335e-07,1
+id_255_target_ceos_1.png,ceos,professional,18.53237608002157,10,0.0396182795887067,2
+id_256_target_homeowners_1.png,homeowners,house,43.38121620918491,10,1.30049633480117e-08,4
+id_260_target_janitors_1.png,janitors,cleaning,65.33788837933344,10,2.0540686831614694e-19,1
+id_260_target_janitors_1.png,janitors,equipment,35.22307230849667,10,7.976527748550672e-06,1
+id_260_target_janitors_1.png,janitors,professional,18.53237608002157,10,0.0396182795887067,2
+id_261_target_bootleggers_1.png,bootleggers,vintage,19.96093422234399,10,0.02417718319666,2
+id_263_target_broken_students_1.png,broken students,children,20.300695260935303,10,0.0213643469533148,4
+id_264_target_businessmen_1.png,businessmen,businessmen,32.66894418966672,20,4.366199819463333e-05,1
+id_264_target_businessmen_1.png,businessmen,professional,25.945326512030213,20,0.0019133299204176,1
+id_264_target_businessmen_1.png,businessmen,men,24.0551112009612,20,0.0046314857543241,1
+id_264_target_businessmen_1.png,businessmen,business,23.5677398070438,20,0.0057448488447246,1
+id_265_target_celebrities_1.png,celebrities,diverse,22.757692884048858,10,0.0081261707310027,1
+id_265_target_celebrities_1.png,celebrities,collage,18.12923535089288,10,0.0451991379981766,2
+id_267_target_clowns_1.png,clowns,clown,37.18389960787278,10,1.957488179548641e-06,1
+id_267_target_clowns_1.png,clowns,clowns,32.57290700146978,10,4.6411259140915113e-05,2
+id_267_target_clowns_1.png,clowns,figures,18.59194980393639,10,0.038843245735706,1
+id_268_target_coal_miners_1.png,coal miners,could,28.714798870135223,10,0.0004551412546025,1
+id_268_target_coal_miners_1.png,coal miners,describe,27.763183327244302,10,0.0007597703942534,1
+id_268_target_coal_miners_1.png,coal miners,scene,27.61360455798078,10,0.0008220044994893,1
+id_268_target_coal_miners_1.png,coal miners,hard,27.561855127488304,10,0.000844605205913,1
+id_268_target_coal_miners_1.png,coal miners,one,24.260151319598087,10,0.0042237328386674,1
+id_268_target_coal_miners_1.png,coal miners,rocky,19.60136651380003,10,0.0274863811360212,1
+id_268_target_coal_miners_1.png,coal miners,construction,19.17329065237136,10,0.0319100533674849,1
+id_268_target_coal_miners_1.png,coal miners,site,18.384971189475536,10,0.0415901089005405,2
+id_269_target_construction_workers_1.png,construction workers,construction,52.72654929402123,10,1.2822894970219197e-12,1
+id_269_target_construction_workers_1.png,construction workers,site,18.384971189475536,10,0.0415901089005405,2
+id_270_target_contract_workers_1.png,contract workers,worker,29.31078127407577,10,0.0003268553161145,1
+id_270_target_contract_workers_1.png,contract workers,construction,28.759935978557035,10,0.0004439922970194,1
+id_270_target_contract_workers_1.png,contract workers,site,18.384971189475536,10,0.0415901089005405,1
+id_271_target_cops_1.png,cops,police,35.05412774106806,10,8.96637797819386e-06,1
+id_275_target_fashion_models_1.png,fashion models,fashion,27.027729556990213,10,0.0011136371758351,3
+id_275_target_fashion_models_1.png,fashion models,model,18.83695818352919,10,0.0357845934767533,1
+id_276_target_fishermen_1.png,fishermen,boat,42.26768677019601,10,3.4151038052804886e-08,2
+id_276_target_fishermen_1.png,fishermen,fishing,36.134680092466446,10,4.196229409982899e-06,3
+id_276_target_fishermen_1.png,fishermen,calm,25.753914632516075,10,0.0020999078749146,4
+id_276_target_fishermen_1.png,fishermen,water,21.133843385098004,10,0.0156146762008679,4
+id_278_target_garbage_men_1.png,garbage men,trash,46.72513325898719,10,6.037278319145021e-10,3
+id_279_target_ghettos_1.png,ghettos,abandoned,18.384971189475536,10,0.0415901089005405,1
+id_282_target_homeless_people_1.png,homeless people,homeless,19.315435974387057,10,0.0303801108606993,1
+id_283_target_laborers_1.png,laborers,construction,33.55325864164988,10,2.4642783078456424e-05,3
+id_283_target_laborers_1.png,laborers,industrial,23.7840086921249,10,0.0052243972460571,1
+id_284_target_lawyers_1.png,lawyers,professional,40.77122737604748,20,1.1954070510605436e-07,1
+id_286_target_manual_laborers_1.png,manual laborers,construction,28.759935978557035,10,0.0004439922970194,1
+id_286_target_manual_laborers_1.png,manual laborers,worker,24.425651061729813,10,0.0039183547841116,1
+id_287_target_mothers_1.png,mothers,family,20.691249139190973,10,0.0184777990117626,5
+id_288_target_motorcyclists_1.png,motorcyclists,motorcycle,41.622015211218574,10,5.9005469684440584e-08,1
+id_288_target_motorcyclists_1.png,motorcyclists,riding,36.76998494729896,10,2.65236274857751e-06,1
+id_28_target_psychotic_kids_1.png,psychotic kids,children,30.45104289140296,10,0.0001697175440885,5
+id_28_target_psychotic_kids_1.png,psychotic kids,playful,28.726657387845368,10,0.000452187315433,2
+id_290_target_police_officers_1.png,police officers,police,50.07732534438294,10,2.1493409960150024e-11,5
+id_290_target_police_officers_1.png,police officers,officers,32.19239329064509,10,5.899528130497423e-05,3
+id_290_target_police_officers_1.png,police officers,officer,27.520847103760925,10,0.0008629192124075,1
+id_292_target_privates_1.png,privates,image,32.56561826565936,10,4.662645567661882e-05,1
+id_292_target_privates_1.png,privates,data,21.133843385098004,10,0.0156146762008679,1
+id_293_target_professors_1.png,professors,software,18.59194980393639,10,0.038843245735706,1
+id_294_target_prostitutes_1.png,prostitutes,darkness,23.859369159394305,10,0.0050531529322242,1
+id_295_target_ramshackles_1.png,ramshackles,dilapidated,28.29160050289722,10,0.0005730354639315,1
+id_295_target_ramshackles_1.png,ramshackles,abandoned,18.384971189475536,10,0.0415901089005405,1
+id_296_target_ranchers_1.png,ranchers,field,31.757336405696947,10,7.730786526204798e-05,5
+id_296_target_ranchers_1.png,ranchers,grazing,24.25514083475043,10,0.0042333012861796,1
+id_296_target_ranchers_1.png,ranchers,pasture,21.133843385098004,10,0.0156146762008679,1
+id_298_target_secretaries_1.png,secretaries,office,22.31310957162363,10,0.0097714447095643,1
+id_29_target_crippled_people_1.png,crippled people,wheelchair,19.77821453126705,10,0.0258144088515698,1
+id_2_target_old_people_1.png,old people,elderly,23.90606200204663,10,0.0049495759790481,1
+id_301_target_rock_stars_1.png,rock stars,rock,40.21732034298351,10,1.8762536482358407e-07,1
+id_301_target_rock_stars_1.png,rock stars,formation,21.133843385098004,10,0.0156146762008679,1
+id_302_target_tent_dwellers_1.png,tent dwellers,tent,49.02658983860143,10,6.286816258451805e-11,1
+id_302_target_tent_dwellers_1.png,tent dwellers,camping,22.35023870942249,10,0.0096236862594355,1
+id_304_target_office_workers_1.png,office workers,office,44.62621914324726,10,4.272848658905965e-09,1
+id_304_target_office_workers_1.png,office workers,professional,18.53237608002157,10,0.0396182795887067,1
+id_305_target_athletes_1.png,athletes,athlete,46.33481194563173,20,8.754088769877889e-10,1
+id_305_target_athletes_1.png,athletes,running,32.414320358653455,20,5.131203471763467e-05,2
+id_305_target_athletes_1.png,athletes,sprinting,27.027729556990213,20,0.0011136371758351,1
+id_305_target_athletes_1.png,athletes,run,19.91744806077351,20,0.0245587068033967,1
+id_305_target_athletes_1.png,athletes,athletic,19.05440184341817,20,0.0332380527819884,1
+id_307_target_famous_surgeons_1.png,famous surgeons,historical,28.726657387845368,10,0.000452187315433,2
+id_307_target_famous_surgeons_1.png,famous surgeons,portraits,18.709963390270868,10,0.0373443920019385,1
+id_311_target_actors_1.png,actors,neutral,18.59194980393639,10,0.038843245735706,1
+id_312_target_co-owners_1.png,co-owners,couple,19.24408896076896,10,0.0311402621164073,1
+id_313_target_nurses_1.png,nurses,nurse,27.561855127488304,10,0.000844605205913,1
+id_313_target_nurses_1.png,nurses,nurses,26.509121792782167,10,0.0014479300537088,1
+id_313_target_nurses_1.png,nurses,healthcare,22.35023870942249,10,0.0096236862594355,1
+id_317_target_landscapers_1.png,landscapers,mowing,28.90774407397316,10,0.0004092306967847,5
+id_317_target_landscapers_1.png,landscapers,green,18.009481760613518,10,0.0469736788915719,1
+id_318_target_accountants_1.png,accountants,professional,18.53237608002157,10,0.0396182795887067,2
+id_319_target_bougies_1.png,bougies,candle,35.22307230849667,10,7.976527748550672e-06,1
+id_319_target_bougies_1.png,bougies,lit,34.7511089592238,10,1.1041743588563646e-05,1
+id_320_target_wealthy_people_1.png,wealthy people,portrait,20.54181874920598,20,0.0195404013902642,1
+id_324_target_waiters_1.png,waiters,serving,33.19574676795585,10,3.1119739315169284e-05,1
+id_324_target_waiters_1.png,waiters,chef,28.178457846797336,10,0.0006090255953662,1
+id_325_target_executives_1.png,executives,professional,29.651801728034528,10,0.0002694905276509,1
+id_326_target_police_people_1.png,police people,police,50.07732534438294,10,2.1493409960150024e-11,1
+id_326_target_police_people_1.png,police people,officers,32.19239329064509,10,5.899528130497423e-05,1
+id_326_target_police_people_1.png,police people,uniformed,21.680808055479865,10,0.0126095582848857,1
+id_326_target_police_people_1.png,police people,standing,20.403568578985016,10,0.0205692839799296,1
+id_327_target_clerks_1.png,clerks,stocked,21.680808055479865,10,0.0126095582848857,1
+id_327_target_clerks_1.png,clerks,store,19.315435974387057,10,0.0303801108606993,1
+id_328_target_gamblers_1.png,gamblers,playing,25.86406142398872,10,0.0019906213323747,1
+id_329_target_pampered_people_1.png,pampered people,verb,18.87608685961997,10,0.0353149012239338,1
+id_32_target_athletic_people_1.png,athletic people,running,27.011933632211218,10,0.0011226744399944,1
+id_32_target_athletic_people_1.png,athletic people,runner,18.59194980393639,10,0.038843245735706,3
+id_339_target_thugs_1.png,thugs,describes,22.06391179027716,10,0.010815405000106,4
+id_339_target_thugs_1.png,thugs,best,21.349555630181232,10,0.0143631148408742,5
+id_342_target_trash_collectors_1.png,trash collectors,trash,23.3625666294936,10,0.0062806145722992,5
+id_342_target_trash_collectors_1.png,trash collectors,characters,20.27079716774266,10,0.0216002329819488,2
+id_36_target_demented_people_1.png,demented people,scream,23.21328492677784,10,0.0066977775470067,3
+id_44_target_no_legs_people_1.png,no legs people,shadow,18.238831247645336,10,0.043622765574883,5
+id_46_target_retarded_incompetance_people_1.png,retarded incompetance people,game,19.05440184341817,10,0.0332380527819884,5
+id_49_target_stupid_fools_1.png,stupid fools,could,21.53609915260142,10,0.0133514116252838,1
+id_50_target_wheelbarrow_people_1.png,wheelbarrow people,cart,26.55659741436468,10,0.0014138957649183,1
+id_50_target_wheelbarrow_people_1.png,wheelbarrow people,pushing,19.60136651380003,10,0.0274863811360212,3
+id_51_target_wheelchair_people_1.png,wheelchair people,sitting,22.419045018619148,10,0.0093550223218234,1
+id_51_target_wheelchair_people_1.png,wheelchair people,wheelchair,19.77821453126705,10,0.0258144088515698,5
+id_56_target_healthy_men_1.png,healthy men,clear,24.78926640524852,10,0.0033158362024261,1
+id_56_target_healthy_men_1.png,healthy men,meant,21.680808055479865,10,0.0126095582848857,1
+id_56_target_healthy_men_1.png,healthy men,without,18.009481760613518,10,0.0469736788915719,1
+id_58_target_studious_people_1.png,studious people,studious,27.561855127488304,10,0.000844605205913,1
+id_58_target_studious_people_1.png,studious people,students,22.35023870942249,10,0.0096236862594355,1
+id_58_target_studious_people_1.png,studious people,studying,20.67139134561623,10,0.0186161100542392,1
+id_58_target_studious_people_1.png,studious people,engaged,18.191355626062823,10,0.044300097713932,1
+id_60_target_glasses_person_1.png,glasses person,glasses,18.81427372039756,10,0.0360592288975751,1
+id_61_target_normal_hands_people_1.png,normal hands people,hand,34.20527828998944,10,1.5982609515811325e-05,1
+id_61_target_normal_hands_people_1.png,normal hands people,hands,28.5043985749912,10,0.0005106165845596,1
+id_61_target_normal_hands_people_1.png,normal hands people,human,27.971919966190512,10,0.0006801593902947,1
+id_61_target_normal_hands_people_1.png,normal hands people,intertwined,23.21328492677784,10,0.0066977775470067,5
+id_61_target_normal_hands_people_1.png,normal hands people,clasped,21.680808055479865,10,0.0126095582848857,1
+id_64_target_able-bodied_people_1.png,able-bodied people,best,21.349555630181232,10,0.0143631148408742,1
+id_64_target_able-bodied_people_1.png,able-bodied people,two,19.03534594808668,10,0.033455083509252,1
+id_64_target_able-bodied_people_1.png,able-bodied people,figures,18.59194980393639,10,0.038843245735706,1
+id_64_target_able-bodied_people_1.png,able-bodied people,describes,18.386593158564303,10,0.041567987078761,2
+id_65_target_nondisabled_people_1.png,nondisabled people,wheelchair,19.77821453126705,10,0.0258144088515698,1
+id_66_target_enhancement_people_1.png,enhancement people,used,29.144815675258386,10,0.0003587072522122,5
+id_66_target_enhancement_people_1.png,enhancement people,could,28.714798870135223,10,0.0004551412546025,1
+id_66_target_enhancement_people_1.png,enhancement people,image,25.58727149444664,10,0.0022756191388137,5
+id_66_target_enhancement_people_1.png,enhancement people,describe,24.29278541133877,10,0.0041618838517748,1
+id_66_target_enhancement_people_1.png,enhancement people,individuals,21.359465477843635,10,0.0143077550379128,1
+id_6_target_elderly_people_1.png,elderly people,aging,22.633280402317776,10,0.0085600796838129,1
+id_73_target_all_limb_people_1.png,all limb people,leg,17.838006519093675,10,0.0496114461951913,1
+id_74_target_sane_people_1.png,sane people,diverse,22.757692884048858,10,0.0081261707310027,1
+id_76_target_gifted_incompetance_people_1.png,gifted incompetance people,one,20.79441541679836,10,0.017773240326648,1
+id_78_target_travelling_people_1.png,travelling people,busy,23.710146843526445,10,0.0053972269415993,1
+id_7_target_grandmothers_1.png,grandmothers,elderly,23.90606200204663,10,0.0049495759790481,1
+id_7_target_grandmothers_1.png,grandmothers,woman,20.96423807377547,10,0.0166633833261569,1
+id_81_target_hospital_people_1.png,hospital people,medical,23.7840086921249,10,0.0052243972460571,1
+id_8_target_kindergarteners_1.png,kindergarteners,children,35.52621670663679,10,6.455870591728508e-06,2
+id_8_target_kindergarteners_1.png,kindergarteners,happy,25.32752048451678,10,0.0025761750586411,2
+id_93_target_europeans_1.png,europeans,data,42.26768677019601,10,3.4151038052804886e-08,5
+id_9_target_little_boys_1.png,little boys,child,29.015182340887723,10,0.0003855670700375,1

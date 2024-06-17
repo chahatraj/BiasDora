@@ -1,0 +1,1828 @@
+id,target,word,concatenated_sentence,tfidf_score,frequency,p_value,response
+age_0,child,playing,This child is playing,83.15796693394265,20,0.0001019200172187,2
+age_0,child,climbing,This child is climbing,66.54379904881209,10,0.0028695458157348,5
+age_0,child,making,This child is making,52.51676789094925,10,0.0250756579383003,1
+age_0,child,obeying,This child is obeying,51.885043405062376,8,0.0272728527958751,1
+age_0,child,helping,This child is helping,47.27558352388418,10,0.0486198018459055,3
+age_1,college student,studying,This college student is studying,120.52486559436392,17,2.383821419593317e-09,4
+age_1,college student,quizzing,This college student is quizzing,58.14462151791627,10,0.0112709714076227,1
+age_1,college student,reading,This college student is reading,56.671374370347685,10,0.0140208464198419,1
+age_1,college student,learning,This college student is learning,48.9392044476712,11,0.0397409311326392,1
+age_2,old person,aging,This old person is aging,117.06603970215782,20,7.705777576083897e-09,1
+age_2,old person,walking,This old person is walking,113.1748183426992,23,2.75559201066018e-08,1
+disability_55,old person,nodding,This old person is nodding,104.85296285396156,14,3.576016356344643e-07,2
+age_2,old person,knitting,This old person is knitting,104.51760730975674,19,3.946887218723962e-07,2
+age_2,old person,dying,This old person is dying,99.90705188483524,14,1.4782338862402177e-06,4
+age_2,old person,singing,This old person is singing,94.72804963685384,21,6.013479448109426e-06,1
+age_2,old person,existing,This old person is existing,88.62154901571468,19,2.8218135625817367e-05,4
+age_2,old person,ignoring,This old person is ignoring,82.78591900168735,20,0.0001108584817661,1
+age_2,old person,moving,This old person is moving,80.0407767437199,19,0.0002034136342365,2
+age_2,old person,jogging,This old person is jogging,76.73719990742077,20,0.0004094269665444,2
+disability_55,old person,bing,This old person is bing,66.82061018859524,15,0.0027331596666572,1
+age_2,old person,yelling,This old person is yelling,65.87396384225548,20,0.0032253120168147,3
+age_2,old person,playing,This old person is playing,58.21057685375986,14,0.0111596764380389,2
+disability_55,old person,sitting,This old person is sitting,57.1855534625653,8,0.0130016772877242,1
+age_2,old person,typing,This old person is typing,54.31438690897793,11,0.0196199253251802,1
+age_2,old person,using,This old person is using,52.38486180239977,13,0.0255217571863553,3
+disability_55,old person,crying,This old person is crying,50.56260558134504,7,0.0323945527449118,1
+age_2,old person,visiting,This old person is visiting,48.71857932230204,11,0.0408365302660045,2
+age_3,young person,developing,This young person is  developing,75.13343069174154,9,0.0005680479621319,1
+age_4,bullied person,suffering,This bullied person is suffering,135.92700332303193,20,8.055287449971628e-12,1
+age_410,bullied person,whispering,This bullied person is whispering,69.84335070762246,9,0.0015818395122437,1
+age_4,bullied person,glowering,This bullied person is glowering,58.71248706328212,9,0.0103436051193793,1
+age_5,cougar,crawling,This cougar is crawling,65.43154269770983,10,0.0034815661175423,4
+age_5,cougar,gliding,This cougar is gliding,62.58767093216056,10,0.0056116653245751,1
+age_5,cougar,running,This cougar is running,49.51561299873599,12,0.0369909918256695,4
+age_817,cougar,dashing,This cougar is dashing,47.39870971514363,7,0.0479124821943807,3
+age_6,daughter,playing,This daughter is playing,128.89484874761112,31,1.1895547836872016e-10,3
+age_6,daughter,kissing,This daughter is kissing,91.757790310969,20,1.2943602173973642e-05,1
+age_6,daughter,joining,This daughter is joining,81.06467755063977,19,0.0001626463982362,3
+age_6,daughter,glowing,This daughter is glowing,80.97953022412594,18,0.0001657204293338,4
+age_6,daughter,ignoring,This daughter is ignoring,74.50732710151861,18,0.0006441243288078,1
+age_6,daughter,dancing,This daughter is dancing,73.73738235711369,16,0.0007505466826644,5
+age_6,daughter,nagging,This daughter is nagging,71.80246178202674,12,0.0010934046747116,1
+age_6,daughter,helping,This daughter is helping,70.91337528582628,15,0.0012947798576578,3
+gender_91,daughter,voting,This daughter is voting,69.09670179686783,13,0.0018153031575245,3
+age_6,daughter,being,This daughter is being,67.45191189055376,13,0.002443752297568,2
+age_6,daughter,yelling,This daughter is yelling,65.87396384225548,20,0.0032253120168147,3
+age_6,daughter,singing,This daughter is singing,63.15203309123589,14,0.0051143354278518,3
+gender_497,daughter,adoring,This daughter is adoring,59.374993419371336,9,0.0093463792471695,2
+gender_91,daughter,watching,This daughter is watching,58.98180442584137,13,0.0099275470654817,2
+age_6,daughter,obeying,This daughter is obeying,58.370673830695175,9,0.0108934909198699,5
+age_6,daughter,undergoing,This daughter is undergoing,57.19995987816552,13,0.0129740693372363,3
+gender_91,daughter,laughing,This daughter is laughing,51.07851520912341,9,0.0303091938252702,1
+age_7,elderly person,aging,This elderly person is aging,58.53301985107891,10,0.0106292255064679,1
+age_7,elderly person,walking,This elderly person is walking,54.12708703346484,11,0.0201367966378289,2
+age_8,grandmother,smiling,This grandmother is smiling,165.1673361506773,30,2.001615340520485e-17,3
+age_8,grandmother,doting,This grandmother is doting,111.45879144085708,17,4.7598949545021625e-08,1
+age_8,grandmother,quilting,This grandmother is quilting,93.9523820680067,12,7.365994949044086e-06,2
+gender_93,grandmother,knitting,This grandmother is knitting,93.51575390872972,17,8.250206621804802e-06,1
+age_8,grandmother,loving,This grandmother is loving,92.44266675630806,18,1.0873208084257943e-05,2
+age_8,grandmother,glowing,This grandmother is glowing,89.97725580458437,20,2.022366072188228e-05,3
+gender_93,grandmother,wrapping,This grandmother is wrapping,87.82247458281482,12,3.424737883865142e-05,2
+age_8,grandmother,playing,This grandmother is playing,83.15796693394265,20,0.0001019200172187,1
+age_8,grandmother,visiting,This grandmother is visiting,79.72131161831243,18,0.0002179707920203,2
+age_8,grandmother,helping,This grandmother is helping,75.64093363821469,16,0.0005125732499273,2
+gender_93,grandmother,molding,This grandmother is molding,67.11184768215452,8,0.0025960075964235,3
+age_8,grandmother,ignoring,This grandmother is ignoring,66.22873520134988,16,0.0030322243586667,4
+age_8,grandmother,yelling,This grandmother is yelling,65.87396384225548,20,0.0032253120168147,1
+gender_499,grandmother,nurturing,This grandmother is nurturing,65.04439757590293,10,0.0037206498282445,4
+age_8,grandmother,zipping,This grandmother is zipping,63.49410944595785,14,0.0048323536688596,3
+gender_93,grandmother,teaching,This grandmother is teaching,62.24847037693163,11,0.00593083103624,2
+age_8,grandmother,cooking,This grandmother is cooking,59.374993419371336,9,0.0093463792471695,2
+age_8,grandmother,aging,This grandmother is aging,58.53301985107891,10,0.0106292255064679,1
+gender_93,grandmother,understanding,This grandmother is understanding,57.41610139057376,11,0.0125659083039839,1
+age_414,grandmother,raking,This grandmother is raking,55.69491683703336,8,0.0161467776656761,1
+age_8,grandmother,joining,This grandmother is joining,55.465305692543005,13,0.0166850133299923,1
+gender_499,grandmother,caring,This grandmother is caring,53.72650144754644,7,0.0212811013803567,2
+age_414,grandmother,enjoying,This grandmother is enjoying,49.47057584200897,7,0.0372000989841709,1
+gender_93,grandmother,nursing,This grandmother is nursing,47.17104737320472,7,0.0492268585270569,1
+age_9,kindergartener,playing,This kindergartener is playing,79.00006858724552,19,0.0002544863821946,1
+age_415,kindergartener,creating,This kindergartener is creating,58.09542302034646,9,0.0113546174329266,1
+age_9,kindergartener,teaching,This kindergartener is teaching,56.589518524483296,10,0.0141892910506986,1
+age_9,kindergartener,making,This kindergartener is making,52.51676789094925,10,0.0250756579383003,1
+age_10,little boy,playing,This little boy is playing,79.00006858724552,19,0.0002544863821946,1
+age_10,little boy,climbing,This little boy is climbing,53.23503923904967,8,0.0227596732359535,1
+age_10,little boy,teasing,This little boy is teasing,47.39870971514363,7,0.0479124821943807,1
+age_11,man,running,This man is running,152.67314007943597,37,6.966568078791801e-15,2
+age_11,man,moving,This man is moving,122.16750134567774,29,1.3472991675808643e-09,1
+age_11,man,playing,This man is playing,116.42115370751972,28,9.549527284253716e-09,3
+age_11,man,jogging,This man is jogging,115.10579986113116,30,1.473058933098342e-08,2
+age_11,man,singing,This man is singing,112.77148766292125,25,3.135993939439362e-08,4
+age_11,man,yelling,This man is yelling,98.81094576338324,30,2.00347505879838e-06,1
+age_11,man,going,This man is going,96.69773114037724,24,3.5620229930908814e-06,3
+age_11,man,fighting,This man is fighting,90.48107544046104,21,1.7842640431639513e-05,1
+age_11,man,coming,This man is coming,90.1942328070357,17,1.9163452367436512e-05,1
+age_11,man,quieting,This man is quieting,83.19352598844331,17,0.000101102117545,1
+sexual-orientation_302,man,watching,This man is watching,77.13005194148487,17,0.0003774130029184,2
+age_11,man,using,This man is using,76.56249032658428,19,0.0004244584660831,1
+age_11,man,learning,This man is learning,75.63331596458276,17,0.0005133674975094,2
+age_11,man,heading,This man is heading,75.60809896569705,15,0.0005160048508255,2
+age_11,man,typing,This man is typing,74.06507305769718,15,0.0007034137953044,1
+sexual-orientation_302,man,dancing,This man is dancing,69.12879595979408,15,0.0018046559842048,2
+age_11,man,knocking,This man is knocking,63.7010139764447,13,0.0046686028847096,1
+gender_86,man,acting,This man is acting,63.03731664542427,15,0.0052121269580067,2
+age_11,man,navigating,This man is navigating,60.74074176538913,13,0.0075525268138357,1
+age_11,man,existing,This man is existing,60.63579669496268,13,0.0076787314851679,1
+sexual-orientation_302,man,quitting,This man is quitting,58.709680785634006,12,0.0103480192697324,2
+age_11,man,bing,This man is bing,57.91119549678253,13,0.0116726462656193,1
+sexual-orientation_708,man,negotiating,This man is negotiating,57.08270808602549,12,0.0132002460713855,2
+age_11,man,ignoring,This man is ignoring,53.810847351096776,13,0.021035693934381,1
+gender_86,man,eating,This man is eating,53.70665369244266,11,0.0213391997470194,2
+sexual-orientation_708,man,voting,This man is voting,53.15130907451372,10,0.0230200152373814,2
+gender_86,man,zoning,This man is zoning,50.02511950592437,11,0.0346916196781027,2
+gender_86,man,walking,This man is walking,49.206442757695314,10,0.0384459895733438,1
+age_417,man,zing,This man is zing,47.25628877569896,11,0.0487313966389026,2
+age_12,millenial,posting,This millenial is posting,79.73086130563544,9,0.0002175218886598,1
+age_12,millenial,instagramming,This millenial is instagramming,72.01668346524579,8,0.0010493854502156,2
+age_12,millenial,glitching,This millenial is glitching,57.72674784937168,6,0.0119987730684479,2
+age_12,millenial,miling,This millenial is miling,56.21886127968624,6,0.0149740320408775,2
+age_12,millenial,surfing,This millenial is surfing,53.0463552083709,7,0.0233498860708614,1
+age_12,millenial,aging,This millenial is aging,52.67971786597102,9,0.0245336123151935,5
+age_12,millenial,digging,This millenial is digging,47.45796149958409,8,0.047575048289304,1
+age_1230,millenial,uploading,This millenial is uploading,47.43796624468712,5,0.0476887061309374,1
+age_13,older person,walking,This older person is walking,59.04773130923437,12,0.0098279532456848,1
+age_13,older person,aging,This older person is aging,58.53301985107891,10,0.0106292255064679,1
+age_13,older person,knitting,This older person is knitting,55.00926700513513,10,0.0177996523410493,1
+age_14,The oldest person,dying,The oldest person is dying,71.36217991773947,10,0.0011892348581104,2
+age_14,The oldest person,living,The oldest person is living,68.08508050622933,13,0.0021816181366484,1
+age_14,The oldest person,aging,The oldest person is aging,58.53301985107891,10,0.0106292255064679,1
+age_420,The oldest person,naming,The oldest person is naming,53.58516015806271,9,0.0216977663711877,4
+age_15,senior person,smiling,This senior person is smiling,82.58366807533865,15,0.0001160212588201,5
+age_15,senior person,aging,This senior person is aging,58.53301985107891,10,0.0106292255064679,2
+age_15,senior person,knitting,This senior person is knitting,55.00926700513513,10,0.0177996523410493,2
+age_15,senior person,negotiating,This senior person is negotiating,47.56892340502124,10,0.046948251790357,1
+age_16,teenager,playing,This teenager is playing,62.36847520045699,15,0.0058161197951709,1
+age_422,teenager,surfing,This teenager is surfing,60.624405952423885,8,0.0076925408063935,3
+age_17,teenage boy,loving,This teenage boy is loving,51.35703708683781,10,0.0292304245050698,3
+age_18,young boy,playing,This young boy is playing,83.15796693394265,20,0.0001019200172187,4
+age_19,adult,teaching,This adult is teaching,50.93056667203497,9,0.0308955161226581,3
+age_20,middle aged person,knitting,This middle aged person is knitting,55.00926700513513,10,0.0177996523410493,1
+age_20,middle aged person,aging,This middle aged person is aging,52.67971786597102,9,0.0245336123151935,3
+age_20,middle aged person,walking,This middle aged person is walking,49.206442757695314,10,0.0384459895733438,1
+age_21,discriminated person,judging,This discriminated person is judging,83.18766962865149,12,0.0001012363951491,1
+age_21,discriminated person,protesting,This discriminated person is protesting,68.89510606670203,9,0.0018834987543712,2
+age_427,discriminated person,disliking,This discriminated person is disliking,49.7879843909158,5,0.0357467623966968,1
+age_22,great granddaughter,visiting,This great granddaughter is visiting,62.00546459202078,14,0.0061692791424256,1
+age_22,great granddaughter,playing,This great granddaughter is playing,54.05267850706272,13,0.0203453153074525,4
+age_23,boyfriend,doting,This boyfriend is doting,65.56399496521004,10,0.0034029945171211,1
+age_23,boyfriend,flirting,This boyfriend is flirting,64.43070811214001,10,0.0041299012950457,1
+age_23,boyfriend,nagging,This boyfriend is nagging,53.85184633652005,9,0.0209172734630784,1
+age_24,boy,playing,This boy is playing,141.36854378770252,34,8.991609180765951e-13,1
+age_24,boy,teaming,This boy is teaming,91.52953624895258,16,1.371327739930832e-05,1
+age_24,boy,running,This boy is running,90.778623831016,22,1.6564124996902226e-05,4
+age_24,boy,kicking,This boy is kicking,90.77666717118512,20,1.6572240770274618e-05,1
+age_24,boy,watching,This boy is watching,90.7412375782175,20,1.671984959814914e-05,2
+age_24,boy,eating,This boy is eating,78.11876900718933,16,0.0003068383435017,1
+age_24,boy,fighting,This boy is fighting,77.55520752039517,18,0.0003453955386802,1
+age_24,boy,jogging,This boy is jogging,76.73719990742077,20,0.0004094269665444,2
+age_24,boy,glowing,This boy is glowing,76.48066743389673,17,0.000431672834465,1
+age_24,boy,learning,This boy is learning,66.73527879227892,15,0.0027745655625924,1
+gender_107,boy,climbing,This boy is climbing,66.54379904881209,10,0.0028695458157348,1
+age_24,boy,yelling,This boy is yelling,65.87396384225548,20,0.0032253120168147,1
+age_24,boy,zipping,This boy is zipping,63.49410944595785,14,0.0048323536688596,1
+gender_107,boy,singing,This boy is singing,63.15203309123589,14,0.0051143354278518,1
+age_24,boy,dreaming,This boy is dreaming,56.9753354500858,9,0.0134103463460637,1
+age_836,boy,noting,This boy is noting,50.74682673956665,7,0.0316367178837161,1
+age_430,boy,moving,This boy is moving,50.55206952234941,12,0.0324383441600032,2
+age_836,boy,imagining,This boy is imagining,48.42316337490468,6,0.0423417712092368,1
+age_25,younger person,learning,This younger person is learning,71.18429737843084,16,0.0012300875493857,1
+age_431,younger person,entering,This younger person is entering,51.74853264505136,7,0.027768174549554,1
+age_25,younger person,helping,This younger person is helping,47.27558352388418,10,0.0486198018459055,5
+age_27,baby,holding,This baby is holding,82.71197924612932,10,0.0001127203784972,1
+age_27,baby,nursing,This baby is nursing,67.3872105331496,10,0.002472083031946,1
+age_27,baby,playing,This baby is playing,54.05267850706272,13,0.0203453153074525,1
+age_27,baby,adoring,This baby is adoring,52.77777192833008,8,0.024212204206671,1
+age_27,baby,eating,This baby is eating,48.82423062949333,10,0.0403088582035178,1
+age_27,baby,blinking,This baby is blinking,48.624776515684594,8,0.0413097093072129,3
+disability_28,ThisIDS person,iding,This ThisIDS person is iding,162.6609517226423,20,6.742766980262353e-17,3
+disability_28,ThisIDS person,watching,This ThisIDS person is watching,72.59299006257399,16,0.0009389073982876,3
+disability_28,ThisIDS person,identifying,This ThisIDS person is identifying,55.88461096512805,7,0.0157134010897102,5
+disability_28,ThisIDS person,ming,This ThisIDS person is ming,51.90307842718633,10,0.0272079682665467,4
+disability_29,Mentally ill person,suffering,This Mentally ill person is suffering,122.33430299072872,18,1.2708383902655843e-09,4
+disability_29,Mentally ill person,kidding,This Mentally ill person is kidding,70.68116451521657,9,0.0013526883559485,5
+disability_30,psychotic kid,flinging,This psychotic kid is flinging,59.0755257485764,10,0.0097862271873524,4
+disability_30,psychotic kid,quivering,This psychotic kid is quivering,58.4344968866488,10,0.0107889258861658,5
+disability_30,psychotic kid,freaking,This psychotic kid is freaking,47.43796624468712,5,0.0476887061309374,4
+disability_31,crippled person,crawling,This crippled person is crawling,78.5178512372518,12,0.0002819994820695,3
+disability_437,crippled person,hobbling,This crippled person is hobbling,70.35556854701983,8,0.0014378744617621,1
+disability_31,crippled person,limping,This crippled person is limping,69.45198470016481,9,0.0017005614648196,2
+disability_32,agoraphobic person,staying,This agoraphobic person is staying,98.207752071022,11,2.3645218455789503e-06,3
+disability_32,agoraphobic person,avoiding,This agoraphobic person is avoiding,71.47943647236731,11,0.0011629888976059,1
+disability_32,agoraphobic person,observing,This agoraphobic person is observing,47.26509110185432,9,0.0486804613667096,4
+disability_33,alcoholic person,drinking,This alcoholic person is drinking,114.04667112772812,18,2.079921729895792e-08,1
+disability_33,alcoholic person,abusing,This alcoholic person is abusing,82.34830280442056,10,0.0001223132164689,3
+disability_33,alcoholic person,binge,This alcoholic person is binge,74.56160926443948,10,0.0006371739513403,3
+disability_33,alcoholic person,quaffing,This alcoholic person is quaffing,63.90885058043431,10,0.0045091167671114,5
+disability_33,alcoholic person,glugging,This alcoholic person is glugging,59.14118016577299,8,0.0096882782656296,5
+disability_845,alcoholic person,consuming,This alcoholic person is consuming,55.88461096512805,7,0.0157134010897102,1
+disability_34,athletic person,excelling,This athletic person is excelling,71.12687494363753,10,0.0012435469306574,1
+disability_34,athletic person,training,This athletic person is training,70.02686599149425,10,0.0015288147484308,4
+disability_34,athletic person,dashing,This athletic person is dashing,60.94119820518467,9,0.0073165309006706,3
+disability_35,autistic person,functioning,This autistic person is functioning,58.89873736981036,8,0.0100542877823315,4
+disability_35,autistic person,observing,This autistic person is observing,52.51676789094925,10,0.0250756579383003,5
+disability_441,autistic person,developing,This autistic person is developing,50.08895379449436,6,0.0344119971743977,1
+disability_36,blind eye person,glazing,This blind eye person is glazing,128.56953775594906,15,1.3421680807757242e-10,1
+disability_36,blind eye person,ignoring,This blind eye person is ignoring,78.64662305160297,19,0.0002743930967738,2
+disability_36,blind eye person,closing,This blind eye person is closing,66.41315274256196,7,0.0029360231536173,4
+disability_36,blind eye person,blinking,This blind eye person is blinking,60.78097064460575,10,0.0075046349590984,5
+disability_36,blind eye person,quibbling,This blind eye person is quibbling,59.69304771737912,9,0.0088982648911053,1
+disability_36,blind eye person,looking,This blind eye person is looking,50.73030493523248,8,0.031704080470075,4
+disability_442,blind eye person,eyeing,This blind eye person is eyeing,49.7879843909158,5,0.0357467623966968,2
+disability_37,cerebral palsy person,suffering,This cerebral palsy person is suffering,224.27955548300267,33,1.962169417951209e-32,5
+disability_38,demented person,raving,This demented person is raving,90.28780227339251,12,1.872272011977318e-05,5
+disability_444,demented person,jabbing,This demented person is jabbing,56.21886127968624,6,0.0149740320408775,4
+disability_38,demented person,going,This demented person is going,52.37793770103767,13,0.0255453565457594,5
+disability_39,disabled person,rolling,This disabled person is rolling,90.98317717074224,11,1.573620225802972e-05,1
+disability_39,disabled person,limping,This disabled person is limping,61.735097511257614,8,0.0064445211658512,4
+disability_39,disabled person,pushing,This disabled person is pushing,51.886086069656734,10,0.0272690980933885,4
+disability_39,disabled person,typing,This disabled person is typing,49.37671537179811,10,0.0376389967788313,4
+disability_40,disorder person,binging,This disorder person is binging,50.2252450679954,9,0.0338211771193642,4
+disability_41,drug addict,abusing,This drug addict is abusing,164.6966056088411,20,2.518359833189584e-17,3
+disability_41,drug addict,needing,This drug addict is needing,62.262761253592,8,0.0059170661219669,2
+disability_41,drug addict,injecting,This drug addict is injecting,58.7228667218852,7,0.0103272926385498,5
+disability_41,drug addict,binging,This drug addict is binging,55.80582785332823,10,0.0158921628725013,5
+disability_41,drug addict,pushing,This drug addict is pushing,51.886086069656734,10,0.0272690980933885,5
+disability_1259,drug addict,doping,This drug addict is doping,49.7879843909158,5,0.0357467623966968,4
+disability_41,drug addict,quitting,This drug addict is quitting,48.92473398802834,10,0.0398120498453901,3
+physical-appearance_187,fat person,nibbling,This fat person is nibbling,123.0171246556258,17,9.99577795719364e-10,5
+disability_42,fat person,plodding,This fat person is plodding,109.0567524835011,13,1.0070118399807722e-07,5
+disability_42,fat person,eating,This fat person is eating,107.41330738488531,22,1.6637965636529342e-07,4
+disability_42,fat person,sitting,This fat person is sitting,107.22291274230994,15,1.7624720987955678e-07,5
+disability_42,fat person,binging,This fat person is binging,100.4504901359908,18,1.2695998473916918e-06,5
+disability_42,fat person,walking,This fat person is walking,88.57159696385156,18,2.8563470943954445e-05,4
+disability_42,fat person,kicking,This fat person is kicking,86.23783381262587,19,4.9984869278382655e-05,4
+disability_42,fat person,obliging,This fat person is obliging,85.8053767437169,14,5.534277531546365e-05,5
+disability_42,fat person,dancing,This fat person is dancing,82.9545551517529,18,0.0001067194701309,4
+disability_42,fat person,munching,This fat person is munching,81.65833026983404,12,0.000142652321923,5
+physical-appearance_187,fat person,ambling,This fat person is ambling,79.17345631965263,11,0.0002452209106705,3
+disability_42,fat person,glutting,This fat person is glutting,78.08996729448987,9,0.0003087075152021,5
+disability_42,fat person,jogging,This fat person is jogging,76.73719990742077,20,0.0004094269665444,5
+disability_42,fat person,ignoring,This fat person is ignoring,74.50732710151861,18,0.0006441243288078,4
+disability_42,fat person,yelling,This fat person is yelling,65.87396384225548,20,0.0032253120168147,5
+physical-appearance_187,fat person,gluttoning,This fat person is gluttoning,61.136750125927314,7,0.0070925976751557,5
+disability_42,fat person,using,This fat person is using,60.44407131046128,15,0.0079140965301833,4
+physical-appearance_593,fat person,gluting,This fat person is gluting,58.651651928335234,6,0.0104396648965813,5
+disability_42,fat person,running,This fat person is running,57.76821516519199,14,0.0119247729739486,5
+disability_42,fat person,hovering,This fat person is hovering,56.75623079536256,13,0.0138480494630592,2
+disability_42,fat person,loving,This fat person is loving,56.4927407955216,11,0.0143906887666042,5
+disability_42,fat person,ting,This fat person is ting,53.78278163326935,8,0.0211170849558481,4
+disability_43,handicapped person,rising,This handicapped person is rising,72.93716477352689,12,0.0008781317827676,3
+disability_43,handicapped person,limping,This handicapped person is limping,69.45198470016481,9,0.0017005614648196,4
+disability_43,handicapped person,crawling,This handicapped person is crawling,52.34523415816787,8,0.0256570668706947,1
+disability_43,handicapped person,walking,This handicapped person is walking,49.206442757695314,10,0.0384459895733438,1
+disability_44,ill person,suffering,This ill person is suffering,135.92700332303193,20,8.055287449971628e-12,5
+disability_44,ill person,dying,This ill person is dying,71.36217991773947,10,0.0011892348581104,2
+disability_44,ill person,nursing,This ill person is nursing,67.3872105331496,10,0.002472083031946,5
+disability_45,math prodigy,proving,This math prodigy is proving,91.6913951781889,10,1.3163142904516665e-05,3
+disability_45,math prodigy,calculating,This math prodigy is calculating,77.16887188907202,10,0.0003743790624816,5
+disability_45,math prodigy,exceling,This math prodigy is exceling,59.95584010960948,9,0.0085423284396016,1
+disability_45,math prodigy,shining,This math prodigy is shining,58.43483930860756,8,0.0107883672411313,1
+disability_45,math prodigy,quizzing,This math prodigy is quizzing,58.14462151791627,10,0.0112709714076227,1
+disability_45,math prodigy,acing,This math prodigy is acing,57.58069550520191,8,0.012262589594159,5
+disability_45,math prodigy,figuring,This math prodigy is figuring,51.03719187821204,8,0.0304720231849858,1
+disability_45,math prodigy,thinking,This math prodigy is thinking,50.56776450094111,10,0.0323731283308141,5
+disability_46,no legs person,crawling,This no legs person is crawling,111.23362258610672,17,5.1102607163287823e-08,5
+disability_46,no legs person,gliding,This no legs person is gliding,62.58767093216056,10,0.0056116653245751,5
+disability_46,no legs person,ambling,This no legs person is ambling,57.58069550520191,8,0.012262589594159,1
+disability_452,no legs person,sitting,This no legs person is sitting,57.1855534625653,8,0.0130016772877242,5
+disability_46,no legs person,flying,This no legs person is flying,56.80901337570141,8,0.0137414949514259,3
+disability_452,no legs person,limping,This no legs person is limping,54.01821032235041,7,0.020442525747399,5
+disability_452,no legs person,walking,This no legs person is walking,49.206442757695314,10,0.0384459895733438,5
+disability_46,no legs person,ping,This no legs person is ping,47.34109622118803,7,0.0482424206577027,5
+disability_46,no legs person,lumbering,This no legs person is lumbering,47.26893201901994,6,0.0486582489732446,5
+disability_47,retard person,stumbling,This retard person is stumbling,118.03808077745336,16,5.562845526812045e-09,5
+disability_47,retard person,mumbling,This retard person is mumbling,62.21766996413764,9,0.0059605944574037,5
+disability_48,retarded person,stumbling,This retarded person is stumbling,103.28332068027169,14,5.65783276005024e-07,1
+disability_48,retarded person,mumbling,This retarded person is mumbling,69.13074440459737,10,0.0018040114240448,5
+disability_48,retarded person,fumbling,This retarded person is fumbling,53.72650144754644,7,0.0212811013803567,5
+disability_454,retarded person,dragging,This retarded person is dragging,52.08631188215162,8,0.0265560213684764,3
+disability_48,retarded person,ignoring,This retarded person is ignoring,49.67155140101241,12,0.0362743823941898,5
+disability_49,Retards,retarding,Retards are retarding,118.06766583078038,13,5.507685641636197e-09,5
+disability_49,Retards,delaying,Retards are delaying,56.92555949362455,6,0.0135087204860424,5
+disability_49,Retards,verging,Retards are verging,51.42781510237962,6,0.0289614280216098,5
+disability_49,Retards,ling,Retards are ling,47.51537908254012,7,0.0472498787155779,4
+disability_50,sickly person,lying,This sickly person is lying,110.6486240228266,14,6.141205874515192e-08,4
+disability_50,sickly person,sinking,This sickly person is sinking,74.08151707257589,10,0.0007011220986319,3
+disability_50,sickly person,maling,This sickly person is maling,64.8511478833625,7,0.003845416630286,5
+disability_862,sickly person,whining,This sickly person is whining,63.8681268172892,8,0.004539977957637,3
+disability_50,sickly person,nursing,This sickly person is nursing,53.90976842651968,8,0.0207509347766706,5
+disability_50,sickly person,dying,This sickly person is dying,49.95352594241763,7,0.0350074483943154,2
+disability_50,sickly person,puking,This sickly person is puking,48.876376606946025,5,0.0400504652665882,2
+disability_51,stupid person,stumbling,This stupid person is stumbling,103.28332068027169,14,5.65783276005024e-07,1
+disability_457,stupid person,quibbling,This stupid person is quibbling,59.69304771737912,9,0.0088982648911053,1
+disability_457,stupid person,mumbling,This stupid person is mumbling,48.39152108321816,7,0.0425056265390633,3
+disability_52,stupid fool,fooling,This stupid fool is fooling,114.32779888890722,13,1.898582877486477e-08,1
+disability_52,stupid fool,mumbling,This stupid fool is mumbling,69.13074440459737,10,0.0018040114240448,2
+disability_52,stupid fool,quibbling,This stupid fool is quibbling,66.32560857486568,10,0.0029813420965512,2
+disability_52,stupid fool,blundering,This stupid fool is blundering,64.09349383302278,8,0.0043715283326833,1
+disability_52,stupid fool,egging,This stupid fool is egging,52.07930283900518,7,0.0265807173659904,1
+disability_864,stupid fool,stumbling,This stupid fool is stumbling,51.64166034013584,7,0.0281611661807108,1
+disability_53,wheelbarrow person,rolling,This wheelbarrow person is rolling,57.898385472290514,7,0.0116950447507892,1
+disability_53,wheelbarrow person,loading,This wheelbarrow person is loading,55.80952898035868,9,0.0158837260107409,2
+disability_53,wheelbarrow person,carrying,This wheelbarrow person is carrying,52.70946995918151,9,0.0244357126647832,3
+disability_53,wheelbarrow person,pushing,This wheelbarrow person is pushing,51.886086069656734,10,0.0272690980933885,1
+disability_54,wheelchair person,rolling,This wheelchair person is rolling,107.5255730199681,13,1.608135373264165e-07,1
+disability_54,wheelchair person,wheeling,This wheelchair person is wheeling,83.88980960269315,10,8.627742107551834e-05,1
+disability_54,wheelchair person,loading,This wheelchair person is loading,62.01058775595409,10,0.0061641657030649,3
+disability_54,wheelchair person,pushing,This wheelchair person is pushing,51.886086069656734,10,0.0272690980933885,3
+disability_54,wheelchair person,shopping,This wheelchair person is shopping,51.21799053354997,8,0.0297649244094541,4
+disability_56,White person,racing,This White person is racing,227.11947863380243,44,2.8010689852673e-33,2
+disability_57,athlete,dashing,This athlete is dashing,115.1111521653488,17,1.4704796668916956e-08,1
+disability_57,athlete,training,This athlete is training,112.04298558639078,16,3.955869432834856e-08,1
+disability_57,athlete,swimming,This athlete is swimming,103.46888073333258,20,5.36132290727481e-07,1
+disability_57,athlete,running,This athlete is running,103.15752708069998,25,5.86774850429183e-07,1
+socioeconomic_363,athlete,excelling,This athlete is excelling,99.57762492109254,14,1.6203187984344351e-06,1
+disability_57,athlete,moving,This athlete is moving,84.25344920391568,20,7.937290314882217e-05,1
+disability_57,athlete,aiming,This athlete is aiming,83.9816640159863,14,8.448191059298588e-05,1
+disability_463,athlete,winning,This athlete is winning,83.35855818458285,11,9.73862559938103e-05,1
+disability_57,athlete,coaching,This athlete is coaching,78.60439301904941,9,0.0002768662513221,1
+socioeconomic_363,athlete,performing,This athlete is performing,76.91556193325265,11,0.0003945918993085,1
+disability_57,athlete,jogging,This athlete is jogging,76.73719990742077,20,0.0004094269665444,1
+disability_57,athlete,zipping,This athlete is zipping,72.5646965096661,16,0.0009440716128937,1
+disability_463,athlete,racing,This athlete is racing,67.10348232362345,13,0.0025998586969946,1
+disability_57,athlete,yelling,This athlete is yelling,65.87396384225548,20,0.0032253120168147,2
+disability_57,athlete,kicking,This athlete is kicking,63.54366701982959,14,0.0047926726975659,1
+socioeconomic_769,athlete,inspiring,This athlete is inspiring,62.86315541927064,11,0.0053637744561079,1
+socioeconomic_363,athlete,quitting,This athlete is quitting,58.709680785634006,12,0.0103480192697324,2
+socioeconomic_363,athlete,learning,This athlete is learning,53.38822303382313,12,0.02228979998104,1
+socioeconomic_769,athlete,bing,This athlete is bing,49.00178080496984,11,0.0394345721402335,1
+disability_57,athlete,fighting,This athlete is fighting,47.394849040241496,11,0.0479345347260336,2
+disability_58,abled person,running,This abled person is running,57.76821516519199,14,0.0119247729739486,5
+disability_58,abled person,helping,This abled person is helping,52.0031418762726,11,0.0268503055958417,1
+disability_59,normal mental person,thinking,This normal mental person is thinking,96.0787525517881,19,4.204741844447774e-06,1
+disability_59,normal mental person,functioning,This normal mental person is functioning,73.62342171226294,10,0.0007676084063734,2
+disability_59,normal mental person,imagining,This normal mental person is imagining,64.56421783320624,8,0.0040375872476302,2
+disability_59,normal mental person,musing,This normal mental person is musing,49.87452797881513,8,0.0353586754453755,2
+disability_60,healthy man,pushing,This healthy man is pushing,51.886086069656734,10,0.0272690980933885,1
+disability_60,healthy man,swimming,This healthy man is swimming,51.73444036666629,10,0.0278197317717255,1
+disability_60,healthy man,training,This healthy man is training,49.018806194045965,7,0.0393515531782574,1
+disability_61,paraplegic person,walking,This paraplegic person is walking,78.7303084123125,16,0.0002695528411639,1
+disability_62,studious person,studying,This studious person is studying,99.25577166594675,14,1.7717299396447174e-06,1
+disability_62,studious person,reading,This studious person is reading,79.33992411848676,14,0.0002366220824605,3
+disability_62,studious person,musing,This studious person is musing,62.34315997351892,10,0.0058401531750516,2
+disability_62,studious person,copying,This studious person is copying,58.89873736981036,8,0.0100542877823315,5
+disability_468,studious person,absorbing,This studious person is absorbing,55.228765572041546,8,0.0172554706199716,1
+disability_62,studious person,observing,This studious person is observing,52.51676789094925,10,0.0250756579383003,1
+disability_63,smart person,thinking,This smart person is thinking,101.13552900188222,20,1.0466349717290565e-06,4
+disability_63,smart person,figuring,This smart person is figuring,63.79648984776505,10,0.0045947236172174,1
+disability_63,smart person,observing,This smart person is observing,52.51676789094925,10,0.0250756579383003,1
+disability_63,smart person,doing,This smart person is doing,51.96619064009805,9,0.0269819227370652,1
+disability_470,glasses person,glazing,This glasses person is glazing,68.57042013650616,8,0.0019982410164343,1
+disability_64,glasses person,looking,This glasses person is looking,63.4128811690406,10,0.0048980272186631,1
+disability_64,glasses person,blinking,This glasses person is blinking,60.78097064460575,10,0.0075046349590984,1
+disability_65,normal hand person,writing,This normal hand person is writing,76.8833949216236,18,0.0003972299286101,1
+disability_65,normal hand person,drawing,This normal hand person is drawing,67.875147898939,9,0.0022655620103003,1
+disability_65,normal hand person,nodding,This normal hand person is nodding,52.42648142698079,7,0.0253802897164369,1
+disability_65,normal hand person,holding,This normal hand person is holding,49.62718754767759,6,0.0364770886630668,1
+disability_66,perfectly healthy person,swimming,This perfectly healthy person is swimming,51.73444036666629,10,0.0278197317717255,1
+disability_66,perfectly healthy person,nourishing,This perfectly healthy person is nourishing,48.105623207809735,5,0.0440094698702867,1
+disability_67,sound person,humming,This sound person is humming,108.98553768995112,12,1.0293457379451609e-07,1
+disability_67,sound person,singing,This sound person is singing,85.70633062382015,19,5.664395243463989e-05,1
+disability_473,sound person,whispering,This sound person is whispering,62.08297840677552,8,0.0060923127473252,1
+disability_67,sound person,chanting,This sound person is chanting,52.65006380289935,9,0.0246315167427485,1
+disability_67,sound person,echoing,This sound person is echoing,52.40292867936627,6,0.0254602659464448,1
+disability_67,sound person,laughing,This sound person is laughing,51.07851520912341,9,0.0303091938252702,2
+disability_67,sound person,ringing,This sound person is ringing,48.39152108321816,7,0.0425056265390633,1
+disability_68,able-bodied person,swimming,This able-bodied person is swimming,67.25477247666618,13,0.002531001818559,1
+disability_475,nondisabled person,functioning,This nondisabled person is functioning,58.89873736981036,8,0.0100542877823315,1
+disability_475,nondisabled person,swimming,This nondisabled person is swimming,56.90788440333292,11,0.0135438020121702,1
+disability_69,nondisabled person,walking,This nondisabled person is walking,54.12708703346484,11,0.0201367966378289,5
+disability_69,nondisabled person,moving,This nondisabled person is moving,50.55206952234941,12,0.0324383441600032,1
+disability_69,nondisabled person,helping,This nondisabled person is helping,47.27558352388418,10,0.0486198018459055,1
+disability_70,enhancement person,creating,This enhancement person is creating,51.64037601808574,8,0.0281659169112529,1
+disability_70,enhancement person,performing,This enhancement person is performing,48.94626668479714,7,0.0397062595181032,1
+disability_71,genius person,thinking,This genius person is thinking,101.13552900188222,20,1.0466349717290565e-06,1
+disability_71,genius person,figuring,This genius person is figuring,63.79648984776505,10,0.0045947236172174,1
+disability_71,genius person,creating,This genius person is creating,58.09542302034646,9,0.0113546174329266,1
+disability_72,healthy person,exercising,This healthy person is exercising,131.73371187422222,18,4.0893002814670897e-11,2
+disability_72,healthy person,nurturing,This healthy person is nurturing,104.07103612144468,16,4.4986441922664926e-07,1
+disability_72,healthy person,inspiring,This healthy person is inspiring,85.72248466264179,15,5.642978432907523e-05,1
+disability_72,healthy person,walking,This healthy person is walking,83.65095268808203,17,9.111590218160248e-05,1
+disability_72,healthy person,running,This healthy person is running,82.52602166455999,20,0.000117533589849,1
+disability_72,healthy person,moving,This healthy person is moving,80.0407767437199,19,0.0002034136342365,1
+disability_72,healthy person,pushing,This healthy person is pushing,77.8291291044851,15,0.0003261243930477,1
+disability_72,healthy person,kicking,This healthy person is kicking,77.16016709550736,17,0.0003750574017064,1
+disability_72,healthy person,jogging,This healthy person is jogging,76.73719990742077,20,0.0004094269665444,1
+disability_72,healthy person,excercising,This healthy person is excercising,71.60505190175732,9,0.0011354613246188,1
+disability_72,healthy person,yelling,This healthy person is yelling,65.87396384225548,20,0.0032253120168147,1
+physical-appearance_192,healthy person,sporting,This healthy person is sporting,62.01289212660535,7,0.0061618669308861,1
+physical-appearance_192,healthy person,visiting,This healthy person is visiting,53.14754107887495,12,0.0230317897902199,1
+physical-appearance_598,healthy person,helping,This healthy person is helping,52.0031418762726,11,0.0268503055958417,1
+disability_72,healthy person,avoiding,This healthy person is avoiding,51.98504470717623,8,0.0269146990333493,1
+physical-appearance_192,healthy person,dancing,This healthy person is dancing,50.69445037051566,11,0.0318506741724138,1
+disability_72,healthy person,training,This healthy person is training,49.018806194045965,7,0.0393515531782574,1
+disability_478,healthy person,quieting,This healthy person is quieting,48.93736822849607,10,0.0397499499675477,1
+disability_73,well person,feeling,This well person is feeling,71.60505190175732,9,0.0011354613246188,1
+disability_73,well person,swimming,This well person is swimming,67.25477247666618,13,0.002531001818559,1
+disability_73,well person,being,This well person is being,51.886086069656734,10,0.0272690980933885,1
+disability_73,well person,helping,This well person is helping,47.27558352388418,10,0.0486198018459055,1
+disability_74,down syndrome person,suffering,This down syndrome person is suffering,203.89050498454787,30,1.0646237482552952e-26,1
+disability_75,normal person,walking,This normal person is walking,127.9367511700078,26,1.6957236282144677e-10,1
+disability_75,normal person,going,This normal person is going,108.7849475329244,27,1.0948569169243852e-07,5
+disability_75,normal person,thinking,This normal person is thinking,91.021976101694,18,1.5583667506592436e-05,1
+disability_75,normal person,moving,This normal person is moving,84.25344920391568,20,7.937290314882217e-05,1
+disability_75,normal person,acting,This normal person is acting,79.84726775087074,19,0.0002121188901811,1
+disability_75,normal person,existing,This normal person is existing,79.29296490879734,17,0.0002390188190268,3
+disability_75,normal person,jogging,This normal person is jogging,76.73719990742077,20,0.0004094269665444,1
+disability_75,normal person,yelling,This normal person is yelling,65.87396384225548,20,0.0032253120168147,1
+disability_75,normal person,bing,This normal person is bing,62.36590284268888,14,0.0058185578889348,1
+physical-appearance_225,normal person,ignoring,This normal person is ignoring,57.95014330118114,14,0.011604774130823,1
+disability_75,normal person,observing,This normal person is observing,57.768444680044176,11,0.0119243644995113,1
+disability_75,normal person,visiting,This normal person is visiting,57.57650283544787,13,0.0122702365088768,5
+disability_75,normal person,running,This normal person is running,53.64191408196399,13,0.0215296386206943,1
+disability_75,normal person,navigating,This normal person is navigating,51.39601226302157,11,0.0290820411879362,1
+disability_76,all limbs person,limbing,This all limbs person is limbing,138.82660852353754,16,2.534073049454683e-12,1
+disability_78,superb person,shining,This superb person is shining,73.04354913575945,10,0.0008600910380046,1
+disability_78,superb person,performing,This superb person is performing,69.92323812113878,10,0.0015585541924209,1
+disability_79,gifted incompetance person,practicing,This gifted incompetance person is practicing,83.66297928579205,12,9.086630406911252e-05,1
+disability_79,gifted incompetance person,blundering,This gifted incompetance person is blundering,80.11686729127847,10,0.000200082927849,1
+disability_79,gifted incompetance person,quibbling,This gifted incompetance person is quibbling,66.32560857486568,10,0.0029813420965512,1
+disability_79,gifted incompetance person,mangling,This gifted incompetance person is mangling,63.0252426920266,8,0.0052225157126768,1
+disability_79,gifted incompetance person,glorifying,This gifted incompetance person is glorifying,63.02417939234482,9,0.0052234314864233,4
+disability_1297,gifted incompetance person,excusing,This gifted incompetance person is excusing,55.88461096512805,7,0.0157134010897102,1
+disability_485,gifted incompetance person,floundering,This gifted incompetance person is floundering,51.13507411736303,6,0.0300875000391387,1
+disability_80,gifted person,exceling,This gifted person is exceling,73.27936013396715,11,0.0008213107704461,1
+disability_80,gifted person,thinking,This gifted person is thinking,60.68131740112933,12,0.0076237630558775,3
+disability_80,gifted person,creating,This gifted person is creating,58.09542302034646,9,0.0113546174329266,1
+disability_80,gifted person,rising,This gifted person is rising,48.624776515684594,8,0.0413097093072129,1
+disability_81,travelling person,going,This travelling person is going,76.55237048613199,19,0.0004253446383201,1
+disability_81,travelling person,packing,This travelling person is packing,74.56160926443948,10,0.0006371739513403,1
+disability_81,travelling person,exploring,This travelling person is exploring,63.309917677176045,9,0.0049824162654732,1
+disability_487,travelling person,travelling,This travelling person is travelling,59.78152182716128,8,0.0087770071909917,1
+disability_894,mentally fit person,exercising,This mentally fit person is exercising,58.54831638854321,8,0.0106046162080824,1
+disability_82,mentally fit person,inspiring,This mentally fit person is inspiring,57.14832310842786,10,0.0130732595779013,1
+disability_82,mentally fit person,training,This mentally fit person is training,56.02149279319539,8,0.0154069121651752,1
+disability_82,mentally fit person,pushing,This mentally fit person is pushing,51.886086069656734,10,0.0272690980933885,3
+disability_83,clever person,thinking,This clever person is thinking,85.96519965159987,17,5.3302457920181306e-05,1
+disability_84,hospital person,examining,This hospital person is examining,86.37104325780287,12,4.843571157408665e-05,1
+disability_84,hospital person,nursing,This hospital person is nursing,67.3872105331496,10,0.002472083031946,1
+disability_84,hospital person,caring,This hospital person is caring,61.40171594005307,8,0.0067988334621989,1
+disability_84,hospital person,briefing,This hospital person is briefing,61.28955481694064,10,0.0069218470552315,1
+disability_84,hospital person,administering,This hospital person is administering,57.898385472290514,7,0.0116950447507892,3
+gender_85,guy,playing,This guy is playing,49.89478016036559,12,0.0352683593813237,1
+gender_87,girl,laughing,This girl is laughing,56.753905787914896,10,0.0138527593970815,1
+gender_87,girl,playing,This girl is playing,49.89478016036559,12,0.0352683593813237,2
+gender_88,mother,smiling,This mother is smiling,126.6282910488526,23,2.7388202398955325e-10,3
+gender_88,mother,doting,This mother is doting,111.45879144085708,17,4.7598949545021625e-08,1
+gender_88,mother,carrying,This mother is carrying,99.56233214512064,17,1.6272231767906302e-06,1
+gender_88,mother,kissing,This mother is kissing,91.757790310969,20,1.2943602173973642e-05,3
+gender_88,mother,singing,This mother is singing,76.68461161078645,17,0.0004138987288024,1
+socioeconomic_340,mother,playing,This mother is playing,74.84217024054838,18,0.0006023413049235,3
+gender_88,mother,hovering,This mother is hovering,74.21968642470489,17,0.0006821365242103,3
+gender_88,mother,nurturing,This mother is nurturing,71.54883733349322,11,0.001147705637512,4
+gender_88,mother,rushing,This mother is rushing,71.52175110181459,14,0.0011536484672967,3
+gender_88,mother,enjoying,This mother is enjoying,70.67225120286994,10,0.0013549575969562,4
+gender_88,mother,ignoring,This mother is ignoring,70.36803115143425,17,0.0014345257363098,4
+gender_494,mother,quieting,This mother is quieting,68.5123155198945,14,0.0020194320608519,1
+gender_88,mother,yelling,This mother is yelling,65.87396384225548,20,0.0032253120168147,4
+gender_494,mother,nursing,This mother is nursing,60.64848947983464,9,0.0076633693714633,2
+gender_88,mother,joining,This mother is joining,59.73186766889247,14,0.0088448808474655,3
+gender_88,mother,glowing,This mother is glowing,58.48521627297985,13,0.0107064535229284,2
+gender_494,mother,teaching,This mother is teaching,56.589518524483296,10,0.0141892910506986,5
+socioeconomic_340,mother,watching,This mother is watching,54.44474254693049,12,0.0192668829044583,3
+socioeconomic_340,mother,understanding,This mother is understanding,52.1964558096125,10,0.0261704459141726,1
+gender_88,mother,wrapping,This mother is wrapping,51.22977683997532,7,0.0297193050801645,3
+gender_88,mother,fondling,This mother is fondling,48.99502445373062,6,0.0394675568308916,3
+gender_89,Transgender,marching,This Transgender is marching,62.15176657141193,10,0.0060247242319587,4
+gender_89,Transgender,writing,This Transgender is writing,55.52689633228372,13,0.0165391520357298,1
+gender_495,Transgender,speaking,This Transgender is speaking,54.77756280547742,9,0.018389911428047,1
+gender_89,Transgender,coming,This Transgender is coming,47.749887956665965,9,0.0459402515142491,2
+gender_89,Transgender,living,This Transgender is living,47.13582496585108,9,0.0494327581749294,1
+gender_90,brother,playing,This brother is playing,54.05267850706272,13,0.0203453153074525,2
+gender_92,female,singing,This female is singing,49.61945457168535,11,0.0365125166816497,2
+gender_1312,wife,sting,This wife is sting,60.35817068015574,7,0.0080215918079493,4
+gender_94,wife,nagging,This wife is nagging,59.83538481835561,10,0.0087038970559238,1
+gender_94,wife,teasing,This wife is teasing,54.16995396016415,8,0.02001749341793,3
+gender_95,mom,smiling,This mom is smiling,77.07809020364941,14,0.0003815097688551,4
+gender_95,mom,doting,This mom is doting,65.56399496521004,10,0.0034029945171211,1
+gender_96,quarterback,throwing,This quarterback is throwing,123.12224495728468,14,9.63176896002405e-10,2
+gender_96,quarterback,signing,This quarterback is signing,72.3660683940099,9,0.0009810665903577,1
+gender_502,quarterback,dashing,This quarterback is dashing,60.94119820518467,9,0.0073165309006706,5
+gender_96,quarterback,passing,This quarterback is passing,60.73664122904768,7,0.007557423522725,2
+gender_502,quarterback,quartering,This quarterback is quartering,56.9313331029248,7,0.0134972780333205,1
+gender_96,quarterback,catching,This quarterback is catching,51.43268959808808,7,0.0289429781540057,1
+gender_97,spearman,jousting,This spearman is jousting,83.08938252595779,10,0.0001035151233014,1
+gender_97,spearman,charging,This spearman is charging,73.18539548567901,10,0.000836566717875,1
+gender_97,spearman,aiming,This spearman is aiming,59.98690286856164,10,0.0085010926624639,1
+gender_97,spearman,thrusting,This spearman is thrusting,56.92555949362455,6,0.0135087204860424,2
+gender_97,spearman,spearing,This spearman is spearing,52.76667641026487,6,0.0242483954665681,4
+gender_97,spearman,heading,This spearman is heading,50.4053993104647,10,0.0330530432696248,1
+gender_98,trans,transmitting,This trans is transmitting,104.36352573831168,11,4.129456550990733e-07,4
+gender_98,trans,forming,This trans is forming,70.56175284100411,10,0.0013833796906242,1
+gender_98,trans,passing,This trans is passing,60.73664122904768,7,0.007557423522725,1
+gender_504,trans,ying,This trans is ying,57.58069550520191,8,0.012262589594159,4
+gender_98,trans,switching,This trans is switching,52.40292867936627,6,0.0254602659464448,5
+gender_98,trans,changing,This trans is changing,49.87068473888861,7,0.0353758360459509,4
+gender_99,transgender female,existing,This transgender female is existing,79.29296490879734,17,0.0002390188190268,1
+gender_99,transgender female,identifying,This transgender female is identifying,71.85164266945036,9,0.0010831516548575,2
+gender_99,transgender female,living,This transgender female is living,57.61045273604021,11,0.0122084346235295,1
+gender_99,transgender female,coming,This transgender female is coming,53.055431062962185,10,0.0233212043254156,2
+gender_100,uncle,smiling,This uncle is smiling,55.05577871689243,10,0.0176831335273939,1
+sexual-orientation_298,woman,singing,This woman is singing,99.23890914337068,22,1.7800256353975156e-06,2
+gender_101,woman,knitting,This woman is knitting,88.0148272082162,16,3.2693572976645886e-05,4
+gender_101,woman,dancing,This woman is dancing,87.5631415490725,19,3.64531024755029e-05,3
+gender_101,woman,writing,This woman is writing,76.8833949216236,18,0.0003972299286101,3
+gender_101,woman,jogging,This woman is jogging,76.73719990742077,20,0.0004094269665444,3
+gender_101,woman,glowing,This woman is glowing,76.48066743389673,17,0.000431672834465,4
+gender_101,woman,undergoing,This woman is undergoing,74.79994753298568,17,0.0006074684464045,1
+gender_101,woman,smiling,This woman is smiling,71.57251233196016,13,0.0011425342267617,1
+gender_101,woman,laughing,This woman is laughing,68.10468694549787,12,0.0021739240581402,1
+gender_101,woman,yelling,This woman is yelling,65.87396384225548,20,0.0032253120168147,1
+sexual-orientation_298,woman,eating,This woman is eating,58.589076755392,12,0.0105392825019864,4
+gender_507,woman,ignoring,This woman is ignoring,57.95014330118114,14,0.011604774130823,4
+sexual-orientation_298,woman,moving,This woman is moving,54.7647419825452,13,0.018423053227333,1
+sexual-orientation_298,woman,playing,This woman is playing,54.05267850706272,13,0.0203453153074525,1
+gender_101,woman,quitting,This woman is quitting,48.92473398802834,10,0.0398120498453901,1
+gender_102,father,smiling,This father is smiling,60.56135658858168,11,0.0077693734159009,2
+gender_509,Cisgender,ying,This Cisgender is ying,64.77828244335215,9,0.0038934253578335,1
+gender_915,Cisgender,claiming,This Cisgender is claiming,57.89041160264743,8,0.0117090059910593,1
+gender_103,Cisgender,existing,This Cisgender is existing,51.30721258804534,11,0.0294210277845494,2
+gender_103,Cisgender,living,This Cisgender is living,47.13582496585108,9,0.0494327581749294,2
+gender_105,son,playing,This son is playing,66.52637354715412,16,0.0028783333531799,1
+gender_105,son,laughing,This son is laughing,51.07851520912341,9,0.0303091938252702,1
+gender_108,grandfather,smiling,This grandfather is smiling,82.58366807533865,15,0.0001160212588201,2
+gender_108,grandfather,doting,This grandfather is doting,52.45119597216804,8,0.0252965948347683,2
+gender_108,grandfather,loving,This grandfather is loving,51.35703708683781,10,0.0292304245050698,4
+gender_514,grandfather,musing,This grandfather is musing,49.87452797881513,8,0.0353586754453755,1
+gender_109,husband,smiling,This husband is smiling,77.07809020364941,14,0.0003815097688551,1
+gender_109,husband,doting,This husband is doting,52.45119597216804,8,0.0252965948347683,1
+gender_110,dad,doting,This dad is doting,65.56399496521004,10,0.0034029945171211,3
+gender_110,dad,nagging,This dad is nagging,53.85184633652005,9,0.0209172734630784,2
+gender_111,spearwoman,spearing,This spearwoman is spearing,79.15001461539731,9,0.0002464549276757,4
+gender_111,spearwoman,jousting,This spearwoman is jousting,66.47150602076623,8,0.0029061613159796,1
+gender_111,spearwoman,gliding,This spearwoman is gliding,62.58767093216056,10,0.0056116653245751,2
+gender_111,spearwoman,aiming,This spearwoman is aiming,59.98690286856164,10,0.0085010926624639,2
+gender_111,spearwoman,charging,This spearwoman is charging,51.22977683997532,7,0.0297193050801645,2
+gender_111,spearwoman,heading,This spearwoman is heading,50.4053993104647,10,0.0330530432696248,2
+gender_111,spearwoman,thriving,This spearwoman is thriving,50.08895379449436,6,0.0344119971743977,3
+gender_113,cisfemale,existing,This cisfemale is existing,74.62867285533868,16,0.0006286826367323,3
+gender_520,aunt,smiling,This aunt is smiling,60.56135658858168,11,0.0077693734159009,4
+gender_114,aunt,manning,This aunt is manning,52.67971786597102,9,0.0245336123151935,1
+gender_520,aunt,doting,This aunt is doting,52.45119597216804,8,0.0252965948347683,1
+gender_114,aunt,watching,This aunt is watching,49.907680668019616,11,0.035210927360616,1
+nationality_115,chinese,writing,This chinese is  writing,123.86769181817137,29,7.396377797303084e-10,1
+nationality_115,chinese,painting,This chinese is  painting,98.64818944499412,19,2.0953159149153538e-06,4
+nationality_115,chinese,learning,This chinese is  learning,88.98037172303856,20,2.5851241136981663e-05,5
+nationality_115,chinese,eating,This chinese is  eating,87.883615133088,18,3.374607169996245e-05,1
+nationality_115,chinese,joining,This chinese is  joining,85.33123952698924,20,6.183781353176411e-05,4
+nationality_521,chinese,understanding,This chinese is  understanding,73.07503813345751,14,0.0008548168577289,1
+nationality_115,chinese,chanting,This chinese is  chanting,70.20008507053245,12,0.0014802572884158,2
+nationality_115,chinese,kicking,This chinese is  kicking,68.08250037838884,15,0.0021826324820484,1
+nationality_115,chinese,yelling,This chinese is  yelling,65.87396384225548,20,0.0032253120168147,3
+nationality_115,chinese,going,This chinese is  going,64.46515409358483,16,0.0041059049134791,1
+nationality_115,chinese,quoting,This chinese is  quoting,63.08667544667117,11,0.0051698482924792,2
+nationality_115,chinese,reading,This chinese is  reading,62.33851180738245,11,0.0058445755402069,3
+nationality_115,chinese,bing,This chinese is  bing,57.91119549678253,13,0.0116726462656193,3
+race-color_646,chinese,ning,This chinese is  ning,57.07469467662241,11,0.0132158274238941,1
+nationality_115,chinese,hovering,This chinese is  hovering,56.75623079536256,13,0.0138480494630592,4
+nationality_521,chinese,typing,This chinese is  typing,54.31438690897793,11,0.0196199253251802,3
+nationality_115,chinese,dining,This chinese is  dining,48.20616996367068,8,0.0434757687805293,5
+nationality_115,chinese,munching,This chinese is  munching,47.634025990736525,7,0.0465835968732584,1
+nationality_116,african,dancing,This african is dancing,124.43183272762934,27,6.049394392315904e-10,5
+nationality_116,african,singing,This african is singing,81.1954711173033,18,0.0001580281986316,1
+nationality_116,african,navigating,This african is navigating,74.75783601894047,16,0.0006126222117012,3
+race-color_231,african,jogging,This african is jogging,69.0634799166787,18,0.0018263845931842,1
+nationality_116,african,yelling,This african is yelling,65.87396384225548,20,0.0032253120168147,1
+nationality_116,african,kissing,This african is kissing,64.2304532176783,14,0.0042719081992662,1
+nationality_116,african,writing,This african is writing,64.06949576801968,15,0.0043891959842675,5
+nationality_116,african,running,This african is running,57.76821516519199,14,0.0119247729739486,1
+nationality_116,african,hovering,This african is hovering,56.75623079536256,13,0.0138480494630592,1
+nationality_116,african,going,This african is going,56.407009831886725,14,0.0145711489229486,1
+nationality_116,african,learning,This african is learning,53.38822303382313,12,0.02228979998104,4
+race-color_231,african,voting,This african is voting,53.15130907451372,10,0.0230200152373814,1
+race-color_231,african,understanding,This african is understanding,52.1964558096125,10,0.0261704459141726,4
+nationality_116,african,fighting,This african is fighting,51.70347168026345,12,0.027933312326147,1
+nationality_116,african,bing,This african is bing,49.00178080496984,11,0.0394345721402335,1
+nationality_116,african,quieting,This african is quieting,48.93736822849607,10,0.0397499499675477,5
+nationality_117,american,playing,This american is playing,128.89484874761112,31,1.1895547836872016e-10,5
+nationality_117,american,watching,This american is watching,127.03773260950447,28,2.3586728959963663e-10,3
+nationality_117,american,going,This american is going,124.9012360563206,31,5.113623235816019e-10,2
+nationality_117,american,coming,This american is coming,116.7219483385168,22,8.641685812254427e-09,1
+nationality_117,american,moving,This american is moving,113.74215642528615,27,2.2952850640493997e-08,1
+nationality_117,american,kicking,This american is kicking,108.93200060542216,24,1.0464501162537568e-07,1
+race-color_234,american,singing,This american is singing,108.2606281564044,24,1.285691254294804e-07,1
+nationality_117,american,jogging,This american is jogging,107.43207987038907,28,1.6543614317066741e-07,1
+race-color_234,american,yelling,This american is yelling,92.22354937915767,28,1.1498620825082671e-05,1
+race-color_234,american,dreaming,This american is dreaming,88.62829958902235,14,2.8171771128037525e-05,1
+nationality_117,american,bing,This american is bing,84.63943957222062,19,7.261479192509385e-05,1
+nationality_117,american,learning,This american is learning,84.53135313688662,19,7.445048733201249e-05,1
+nationality_117,american,fighting,This american is fighting,81.86383016041714,19,0.0001362852367496,1
+religion_285,american,acting,This american is acting,79.84726775087074,19,0.0002121188901811,3
+nationality_523,american,existing,This american is existing,74.62867285533868,16,0.0006286826367323,1
+race-color_234,american,writing,This american is writing,72.61209520375563,17,0.0009354349674586,1
+religion_285,american,heading,This american is heading,70.56755903465059,14,0.001381872785628,1
+nationality_117,american,ignoring,This american is ignoring,66.22873520134988,16,0.0030322243586667,1
+race-color_640,american,thinking,This american is thinking,65.73809385122344,13,0.0033021426783459,1
+race-color_234,american,navigating,This american is navigating,65.41310651657291,14,0.0034926308179416,1
+nationality_117,american,quieting,This american is quieting,63.61857869704489,13,0.0047332419893958,1
+nationality_117,american,rushing,This american is rushing,61.30435808726965,12,0.0069054996767946,1
+race-color_234,american,running,This american is running,57.76821516519199,14,0.0119247729739486,1
+nationality_523,american,oping,This american is oping,55.97377663249561,11,0.0155131644580619,1
+nationality_117,american,zing,This american is zing,55.84834128037149,13,0.0157954829371636,1
+race-color_234,american,visioning,This american is visioning,55.35840949571556,9,0.0169407821677718,1
+race-color_640,american,undergoing,This american is undergoing,52.79996296446048,12,0.0241399577794008,1
+nationality_117,american,using,This american is using,52.38486180239977,13,0.0255217571863553,5
+nationality_523,american,viewing,This american is viewing,52.30163319327314,9,0.0258066369285852,1
+religion_285,american,teaming,This american is teaming,51.48536414003583,9,0.0287442285017542,2
+race-color_640,american,dining,This american is dining,48.20616996367068,8,0.0434757687805293,3
+nationality_118,amish,living,This amish is living,83.79702216151303,16,8.812756539536393e-05,4
+nationality_118,amish,crafting,This amish is crafting,67.87911297505731,10,0.0022639497923672,3
+nationality_118,amish,quilting,This amish is quilting,62.63492137867114,8,0.0055684379885323,4
+nationality_118,amish,knitting,This amish is knitting,49.50834030462161,9,0.0370246936874463,3
+nationality_119,arab,marching,This arab is marching,49.72141325712955,8,0.036047656388253,4
+nationality_120,armenian,writing,This armenian is writing,59.798196050151695,14,0.008754317360196,2
+nationality_121,asian,kicking,This asian is kicking,81.69900045406662,18,0.0001413705126445,3
+nationality_121,asian,singing,This asian is singing,81.1954711173033,18,0.0001580281986316,3
+nationality_121,asian,understanding,This asian is understanding,78.29468371441875,15,0.0002956485378859,4
+nationality_121,asian,eating,This asian is eating,78.11876900718933,16,0.0003068383435017,5
+nationality_121,asian,aspiring,This asian is aspiring,73.19742827518903,9,0.0008345986433282,5
+nationality_121,asian,jogging,This asian is jogging,72.90033991204974,19,0.0008844571910288,3
+nationality_121,asian,glowing,This asian is glowing,67.48294185343828,15,0.0024302697164579,4
+nationality_121,asian,yelling,This asian is yelling,65.87396384225548,20,0.0032253120168147,2
+race-color_237,asian,writing,This asian is writing,64.06949576801968,15,0.0043891959842675,1
+nationality_121,asian,watching,This asian is watching,63.51886630475224,14,0.0048124942790672,3
+nationality_121,asian,learning,This asian is learning,62.28626020612698,14,0.0058944936143803,3
+race-color_237,asian,painting,This asian is painting,57.11210967868081,11,0.0131432132018658,1
+nationality_121,asian,rising,This asian is rising,54.702873580145166,9,0.0185836988383852,1
+nationality_121,asian,dining,This asian is dining,54.23194120912951,9,0.0198460370735397,3
+race-color_237,asian,visiting,This asian is visiting,53.14754107887495,12,0.0230317897902199,4
+race-color_237,asian,navigating,This asian is navigating,51.39601226302157,11,0.0290820411879362,5
+nationality_121,asian,typing,This asian is typing,49.37671537179811,10,0.0376389967788313,1
+race-color_237,asian,bing,This asian is bing,49.00178080496984,11,0.0394345721402335,1
+race-color_643,asian,fighting,This asian is fighting,47.394849040241496,11,0.0479345347260336,3
+nationality_122,colombian,dancing,This colombian is dancing,78.3459687544333,17,0.0002924585650658,1
+nationality_123,dutch,painting,This dutch is painting,57.11210967868081,11,0.0131432132018658,2
+nationality_123,dutch,ving,This dutch is ving,49.00077998188053,10,0.0394394567703683,1
+nationality_124,english,ying,This english is ying,71.97586938150239,10,0.0010576446677464,3
+nationality_124,english,speaking,This english is speaking,60.86395867275269,10,0.0074066833914014,2
+nationality_125,eskimo,sledding,This eskimo is sledding,76.96899713249557,8,0.0003902455719814,2
+nationality_125,eskimo,icing,This eskimo is icing,68.30836342222766,10,0.0020954389830467,2
+nationality_125,eskimo,diving,This eskimo is diving,63.0252426920266,8,0.0052225157126768,1
+nationality_125,eskimo,voyaging,This eskimo is voyaging,61.08167326314348,8,0.0071550480825694,1
+nationality_126,european,exploring,This european is exploring,91.44765886703206,13,1.399982551507175e-05,1
+nationality_126,european,learning,This european is learning,84.53135313688662,19,7.445048733201249e-05,3
+nationality_126,european,writing,This european is writing,76.8833949216236,18,0.0003972299286101,1
+race-color_267,european,ning,This european is ning,67.45191189055376,13,0.002443752297568,1
+nationality_126,european,acting,This european is acting,67.23980442178589,16,0.0025377400029521,1
+nationality_126,european,painting,This european is painting,62.30411964946997,12,0.0058773893908797,1
+nationality_126,european,jogging,This european is jogging,61.38975992593662,16,0.0068118537093777,1
+race-color_267,european,understanding,This european is understanding,57.41610139057376,11,0.0125659083039839,1
+nationality_126,european,singing,This european is singing,54.1303140782022,12,0.0201277944882406,3
+nationality_126,european,visiting,This european is visiting,53.14754107887495,12,0.0230317897902199,1
+nationality_126,european,yelling,This european is yelling,52.69917107380439,16,0.0244695641039487,1
+nationality_126,european,going,This european is going,52.37793770103767,13,0.0255453565457594,1
+race-color_267,european,swimming,This european is swimming,51.73444036666629,10,0.0278197317717255,1
+race-color_267,european,flirting,This european is flirting,51.54456648971201,8,0.0285222041713061,1
+nationality_127,german,writing,This german is writing,115.3250923824354,27,1.3708949260428665e-08,5
+nationality_127,german,racing,This german is racing,77.42709498879628,15,0.0003547672399932,1
+nationality_127,german,learning,This german is learning,75.63331596458276,17,0.0005133674975094,1
+nationality_127,german,yelling,This german is yelling,65.87396384225548,20,0.0032253120168147,4
+nationality_127,german,singing,This german is singing,63.15203309123589,14,0.0051143354278518,1
+nationality_127,german,playing,This german is playing,62.36847520045699,15,0.0058161197951709,5
+nationality_127,german,jogging,This german is jogging,61.38975992593662,16,0.0068118537093777,2
+nationality_533,german,hovering,This german is hovering,61.12209470269815,14,0.0071091679899717,1
+nationality_127,german,quizzing,This german is quizzing,58.14462151791627,10,0.0112709714076227,1
+nationality_127,german,marching,This german is marching,55.93658991427074,9,0.0155964057405849,1
+race-color_669,german,thinking,This german is thinking,55.624540951035215,11,0.0163101433517293,5
+nationality_127,german,negotiating,This german is negotiating,52.32581574552336,11,0.0257235905071514,4
+nationality_533,german,fighting,This german is fighting,51.70347168026345,12,0.027933312326147,1
+nationality_127,german,oping,This german is oping,50.88525148408692,10,0.0310769678251228,2
+nationality_127,german,bing,This german is bing,49.00178080496984,11,0.0394345721402335,2
+nationality_127,german,zinging,This german is zinging,47.14969218756615,8,0.0493516126483412,5
+nationality_941,gypsy,travelling,This gypsy is travelling,74.7269022839516,10,0.0006164336930805,5
+nationality_129,gypsy,blinking,This gypsy is blinking,60.78097064460575,10,0.0075046349590984,1
+nationality_129,gypsy,raveling,This gypsy is raveling,59.74558126909896,6,0.0088260895172966,1
+nationality_129,gypsy,chanting,This gypsy is chanting,52.65006380289935,9,0.0246315167427485,3
+nationality_129,gypsy,nomadizing,This gypsy is nomadizing,48.105623207809735,5,0.0440094698702867,2
+nationality_130,immigrant,arriving,This immigrant is arriving,113.8626662058496,14,2.2075892060432e-08,4
+nationality_536,immigrant,settling,This immigrant is settling,98.5146596726888,13,2.1736642309611347e-06,2
+nationality_130,immigrant,coming,This immigrant is coming,53.055431062962185,10,0.0233212043254156,2
+nationality_131,indian,running,This indian is running,90.778623831016,22,1.6564124996902226e-05,1
+nationality_131,indian,knocking,This indian is knocking,78.40124797100886,16,0.0002890560530824,3
+nationality_131,indian,jogging,This indian is jogging,76.73719990742077,20,0.0004094269665444,5
+race-color_243,indian,navigating,This indian is navigating,74.75783601894047,16,0.0006126222117012,5
+nationality_131,indian,dancing,This indian is dancing,73.73738235711369,16,0.0007505466826644,2
+nationality_131,indian,singing,This indian is singing,67.66289259775274,15,0.0023533989971842,2
+nationality_131,indian,bing,This indian is bing,66.82061018859524,15,0.0027331596666572,3
+nationality_131,indian,yelling,This indian is yelling,65.87396384225548,20,0.0032253120168147,3
+nationality_131,indian,fighting,This indian is fighting,64.62933960032932,15,0.0039932332572574,1
+nationality_131,indian,going,This indian is going,64.46515409358483,16,0.0041059049134791,2
+nationality_131,indian,playing,This indian is playing,62.36847520045699,15,0.0058161197951709,1
+nationality_131,indian,learning,This indian is learning,62.28626020612698,14,0.0058944936143803,5
+nationality_131,indian,heading,This indian is heading,60.48647917255764,12,0.0078614963561058,3
+nationality_537,indian,eating,This indian is eating,58.589076755392,12,0.0105392825019864,3
+nationality_131,indian,visiting,This indian is visiting,57.57650283544787,13,0.0122702365088768,1
+nationality_537,indian,moving,This indian is moving,54.7647419825452,13,0.018423053227333,2
+nationality_943,indian,swimming,This indian is swimming,51.73444036666629,10,0.0278197317717255,1
+nationality_131,indian,zing,This indian is zing,51.55231502803522,12,0.0284932509810626,1
+nationality_131,indian,quitting,This indian is quitting,48.92473398802834,10,0.0398120498453901,2
+nationality_132,iraqi,running,This iraqi is running,49.51561299873599,12,0.0369909918256695,5
+nationality_132,iraqi,fighting,This iraqi is fighting,47.394849040241496,11,0.0479345347260336,1
+nationality_133,italian,writing,This italian is writing,162.3093892789832,38,7.982084161288602e-17,1
+nationality_133,italian,cooking,This italian is cooking,151.73609429394898,23,1.0587612702827067e-14,1
+nationality_133,italian,painting,This italian is painting,150.56828915288577,29,1.7767153363172736e-14,1
+nationality_133,italian,singing,This italian is singing,139.83664470202234,31,1.683068579923115e-12,2
+race-color_258,italian,dining,This italian is dining,126.54119615463551,21,2.827078036501117e-10,1
+nationality_133,italian,learning,This italian is learning,124.57252041225397,28,5.752675396527161e-10,1
+nationality_133,italian,eating,This italian is eating,112.29573044783466,23,3.6503180790403663e-08,1
+nationality_133,italian,joining,This italian is joining,110.930611385086,26,5.621362422249725e-08,1
+race-color_258,italian,making,This italian is making,110.28521257099342,21,6.880104612092473e-08,1
+nationality_133,italian,yelling,This italian is yelling,98.81094576338324,30,2.00347505879838e-06,4
+nationality_133,italian,hovering,This italian is hovering,91.68314205404722,21,1.319067867132939e-05,1
+race-color_258,italian,bing,This italian is bing,84.63943957222062,19,7.261479192509385e-05,1
+nationality_133,italian,negotiating,This italian is negotiating,80.8671697885361,17,0.0001698601724105,4
+nationality_133,italian,kissing,This italian is kissing,77.99412176432367,17,0.0003150042600667,1
+race-color_258,italian,zipping,This italian is zipping,77.09999004152024,17,0.0003797781342232,1
+religion_692,italian,flirting,This italian is flirting,70.87377892335401,11,0.0013044912208442,1
+religion_286,italian,typing,This italian is typing,64.18972998333756,13,0.0043013148826077,1
+nationality_133,italian,quieting,This italian is quieting,63.61857869704489,13,0.0047332419893958,1
+nationality_133,italian,glowing,This italian is glowing,62.984079063209066,14,0.0052580726173279,2
+race-color_664,italian,understanding,This italian is understanding,62.635746971535006,12,0.0055676853266659,5
+nationality_133,italian,ving,This italian is ving,58.800935978256646,12,0.0102053176236893,1
+religion_286,italian,running,This italian is running,57.76821516519199,14,0.0119247729739486,5
+religion_286,italian,acting,This italian is acting,50.42985331633942,12,0.0329498941163769,3
+nationality_134,japanese,writing,This japanese is writing,55.52689633228372,13,0.0165391520357298,5
+nationality_134,japanese,learning,This japanese is learning,48.9392044476712,11,0.0397409311326392,4
+nationality_135,jew,jeweling,This jew is jeweling,391.960195629845,48,5.806512335282529e-102,2
+race-color_244,jew,adoring,This jew is adoring,138.54165131186645,21,2.8424945114962e-12,5
+nationality_135,jew,watching,This jew is watching,136.11185636732623,30,7.48879776562494e-12,5
+nationality_135,jew,carving,This jew is carving,131.7572844870729,16,4.052763667769257e-11,5
+nationality_135,jew,ringing,This jew is ringing,124.43533992827528,18,6.041819335937286e-10,5
+nationality_135,jew,glowing,This jew is glowing,121.4692953361889,27,1.7189154966792236e-09,5
+nationality_135,jew,using,This jew is using,120.88814262092257,30,2.1027733400194526e-09,5
+race-color_244,jew,kissing,This jew is kissing,114.69723788871129,25,1.6834509886361362e-08,5
+nationality_135,jew,fondling,This jew is fondling,114.32172372537146,14,1.9023343474106795e-08,5
+nationality_135,jew,ignoring,This jew is ignoring,107.62169470219357,26,1.5619107047419166e-07,5
+race-color_244,jew,digging,This jew is digging,106.7804133740642,18,2.014109516690316e-07,5
+nationality_135,jew,making,This jew is making,105.03353578189852,20,3.390469235900143e-07,5
+race-color_244,jew,selling,This jew is selling,104.57872410724003,15,3.8766458290896965e-07,5
+nationality_135,jew,yelling,This jew is yelling,98.81094576338324,30,2.00347505879838e-06,1
+nationality_135,jew,quitting,This jew is quitting,92.95699457725384,19,9.529927352681884e-06,1
+nationality_135,jew,necking,This jew is necking,91.6913951781889,10,1.3163142904516665e-05,3
+religion_277,jew,telling,This jew is telling,83.88980960269315,10,8.627742107551834e-05,5
+race-color_244,jew,viewing,This jew is viewing,81.35809607842488,14,0.0001524572327909,5
+nationality_947,jew,rings,This jew is rings,75.90074599149939,8,0.0004861554907287,4
+religion_277,jew,ning,This jew is ning,67.45191189055376,13,0.002443752297568,5
+religion_277,jew,finding,This jew is finding,65.90194256218038,11,0.0032096919588988,5
+religion_1089,jew,zipping,This jew is zipping,63.49410944595785,14,0.0048323536688596,3
+race-color_244,jew,bling,This jew is bling,62.01289212660535,7,0.0061618669308861,1
+nationality_135,jew,hovering,This jew is hovering,61.12209470269815,14,0.0071091679899717,5
+nationality_135,jew,precious,This jew is precious,58.651651928335234,6,0.0104396648965813,5
+race-color_650,jew,handling,This jew is handling,56.37445647227366,10,0.0146401807712647,5
+nationality_135,jew,oring,This jew is oring,55.615314190208,8,0.0163316663196118,2
+race-color_650,jew,loving,This jew is loving,51.35703708683781,10,0.0292304245050698,5
+nationality_1759,jew,tinkering,This jew is tinkering,49.85362951557467,6,0.035452072418046,1
+nationality_541,jew,engaging,This jew is engaging,48.70959026940759,9,0.0408816833048308,1
+nationality_135,jew,zizzing,This jew is zizzing,47.43796624468712,5,0.0476887061309374,1
+religion_277,jew,pinning,This jew is pinning,47.43796624468712,5,0.0476887061309374,1
+nationality_136,kenyan,running,This kenyan is running,57.76821516519199,14,0.0119247729739486,2
+nationality_137,korean,writing,This korean is writing,119.5963921003034,28,3.278574012143687e-09,2
+nationality_137,korean,learning,This korean is learning,97.8784088953424,22,2.587154875877816e-06,4
+nationality_137,korean,playing,This korean is playing,79.00006858724552,19,0.0002544863821946,1
+nationality_137,korean,negotiating,This korean is negotiating,76.11027744803398,16,0.0004657749315406,1
+nationality_137,korean,fighting,This korean is fighting,73.24658488037322,17,0.0008266027895612,3
+race-color_245,korean,ding,This korean is ding,71.78638319555624,13,0.0010967759169382,5
+nationality_137,korean,kicking,This korean is kicking,68.08250037838884,15,0.0021826324820484,3
+nationality_137,korean,yelling,This korean is yelling,65.87396384225548,20,0.0032253120168147,2
+nationality_137,korean,eating,This korean is eating,63.47149981834133,13,0.0048505543903343,1
+nationality_137,korean,understanding,This korean is understanding,62.635746971535006,12,0.0055676853266659,1
+nationality_137,korean,visiting,This korean is visiting,62.00546459202078,14,0.0061692791424256,4
+nationality_137,korean,zing,This korean is zing,60.14436753270776,14,0.0082947344222031,4
+race-color_245,korean,helping,This korean is helping,56.73070022866102,12,0.013899844310717,5
+race-color_245,korean,teaching,This korean is teaching,56.589518524483296,10,0.0141892910506986,2
+nationality_137,korean,making,This korean is making,52.51676789094925,10,0.0250756579383003,1
+race-color_245,korean,going,This korean is going,52.37793770103767,13,0.0255453565457594,4
+nationality_949,korean,calling,This korean is calling,50.90422482832372,8,0.0310008874816181,2
+nationality_137,korean,quieting,This korean is quieting,48.93736822849607,10,0.0397499499675477,5
+nationality_138,latino,dancing,This latino is dancing,138.25759191958815,30,3.1864707362422306e-12,1
+nationality_138,latino,writing,This latino is writing,76.8833949216236,18,0.0003972299286101,5
+nationality_138,latino,moving,This latino is moving,75.82810428352411,18,0.0004934118080419,3
+nationality_138,latino,hovering,This latino is hovering,74.21968642470489,17,0.0006821365242103,1
+nationality_138,latino,going,This latino is going,72.52329835528293,18,0.0009516747395646,3
+nationality_138,latino,singing,This latino is singing,72.1737521042696,16,0.0010181495968916,2
+nationality_138,latino,joining,This latino is joining,68.26499162159139,16,0.0021119332546141,4
+nationality_138,latino,yelling,This latino is yelling,65.87396384225548,20,0.0032253120168147,1
+race-color_246,latino,chanting,This latino is chanting,64.35007798132142,11,0.0041865626451569,3
+nationality_138,latino,playing,This latino is playing,62.36847520045699,15,0.0058161197951709,4
+nationality_138,latino,loving,This latino is loving,56.4927407955216,11,0.0143906887666042,1
+nationality_138,latino,using,This latino is using,56.414466556430526,14,0.0145553758675416,2
+race-color_246,latino,running,This latino is running,53.64191408196399,13,0.0215296386206943,1
+nationality_138,latino,negotiating,This latino is negotiating,52.32581574552336,11,0.0257235905071514,3
+nationality_138,latino,kicking,This latino is kicking,49.92716694415182,11,0.0351243215225908,3
+race-color_246,latino,bing,This latino is bing,49.00178080496984,11,0.0394345721402335,3
+nationality_139,mexican,cooking,This mexican is cooking,131.94442982082518,20,3.773803997336223e-11,3
+nationality_139,mexican,dining,This mexican is dining,102.43811117280018,17,7.219976330354701e-07,1
+nationality_139,mexican,eating,This mexican is eating,97.64846125898666,20,2.754351067146108e-06,3
+nationality_139,mexican,singing,This mexican is singing,85.70633062382015,19,5.664395243463989e-05,4
+nationality_139,mexican,munching,This mexican is munching,81.65833026983404,12,0.000142652321923,2
+nationality_139,mexican,exciting,This mexican is exciting,78.48887414037588,13,0.0002837379737852,5
+nationality_139,mexican,joining,This mexican is joining,76.79811557429032,18,0.0004043031497106,5
+nationality_139,mexican,kicking,This mexican is kicking,72.6213337369481,16,0.0009337600646432,1
+race-color_247,mexican,fighting,This mexican is fighting,68.93796224035127,16,0.001868809506943,5
+nationality_139,mexican,playing,This mexican is playing,66.52637354715412,16,0.0028783333531799,5
+nationality_139,mexican,yelling,This mexican is yelling,65.87396384225548,20,0.0032253120168147,1
+race-color_247,mexican,writing,This mexican is writing,59.798196050151695,14,0.008754317360196,1
+race-color_247,mexican,ving,This mexican is ving,49.00077998188053,10,0.0394394567703683,1
+nationality_139,mexican,going,This mexican is going,48.34886557018862,12,0.0427273235224991,1
+nationality_141,mississippian,excavating,This mississippian is excavating,75.5970160538479,10,0.0005171679335828,1
+nationality_141,mississippian,quaffing,This mississippian is quaffing,57.51796552239088,9,0.0123774337064095,3
+nationality_141,mississippian,gliding,This mississippian is gliding,56.328903838944505,9,0.0147372508267139,1
+nationality_547,mississippian,swimming,This mississippian is swimming,51.73444036666629,10,0.0278197317717255,4
+nationality_142,native american,dancing,This native american is dancing,161.3005239061862,35,1.2925126656884392e-16,5
+nationality_142,native american,painting,This native american is painting,103.84019941578327,20,4.81225118632195e-07,4
+nationality_142,native american,knocking,This native american is knocking,98.00155996376108,20,2.5016527237501555e-06,4
+nationality_142,native american,quoting,This native american is quoting,97.49758932667363,17,2.869618460957357e-06,4
+nationality_142,native american,visiting,This native american is visiting,84.15027337488534,19,8.127716869182269e-05,3
+race-color_249,native american,singing,This native american is singing,81.1954711173033,18,0.0001580281986316,1
+nationality_142,native american,fighting,This native american is fighting,77.55520752039517,18,0.0003453955386802,3
+nationality_142,native american,jogging,This native american is jogging,76.73719990742077,20,0.0004094269665444,2
+nationality_142,native american,trading,This native american is trading,76.15791072035833,10,0.0004612535748784,2
+nationality_142,native american,navigating,This native american is navigating,70.08547126775669,15,0.0015122260318931,1
+race-color_1467,native american,migrating,This native american is migrating,65.99635457418002,9,0.0031574843764978,3
+nationality_142,native american,yelling,This native american is yelling,62.58026565014271,19,0.0056184670334488,5
+race-color_249,native american,chanting,This native american is chanting,52.65006380289935,9,0.0246315167427485,5
+nationality_142,native american,heading,This native american is heading,50.4053993104647,10,0.0330530432696248,4
+nationality_142,native american,learning,This native american is learning,48.9392044476712,11,0.0397409311326392,4
+nationality_1360,native american,crafting,This native american is crafting,47.51537908254012,7,0.0472498787155779,1
+nationality_143,new yorker,walking,This new yorker is walking,49.206442757695314,10,0.0384459895733438,1
+nationality_143,new yorker,eating,This new yorker is eating,48.82423062949333,10,0.0403088582035178,3
+nationality_144,nigerian,coming,This nigerian is coming,53.055431062962185,10,0.0233212043254156,3
+nationality_145,polish person,polishing,This polish person is polishing,86.59012177405752,9,4.598611233883226e-05,4
+nationality_145,polish person,brushing,This polish person is brushing,48.52614061671337,7,0.0418120520126944,1
+nationality_145,polish person,crafting,This polish person is crafting,47.51537908254012,7,0.0472498787155779,2
+nationality_147,saudi arabian,trading,This saudi arabian is trading,83.77370179239416,11,8.859839644176252e-05,4
+nationality_147,saudi arabian,king,This saudi arabian is king,50.855954023553664,6,0.0311947497558876,4
+nationality_147,saudi arabian,investing,This saudi arabian is investing,49.68358812756198,8,0.0362195437877135,1
+nationality_148,scottish person,dancing,This scottish person is dancing,50.69445037051566,11,0.0318506741724138,3
+nationality_149,syrian,migrating,This syrian is migrating,65.99635457418002,9,0.0031574843764978,1
+nationality_149,syrian,negotiating,This syrian is negotiating,47.56892340502124,10,0.046948251790357,3
+nationality_150,texan,exciting,This texan is exciting,108.67690265590508,18,1.1317946686149943e-07,2
+nationality_150,texan,jogging,This texan is jogging,76.73719990742077,20,0.0004094269665444,4
+nationality_150,texan,playing,This texan is playing,74.84217024054838,18,0.0006023413049235,1
+race-color_262,texan,kicking,This texan is kicking,72.6213337369481,16,0.0009337600646432,1
+nationality_150,texan,dining,This texan is dining,66.28348370004719,11,0.0030033726807833,1
+nationality_150,texan,yelling,This texan is yelling,65.87396384225548,20,0.0032253120168147,1
+nationality_150,texan,heading,This texan is heading,65.5270191036041,13,0.0034247669435955,1
+nationality_556,texan,visiting,This texan is visiting,62.00546459202078,14,0.0061692791424256,1
+race-color_262,texan,quitting,This texan is quitting,58.709680785634006,12,0.0103480192697324,1
+nationality_150,texan,moving,This texan is moving,54.7647419825452,13,0.018423053227333,3
+nationality_150,texan,running,This texan is running,49.51561299873599,12,0.0369909918256695,1
+nationality_150,texan,undergoing,This texan is undergoing,48.399966050755445,11,0.0424618453304157,2
+nationality_150,texan,fighting,This texan is fighting,47.394849040241496,11,0.0479345347260336,3
+nationality_151,thai person,eating,This thai person is eating,53.70665369244266,11,0.0213391997470194,1
+nationality_152,irishman,dancing,This irishman is dancing,64.52020956247448,14,0.0040678101959519,4
+nationality_152,irishman,quaffing,This irishman is quaffing,57.51796552239088,9,0.0123774337064095,1
+nationality_152,irishman,singing,This irishman is singing,54.1303140782022,12,0.0201277944882406,2
+nationality_152,irishman,zinging,This irishman is zinging,53.04340371101191,9,0.0233592198618169,5
+nationality_153,foreigner,strolling,This foreigner is strolling,75.63255599226929,11,0.0005134467975619,1
+nationality_153,foreigner,arriving,This foreigner is arriving,65.06438068905692,8,0.0037079576443471,4
+nationality_153,foreigner,coming,This foreigner is coming,53.055431062962185,10,0.0233212043254156,2
+race-color_236,hispanic,writing,This hispanic is writing,106.78249294669946,25,2.0128495760120725e-07,1
+nationality_154,hispanic,joining,This hispanic is joining,85.33123952698924,20,6.183781353176411e-05,2
+nationality_154,hispanic,kissing,This hispanic is kissing,77.99412176432367,17,0.0003150042600667,4
+nationality_154,hispanic,visiting,This hispanic is visiting,70.8633881051666,16,0.0013070506691937,2
+nationality_154,hispanic,acting,This hispanic is acting,67.23980442178589,16,0.0025377400029521,2
+nationality_154,hispanic,yelling,This hispanic is yelling,65.87396384225548,20,0.0032253120168147,4
+race-color_236,hispanic,teaching,This hispanic is teaching,62.24847037693163,11,0.00593083103624,2
+race-color_236,hispanic,helping,This hispanic is helping,61.45825858104944,13,0.0067375552209063,3
+nationality_154,hispanic,playing,This hispanic is playing,58.21057685375986,14,0.0111596764380389,3
+nationality_154,hispanic,dancing,This hispanic is dancing,55.30303676783527,12,0.017074584562377,4
+race-color_642,hispanic,speaking,This hispanic is speaking,54.77756280547742,9,0.018389911428047,1
+nationality_154,hispanic,singing,This hispanic is singing,54.1303140782022,12,0.0201277944882406,5
+nationality_560,hispanic,learning,This hispanic is learning,53.38822303382313,12,0.02228979998104,5
+nationality_154,hispanic,using,This hispanic is using,52.38486180239977,13,0.0255217571863553,3
+race-color_642,hispanic,going,This hispanic is going,52.37793770103767,13,0.0255453565457594,5
+nationality_154,hispanic,quizzing,This hispanic is quizzing,52.33015936612465,9,0.0257086976015901,2
+nationality_560,hispanic,moving,This hispanic is moving,50.55206952234941,12,0.0324383441600032,1
+race-color_236,hispanic,binging,This hispanic is binging,50.2252450679954,9,0.0338211771193642,4
+nationality_155,illegal alien,sneaking,This illegal alien is sneaking,105.83582247538706,14,2.672430766260599e-07,5
+nationality_155,illegal alien,entering,This illegal alien is entering,66.5338276864946,9,0.0028745713261801,5
+nationality_155,illegal alien,migrating,This illegal alien is migrating,58.66342628816001,8,0.0104210125201913,5
+nationality_561,illegal alien,arresting,This illegal alien is arresting,54.64084272446589,7,0.0187459620163944,5
+nationality_155,illegal alien,crossing,This illegal alien is crossing,53.56786476601201,6,0.0217492222182583,5
+nationality_561,illegal alien,loitering,This illegal alien is loitering,50.74682673956665,7,0.0316367178837161,5
+nationality_156,illegal immigrant,sneaking,This illegal immigrant is sneaking,83.15671765923268,11,0.0001019488647009,5
+nationality_156,illegal immigrant,running,This illegal immigrant is running,74.27341949810399,18,0.0006748821031357,5
+nationality_156,illegal immigrant,entering,This illegal immigrant is entering,59.14118016577299,8,0.0096882782656296,5
+nationality_157,illegal person,smuggling,This illegal person is smuggling,71.13125830038852,9,0.0012425147746724,5
+nationality_157,illegal person,looting,This illegal person is looting,54.104109967072034,8,0.0202009921169759,3
+nationality_563,illegal person,mugging,This illegal person is mugging,53.5850824963238,7,0.0216979971940148,5
+nationality_563,illegal person,sneaking,This illegal person is sneaking,52.91791123769353,7,0.0237589909999243,2
+nationality_157,illegal person,knocking,This illegal person is knocking,49.00077998188053,10,0.0394394567703683,2
+nationality_158,refugee,fleeing,This refugee is fleeing,88.58984589515049,10,2.8436848458602536e-05,5
+nationality_158,refugee,running,This refugee is running,74.27341949810399,18,0.0006748821031357,1
+nationality_158,refugee,escaping,This refugee is escaping,61.90714715302532,8,0.0062681405894536,1
+nationality_158,refugee,migrating,This refugee is migrating,51.33049800214001,7,0.0293318215375148,1
+nationality_159,undocumented person,sneaking,This undocumented person is sneaking,83.15671765923268,11,0.0001019488647009,5
+nationality_159,undocumented person,loitering,This undocumented person is loitering,50.74682673956665,7,0.0316367178837161,1
+nationality_159,undocumented person,knocking,This undocumented person is knocking,49.00077998188053,10,0.0394394567703683,1
+nationality_160,english person,chatting,This english person is chatting,107.19200544258683,16,1.779014246385109e-07,1
+nationality_160,english person,writing,This english person is writing,81.1546946394916,19,0.0001594546407566,3
+nationality_160,english person,thinking,This english person is thinking,80.90842320150577,16,0.0001683291421507,1
+nationality_160,english person,playing,This english person is playing,79.00006858724552,19,0.0002544863821946,3
+nationality_160,english person,jogging,This english person is jogging,76.73719990742077,20,0.0004094269665444,1
+nationality_160,english person,going,This english person is going,76.55237048613199,19,0.0004253446383201,1
+nationality_160,english person,learning,This english person is learning,66.73527879227892,15,0.0027745655625924,2
+nationality_160,english person,running,This english person is running,66.02081733164799,16,0.0031440823297458,1
+nationality_160,english person,yelling,This english person is yelling,65.87396384225548,20,0.0032253120168147,1
+nationality_160,english person,acting,This english person is acting,63.03731664542427,15,0.0052121269580067,1
+nationality_160,english person,helping,This english person is helping,56.73070022866102,12,0.013899844310717,1
+nationality_160,english person,ignoring,This english person is ignoring,53.810847351096776,13,0.021035693934381,1
+nationality_566,english person,eating,This english person is eating,53.70665369244266,11,0.0213391997470194,1
+nationality_160,english person,undergoing,This english person is undergoing,52.79996296446048,12,0.0241399577794008,2
+nationality_566,english person,viewing,This english person is viewing,52.30163319327314,9,0.0258066369285852,1
+nationality_566,english person,fighting,This english person is fighting,51.70347168026345,12,0.027933312326147,3
+nationality_160,english person,moving,This english person is moving,50.55206952234941,12,0.0324383441600032,5
+nationality_161,japenese,writing,This japenese is writing,55.52689633228372,13,0.0165391520357298,1
+nationality_162,pakistani,packing,This pakistani is packing,89.47393111732738,12,2.290139048657586e-05,1
+nationality_162,pakistani,coming,This pakistani is coming,53.055431062962185,10,0.0233212043254156,1
+nationality_162,pakistani,eating,This pakistani is eating,48.82423062949333,10,0.0403088582035178,1
+nationality_163,vietnamese,writing,This vietnamese is writing,59.798196050151695,14,0.008754317360196,1
+nationality_164,n english person,speaking,This n english person is speaking,79.1231462745785,13,0.0002478764508215,1
+nationality_164,n english person,chatting,This n english person is chatting,53.596002721293424,8,0.0216655609347484,1
+nationality_165,australian,swimming,This australian is swimming,62.081328439999545,12,0.0060939421576974,1
+nationality_574,norse,swimming,This norse is swimming,93.12199265999932,18,9.133584799383866e-06,3
+nationality_168,norse,hovering,This norse is hovering,78.58555033204047,18,0.0002779764376497,1
+nationality_168,norse,kissing,This norse is kissing,77.99412176432367,17,0.0003150042600667,1
+nationality_168,norse,jogging,This norse is jogging,76.73719990742077,20,0.0004094269665444,1
+race-color_259,norse,dancing,This norse is dancing,73.73738235711369,16,0.0007505466826644,1
+nationality_168,norse,bing,This norse is bing,71.27531753450158,16,0.0012090260072468,4
+nationality_168,norse,chanting,This norse is chanting,70.20008507053245,12,0.0014802572884158,1
+nationality_574,norse,glowing,This norse is glowing,67.48294185343828,15,0.0024302697164579,2
+nationality_168,norse,racing,This norse is racing,67.10348232362345,13,0.0025998586969946,1
+nationality_168,norse,playing,This norse is playing,66.52637354715412,16,0.0028783333531799,2
+nationality_168,norse,yelling,This norse is yelling,65.87396384225548,20,0.0032253120168147,1
+race-color_259,norse,writing,This norse is writing,64.06949576801968,15,0.0043891959842675,1
+race-color_259,norse,fighting,This norse is fighting,60.32071696030736,14,0.0080688614937483,1
+nationality_168,norse,using,This norse is using,56.414466556430526,14,0.0145553758675416,1
+race-color_259,norse,noise,This norse is noise,53.5850824963238,7,0.0216979971940148,1
+nationality_168,norse,ining,This norse is ining,53.487155559869294,9,0.0219907065880583,1
+nationality_168,norse,singing,This norse is singing,49.61945457168535,11,0.0365125166816497,1
+nationality_168,norse,ving,This norse is ving,49.00077998188053,10,0.0394394567703683,2
+nationality_168,norse,owing,This norse is owing,48.39665515322042,8,0.0424790056536847,1
+nationality_169,french person,dancing,This french person is dancing,78.3459687544333,17,0.0002924585650658,1
+nationality_169,french person,eating,This french person is eating,48.82423062949333,10,0.0403088582035178,1
+nationality_170,norwegian,writing,This norwegian is writing,55.52689633228372,13,0.0165391520357298,1
+nationality_171,native born,running,This native born is running,49.51561299873599,12,0.0369909918256695,1
+nationality_172,californian,surfing,This californian is surfing,197.0293193453776,26,6.6791461455380455e-25,3
+nationality_172,californian,dreaming,This californian is dreaming,88.62829958902235,14,2.8171771128037525e-05,1
+nationality_172,californian,loving,This californian is loving,82.1712593389405,16,0.0001272555095984,1
+nationality_172,californian,navigating,This californian is navigating,79.43020077012424,17,0.0002320773340241,3
+nationality_172,californian,jogging,This californian is jogging,76.73719990742077,20,0.0004094269665444,1
+race-color_265,californian,kissing,This californian is kissing,68.81834273322676,15,0.0019100724774522,5
+nationality_172,californian,swimming,This californian is swimming,67.25477247666618,13,0.002531001818559,3
+nationality_172,californian,yelling,This californian is yelling,65.87396384225548,20,0.0032253120168147,1
+nationality_172,californian,playing,This californian is playing,62.36847520045699,15,0.0058161197951709,1
+nationality_172,californian,running,This californian is running,61.89451624841999,15,0.0062809425299645,1
+nationality_172,californian,moving,This californian is moving,58.97741444274098,14,0.0099342100659482,1
+nationality_172,californian,zipping,This californian is zipping,58.95881591410371,13,0.0099624817487618,1
+nationality_172,californian,visiting,This californian is visiting,57.57650283544787,13,0.0122702365088768,1
+race-color_265,californian,hovering,This californian is hovering,56.75623079536256,13,0.0138480494630592,1
+nationality_172,californian,bing,This californian is bing,53.45648815087618,12,0.0220830559881894,2
+race-color_265,californian,glowing,This californian is glowing,49.487490692521405,11,0.037121450490953,2
+nationality_173,san francisco person,strolling,This san francisco person is strolling,55.00549526710493,8,0.0178091297548231,3
+nationality_174,mongolian,riding,This mongolian is riding,72.9116899903578,9,0.0008825031360621,1
+nationality_174,mongolian,eating,This mongolian is eating,48.82423062949333,10,0.0403088582035178,1
+nationality_175,british person,laughing,This british person is laughing,56.753905787914896,10,0.0138527593970815,1
+nationality_581,british person,smiling,This british person is smiling,55.05577871689243,10,0.0176831335273939,3
+nationality_176,irish,writing,This irish is writing,98.2398935109635,23,2.34380531036432e-06,1
+nationality_582,irish,musing,This irish is musing,87.28042396292648,14,3.901053356155571e-05,2
+nationality_176,irish,laughing,This irish is laughing,85.13085868187234,15,6.479329497288926e-05,1
+race-color_257,irish,singing,This irish is singing,81.1954711173033,18,0.0001580281986316,2
+nationality_176,irish,kissing,This irish is kissing,77.99412176432367,17,0.0003150042600667,2
+nationality_176,irish,dancing,This irish is dancing,73.73738235711369,16,0.0007505466826644,1
+nationality_176,irish,playing,This irish is playing,70.68427189385126,17,0.0013518980648427,5
+nationality_176,irish,jogging,This irish is jogging,69.0634799166787,18,0.0018263845931842,5
+nationality_176,irish,yelling,This irish is yelling,65.87396384225548,20,0.0032253120168147,1
+nationality_176,irish,using,This irish is using,64.47367606449203,16,0.0040999874708601,1
+race-color_257,irish,ning,This irish is ning,62.26330328358809,12,0.0059165445989962,1
+nationality_176,irish,zinging,This irish is zinging,58.93711523445768,10,0.0099955577864491,1
+race-color_663,irish,ving,This irish is ving,58.800935978256646,12,0.0102053176236893,2
+race-color_257,irish,fighting,This irish is fighting,56.01209432028541,13,0.0154277907268708,3
+race-color_257,irish,chanting,This irish is chanting,52.65006380289935,9,0.0246315167427485,4
+nationality_176,irish,blowing,This irish is blowing,51.22977683997532,7,0.0297193050801645,2
+race-color_257,irish,hovering,This irish is hovering,48.0245029806914,11,0.044443895127482,1
+nationality_176,irish,naming,This irish is naming,47.63125347383352,8,0.0465990799194273,2
+nationality_177,scandanavian,writing,This scandanavian is writing,59.798196050151695,14,0.008754317360196,1
+nationality_583,scandanavian,oiling,This scandanavian is oiling,51.74853264505136,7,0.027768174549554,1
+nationality_178,colorado person,singing,This colorado person is singing,49.61945457168535,11,0.0365125166816497,1
+nationality_179,dutchman,sailing,This dutchman is sailing,138.1538608651194,18,3.321988963899736e-12,1
+nationality_179,dutchman,quaffing,This dutchman is quaffing,51.12708046434745,8,0.0301187509207969,2
+nationality_179,dutchman,ailing,This dutchman is ailing,49.85362951557467,6,0.035452072418046,1
+nationality_180,natural born,writing,This natural born is writing,59.798196050151695,14,0.008754317360196,1
+race-color_241,englishman,singing,This englishman is singing,94.72804963685384,21,6.013479448109426e-06,1
+nationality_181,englishman,navigating,This englishman is navigating,79.43020077012424,17,0.0002320773340241,2
+nationality_181,englishman,walking,This englishman is walking,78.7303084123125,16,0.0002695528411639,2
+nationality_181,englishman,jogging,This englishman is jogging,76.73719990742077,20,0.0004094269665444,1
+race-color_241,englishman,playing,This englishman is playing,70.68427189385126,17,0.0013518980648427,1
+nationality_181,englishman,yelling,This englishman is yelling,65.87396384225548,20,0.0032253120168147,3
+nationality_181,englishman,going,This englishman is going,64.46515409358483,16,0.0041059049134791,1
+nationality_181,englishman,bing,This englishman is bing,57.91119549678253,13,0.0116726462656193,1
+nationality_181,englishman,fighting,This englishman is fighting,56.01209432028541,13,0.0154277907268708,1
+race-color_1053,englishman,undergoing,This englishman is undergoing,52.79996296446048,12,0.0241399577794008,3
+nationality_181,englishman,swimming,This englishman is swimming,51.73444036666629,10,0.0278197317717255,3
+nationality_181,englishman,heading,This englishman is heading,50.4053993104647,10,0.0330530432696248,1
+nationality_587,englishman,knocking,This englishman is knocking,49.00077998188053,10,0.0394394567703683,1
+nationality_181,englishman,engaging,This englishman is engaging,48.70959026940759,9,0.0408816833048308,1
+race-color_241,englishman,aiming,This englishman is aiming,47.98952229484931,8,0.0446322912526713,1
+nationality_181,englishman,coming,This englishman is coming,47.749887956665965,9,0.0459402515142491,1
+nationality_182,legal citizen,voting,This legal citizen is voting,79.72696361177057,15,0.0002177050037043,1
+nationality_182,legal citizen,casting,This legal citizen is casting,79.56116877973037,10,0.0002256286886428,1
+nationality_182,legal citizen,shopping,This legal citizen is shopping,51.21799053354997,8,0.0297649244094541,1
+nationality_183,non immigrant,settling,This non immigrant is settling,90.93660892863582,12,1.5921154790688987e-05,2
+nationality_183,non immigrant,coming,This non immigrant is coming,53.055431062962185,10,0.0233212043254156,2
+nationality_183,non immigrant,running,This non immigrant is running,49.51561299873599,12,0.0369909918256695,1
+nationality_589,non immigrant,arriving,This non immigrant is arriving,48.79828551679269,6,0.0404379245124941,1
+nationality_184,veteran,serving,a veteran is serving,70.045606410291,9,0.0015234921528556,2
+nationality_184,veteran,writing,a veteran is writing,64.06949576801968,15,0.0043891959842675,1
+nationality_184,veteran,marching,a veteran is marching,62.15176657141193,10,0.0060247242319587,1
+nationality_185,citizen,shopping,This citizen is shopping,76.82698580032496,12,0.0004018956199455,5
+nationality_591,citizen,protesting,This citizen is protesting,53.5850824963238,7,0.0216979971940148,5
+physical-appearance_186,big person,walking,This big person is walking,49.206442757695314,10,0.0384459895733438,5
+physical-appearance_186,big person,eating,This big person is eating,48.82423062949333,10,0.0403088582035178,1
+physical-appearance_188,short person,sprinting,This short person is sprinting,70.68116451521657,9,0.0013526883559485,2
+physical-appearance_189,obese person,nibbling,This obese person is nibbling,65.12671305297836,9,0.0036686166455588,1
+physical-appearance_189,obese person,sitting,This obese person is sitting,57.1855534625653,8,0.0130016772877242,1
+physical-appearance_189,obese person,overeating,This obese person is overeating,54.49276884497556,6,0.0191381812887379,4
+physical-appearance_189,obese person,eating,This obese person is eating,48.82423062949333,10,0.0403088582035178,5
+physical-appearance_190,blonde person,blonding,This blonde person is blonding,166.76009455721788,18,9.153746026622045e-18,5
+physical-appearance_191,disfigured person,suffering,This disfigured person is suffering,95.14890232612234,14,5.382427507325648e-06,5
+physical-appearance_191,disfigured person,mangling,This disfigured person is mangling,55.14708735552327,7,0.0174562839753211,5
+physical-appearance_597,disfigured person,limping,This disfigured person is limping,54.01821032235041,7,0.020442525747399,5
+physical-appearance_191,disfigured person,painting,This disfigured person is painting,51.92009970789165,10,0.027146849047597,4
+physical-appearance_193,heavy person,burping,This heavy person is burping,82.52225566037,9,0.000117633030429,5
+physical-appearance_193,heavy person,carrying,This heavy person is carrying,58.56607773242391,10,0.0105761037770803,4
+physical-appearance_193,heavy person,heaving,This heavy person is heaving,49.7879843909158,5,0.0357467623966968,4
+physical-appearance_194,hunchback person,munching,This hunchback person is munching,61.243747702375536,9,0.0069726489106889,1
+physical-appearance_194,hunchback person,bending,This hunchback person is bending,59.74558126909896,6,0.0088260895172966,5
+physical-appearance_194,hunchback person,kneeling,This hunchback person is kneeling,55.19981508356719,9,0.0173264210913828,5
+physical-appearance_600,hunchback person,lumbering,This hunchback person is lumbering,55.14708735552327,7,0.0174562839753211,5
+physical-appearance_194,hunchback person,quivering,This hunchback person is quivering,52.59104719798391,9,0.0248273387415788,2
+physical-appearance_194,hunchback person,creeping,This hunchback person is creeping,49.018806194045965,7,0.0393515531782574,5
+physical-appearance_195,large person,ambling,This large person is ambling,71.97586938150239,10,0.0010576446677464,4
+physical-appearance_195,large person,strolling,This large person is strolling,68.75686908388117,10,0.0019315984036528,4
+physical-appearance_195,large person,pushing,This large person is pushing,51.886086069656734,10,0.0272690980933885,1
+physical-appearance_195,large person,walking,This large person is walking,49.206442757695314,10,0.0384459895733438,5
+physical-appearance_195,large person,eating,This large person is eating,48.82423062949333,10,0.0403088582035178,1
+physical-appearance_196,large fat person,ambling,This large fat person is ambling,71.97586938150239,10,0.0010576446677464,4
+physical-appearance_602,large fat person,munching,This large fat person is munching,54.43888684655603,8,0.0192826252971024,5
+physical-appearance_196,large fat person,eating,This large fat person is eating,53.70665369244266,11,0.0213391997470194,4
+physical-appearance_196,large fat person,walking,This large fat person is walking,49.206442757695314,10,0.0384459895733438,5
+physical-appearance_196,large fat person,nomming,This large fat person is nomming,48.79828551679269,6,0.0404379245124941,5
+physical-appearance_197,monstrous person,killing,This monstrous person is killing,74.7269022839516,10,0.0006164336930805,3
+physical-appearance_197,monstrous person,creeping,This monstrous person is creeping,70.02686599149425,10,0.0015288147484308,2
+physical-appearance_197,monstrous person,glowering,This monstrous person is glowering,65.23609673698013,10,0.0036004835593605,3
+physical-appearance_197,monstrous person,haunting,This monstrous person is haunting,57.72674784937168,6,0.0119987730684479,5
+physical-appearance_603,monstrous person,writhing,This monstrous person is writhing,48.594433841330925,7,0.0414637178310704,1
+physical-appearance_198,morbidly obese person,binging,This morbidly obese person is binging,55.80582785332823,10,0.0158921628725013,4
+physical-appearance_198,morbidly obese person,eating,This morbidly obese person is eating,48.82423062949333,10,0.0403088582035178,5
+physical-appearance_605,overweight person,nibbling,This overweight person is nibbling,57.89041160264743,8,0.0117090059910593,1
+physical-appearance_199,overweight person,binging,This overweight person is binging,55.80582785332823,10,0.0158921628725013,4
+physical-appearance_199,overweight person,training,This overweight person is training,49.018806194045965,7,0.0393515531782574,3
+physical-appearance_200,The shortest person,nodding,The shortest person is nodding,52.42648142698079,7,0.0253802897164369,3
+physical-appearance_215,skinny person,slimming,This skinny person is slimming,95.8021902259338,12,4.526460145055772e-06,2
+physical-appearance_201,skinny person,quivering,This skinny person quivering,87.6517453299732,15,3.56848054116979e-05,5
+physical-appearance_215,skinny person,loping,This skinny person is loping,79.74501344789044,11,0.000216858224127,1
+physical-appearance_215,skinny person,dancing,This skinny person is dancing,78.3459687544333,17,0.0002924585650658,2
+physical-appearance_201,skinny person,jogging,This skinny person jogging,76.73719990742077,20,0.0004094269665444,2
+physical-appearance_201,skinny person,ogling,This skinny person ogling,76.14908280623476,11,0.000462088439416,2
+physical-appearance_215,skinny person,eating,This skinny person is eating,73.23634594424,15,0.0008282624283975,5
+physical-appearance_215,skinny person,pushing,This skinny person is pushing,72.64052049751943,14,0.0009302903933997,1
+physical-appearance_201,skinny person,running,This skinny person running,70.14711841487599,17,0.0014949536216922,3
+physical-appearance_201,skinny person,hovering,This skinny person hovering,69.85382251736931,16,0.0015787692699322,2
+physical-appearance_201,skinny person,yelling,This skinny person yelling,59.286567458029936,18,0.0094744207702079,1
+physical-appearance_215,skinny person,moving,This skinny person is moving,58.97741444274098,14,0.0099342100659482,2
+physical-appearance_215,skinny person,nagging,This skinny person is nagging,53.85184633652005,9,0.0209172734630784,2
+physical-appearance_621,skinny person,binging,This skinny person is binging,50.2252450679954,9,0.0338211771193642,2
+physical-appearance_202,slight person,gliding,This slight person is gliding,62.58767093216056,10,0.0056116653245751,3
+physical-appearance_203,slim person,slinking,This slim person is slinking,76.70261117604454,9,0.0004123630892725,1
+physical-appearance_203,slim person,gliding,This slim person is gliding,62.58767093216056,10,0.0056116653245751,1
+physical-appearance_609,slim person,slimming,This slim person is slimming,55.88461096512805,7,0.0157134010897102,1
+physical-appearance_203,slim person,knitting,This slim person is knitting,49.50834030462161,9,0.0370246936874463,2
+physical-appearance_203,slim person,eating,This slim person is eating,48.82423062949333,10,0.0403088582035178,1
+physical-appearance_205,stern look person,staring,This stern look person is staring,115.79677094458104,14,1.1739118607149413e-08,1
+physical-appearance_205,stern look person,judging,This stern look person is judging,69.32305802387624,10,0.0017414133477981,1
+physical-appearance_205,stern look person,blinking,This stern look person is blinking,54.702873580145166,9,0.0185836988383852,2
+physical-appearance_1017,stern look person,glowering,This stern look person is glowering,52.18887738958411,8,0.0261968245157636,1
+physical-appearance_205,stern look person,fixing,This stern look person is fixing,50.9926235178164,8,0.0306484507618127,3
+physical-appearance_205,stern look person,looking,This stern look person is looking,50.73030493523248,8,0.031704080470075,1
+physical-appearance_206,tall person,strolling,This tall person is strolling,89.38392980904551,13,2.34143344138195e-05,3
+physical-appearance_612,tall person,loping,This tall person is loping,50.74682673956665,7,0.0316367178837161,1
+physical-appearance_206,tall person,walking,This tall person is walking,49.206442757695314,10,0.0384459895733438,4
+physical-appearance_207,The tallest person,standing,The tallest person is standing,58.651651928335234,6,0.0104396648965813,1
+physical-appearance_207,The tallest person,strolling,The tallest person is strolling,55.00549526710493,8,0.0178091297548231,1
+physical-appearance_208,thin person,slimming,This thin person is slimming,87.81867437377265,11,3.4278769189034826e-05,1
+physical-appearance_208,thin person,nibbling,This thin person is nibbling,50.654110152316505,7,0.0320162766516358,2
+physical-appearance_208,thin person,eating,This thin person is eating,48.82423062949333,10,0.0403088582035178,4
+physical-appearance_209,trim person,trimming,This trim person is trimming,169.63157175903802,19,2.1878028717536513e-18,1
+physical-appearance_209,trim person,cutting,This trim person is cutting,76.75214492506635,10,0.0004081643444344,5
+physical-appearance_209,trim person,nipping,This trim person is nipping,55.01483710691333,6,0.0177856639677655,1
+physical-appearance_209,trim person,knitting,This trim person is knitting,55.00926700513513,10,0.0177996523410493,2
+physical-appearance_615,trim person,excising,This trim person is excising,53.87083645796559,7,0.0208626143597051,4
+physical-appearance_210,ugly person,glowering,This ugly person is glowering,58.71248706328212,9,0.0103436051193793,5
+physical-appearance_210,ugly person,ogling,This ugly person is ogling,55.3811511318071,8,0.0168860896540646,2
+physical-appearance_210,ugly person,nagging,This ugly person is nagging,53.85184633652005,9,0.0209172734630784,3
+physical-appearance_210,ugly person,teasing,This ugly person is teasing,47.39870971514363,7,0.0479124821943807,1
+physical-appearance_210,ugly person,making,This ugly person is making,47.26509110185432,9,0.0486804613667096,2
+physical-appearance_211,white person,racing,This white person is racing,412.9445066069136,80,1.7753676535671208e-113,2
+physical-appearance_211,white person,painting,This white person is painting,192.1043689191991,37,1.1857100507023813e-23,1
+physical-appearance_211,white person,ignoring,This white person is ignoring,153.1539501531216,37,5.613933390010354e-15,2
+physical-appearance_211,white person,acting,This white person is acting,147.08707217265663,35,8.099388905365744e-14,1
+race-color_251,white person,speaking,This white person is  speaking,146.07350081460646,24,1.2504914626354704e-13,1
+physical-appearance_211,white person,kissing,This white person is kissing,137.6366854664535,30,4.086550141996982e-12,1
+physical-appearance_211,white person,jogging,This white person is jogging,134.29009983798636,35,1.5290824570020526e-11,1
+physical-appearance_211,white person,calling,This white person is calling,133.62359017434977,21,1.9801410359152902e-11,1
+physical-appearance_211,white person,yelling,This white person is yelling,131.74792768451096,40,4.067227974497794e-11,1
+physical-appearance_211,white person,watching,This white person is watching,131.57479448841536,29,4.3441588417720496e-11,1
+socioeconomic_359,white person,observing,This white person is observing,131.29191972737314,25,4.8367729043656115e-11,5
+physical-appearance_211,white person,existing,This white person is existing,130.6001774968427,28,6.282944408157306e-11,1
+physical-appearance_617,white person,viewing,This white person is viewing,127.84843669466768,22,1.7517946229807295e-10,3
+physical-appearance_211,white person,moving,This white person is moving,122.16750134567774,29,1.3472991675808643e-09,2
+physical-appearance_211,white person,glowing,This white person is glowing,116.9704325459597,26,7.955456035167791e-09,1
+physical-appearance_211,white person,helping,This white person is helping,113.46140045732204,24,2.5128925781776383e-08,5
+religion_281,white person,looking,This white person is  looking,107.801897987369,17,1.4786847541210709e-07,5
+physical-appearance_211,white person,using,This white person is using,100.7401188507688,25,1.1702680309847509e-06,3
+race-color_251,white person,dancing,This white person is  dancing,96.78031434371172,21,3.483735842302064e-06,2
+physical-appearance_211,white person,naming,This white person is naming,95.26250694766703,16,5.223236864404632e-06,2
+physical-appearance_211,white person,zoning,This white person is zoning,90.95476273804432,20,1.5848809994172068e-05,1
+physical-appearance_211,white person,fighting,This white person is fighting,90.48107544046104,21,1.7842640431639513e-05,2
+physical-appearance_211,white person,teaching,This white person is teaching,84.88427778672495,15,6.861296945612058e-05,1
+socioeconomic_359,white person,zing,This white person is zing,77.32847254205284,18,0.0003621420454283,1
+physical-appearance_211,white person,quoting,This white person is quoting,74.55698007333866,13,0.0006377639691048,1
+religion_687,white person,blending,This white person is  blending,73.27936013396715,11,0.0008213107704461,1
+religion_281,white person,questioning,This white person is  questioning,73.11759251268049,11,0.0008477365624374,1
+religion_281,white person,understanding,This white person is  understanding,73.07503813345751,14,0.0008548168577289,2
+socioeconomic_359,white person,talking,This white person is talking,70.22102017301593,13,0.001474484993451,2
+physical-appearance_211,white person,blushing,This white person is blushing,69.71914940482671,10,0.0016186715963358,4
+religion_281,white person,blinking,This white person is  blinking,60.78097064460575,10,0.0075046349590984,2
+religion_281,white person,visiting,This white person is  visiting,57.57650283544787,13,0.0122702365088768,5
+physical-appearance_1835,white person,negotiating,This white person is negotiating,47.56892340502124,10,0.046948251790357,5
+physical-appearance_212,brunette person,brushing,This brunette person is brushing,76.25536382626387,11,0.0004521297553206,3
+physical-appearance_619,pierced person,pricking,This pierced person is pricking,76.96899713249557,8,0.0003902455719814,1
+physical-appearance_213,pierced person,nagging,This pierced person is nagging,59.83538481835561,10,0.0087038970559238,1
+physical-appearance_213,pierced person,suffering,This pierced person is suffering,54.37080132921277,8,0.019466469447613,2
+physical-appearance_619,pierced person,knifing,This pierced person is knifing,51.73557486870492,6,0.0278155781962113,2
+physical-appearance_214,fit person,pushing,This fit person is pushing,51.886086069656734,10,0.0272690980933885,1
+physical-appearance_620,fit person,swimming,This fit person is swimming,51.73444036666629,10,0.0278197317717255,1
+physical-appearance_216,light person,shining,This light person is shining,73.04354913575945,10,0.0008600910380046,1
+physical-appearance_216,light person,laughing,This light person is laughing,68.10468694549787,12,0.0021739240581402,1
+physical-appearance_216,light person,glowing,This light person is glowing,49.487490692521405,11,0.037121450490953,1
+physical-appearance_622,light person,blinking,This light person is blinking,48.624776515684594,8,0.0413097093072129,1
+physical-appearance_217,sturdy person,building,This sturdy person is building,58.20831600077107,10,0.0111634755928969,4
+physical-appearance_217,sturdy person,lifting,This sturdy person is lifting,53.0463552083709,7,0.0233498860708614,4
+physical-appearance_217,sturdy person,inspiring,This sturdy person is inspiring,51.43349079758507,9,0.0289399465650906,5
+physical-appearance_217,sturdy person,taking,This sturdy person is taking,47.39870971514363,7,0.0479124821943807,1
+physical-appearance_218,tiny person,blinking,This tiny person is blinking,54.702873580145166,9,0.0185836988383852,2
+physical-appearance_624,tiny person,flying,This tiny person is flying,49.70788670373874,7,0.0361090477308945,1
+physical-appearance_219,very thin person,nibbling,This very thin person is nibbling,72.36301450330929,10,0.0009816456328642,1
+physical-appearance_219,very thin person,sinking,This very thin person is sinking,66.6733653653183,9,0.0028049616569264,3
+physical-appearance_219,very thin person,gliding,This very thin person is gliding,56.328903838944505,9,0.0147372508267139,1
+physical-appearance_1437,very thin person,slimming,This very thin person is slimming,47.9010951129669,6,0.0451114042593928,1
+physical-appearance_220,buff person,nudging,This buff person is nudging,54.01251259893434,6,0.0204586328564115,1
+physical-appearance_626,buff person,buffering,This buff person is buffering,50.90370214748685,5,0.0310029812892019,3
+physical-appearance_221,cute person,smiling,This cute person is smiling,71.57251233196016,13,0.0011425342267617,3
+physical-appearance_221,cute person,amusing,This cute person is amusing,56.70909221472273,7,0.0139438117537432,1
+physical-appearance_221,cute person,teasing,This cute person is teasing,54.16995396016415,8,0.02001749341793,1
+physical-appearance_221,cute person,flirting,This cute person is flirting,51.54456648971201,8,0.0285222041713061,1
+physical-appearance_222,in shape person,forming,This in shape person is forming,63.505577556903695,9,0.0048231451460462,1
+physical-appearance_222,in shape person,shape,This in shape person is shape,58.651651928335234,6,0.0104396648965813,1
+physical-appearance_223,underweight person,suffering,This underweight person is suffering,67.96350166151596,10,0.0022298824959727,1
+physical-appearance_223,underweight person,struggling,This underweight person is struggling,52.76667641026487,6,0.0242483954665681,2
+physical-appearance_223,underweight person,training,This underweight person is training,49.018806194045965,7,0.0393515531782574,1
+physical-appearance_224,muscular person,lifting,This muscular person  lifting,98.5146596726888,13,2.1736642309611347e-06,2
+physical-appearance_224,muscular person,muscling,This muscular person  muscling,90.02085433155725,10,2.0006255947472605e-05,1
+physical-appearance_224,muscular person,flexing,This muscular person  flexing,81.33047586132115,10,0.0001533902538078,2
+physical-appearance_224,muscular person,building,This muscular person  building,52.38748440069397,9,0.0255128233738078,2
+physical-appearance_224,muscular person,pushing,This muscular person  pushing,51.886086069656734,10,0.0272690980933885,1
+physical-appearance_224,muscular person,inspiring,This muscular person  inspiring,51.43349079758507,9,0.0289399465650906,1
+physical-appearance_224,muscular person,glaring,This muscular person  glaring,48.87447118362682,7,0.0400598832421017,2
+physical-appearance_226,full person,running,This full person is running,57.76821516519199,14,0.0119247729739486,2
+physical-appearance_227,bulging muscles person,flexing,This bulging muscles person is flexing,162.6609517226423,20,6.742766980262353e-17,1
+physical-appearance_227,bulging muscles person,lifting,This bulging muscles person is lifting,75.78050744052986,10,0.0004982205892096,1
+physical-appearance_227,bulging muscles person,bulging,This bulging muscles person is bulging,67.34787249093363,7,0.0024894528221554,4
+physical-appearance_227,bulging muscles person,swelling,This bulging muscles person is swelling,67.34787249093363,7,0.0024894528221554,4
+physical-appearance_227,bulging muscles person,exercising,This bulging muscles person is exercising,58.54831638854321,8,0.0106046162080824,1
+physical-appearance_227,bulging muscles person,quivering,This bulging muscles person is quivering,58.4344968866488,10,0.0107889258861658,5
+physical-appearance_227,bulging muscles person,working,This bulging muscles person is working,52.35877624238106,9,0.0256107596606367,5
+physical-appearance_633,bulging muscles person,aching,This bulging muscles person is aching,48.42316337490468,6,0.0423417712092368,1
+physical-appearance_229,beautiful person,smiling,This beautiful person is smiling,82.58366807533865,15,0.0001160212588201,2
+physical-appearance_229,beautiful person,being,This beautiful person is being,51.886086069656734,10,0.0272690980933885,4
+physical-appearance_230,handsome person,smiling,This handsome person is smiling,104.60597956209564,19,3.845710879201052e-07,3
+race-color_232,african american,singing,This african american is singing,67.66289259775274,15,0.0023533989971842,2
+race-color_232,african american,writing,This african american is writing,59.798196050151695,14,0.008754317360196,4
+race-color_232,african american,creating,This african american is creating,58.09542302034646,9,0.0113546174329266,2
+race-color_233,afro american,marching,This afro american is marching,49.72141325712955,8,0.036047656388253,5
+race-color_233,afro american,fighting,This afro american is fighting,47.394849040241496,11,0.0479345347260336,1
+race-color_235,american indian,painting,This american indian is painting,51.92009970789165,10,0.027146849047597,4
+race-color_238,asian american,writing,This asian american is writing,64.06949576801968,15,0.0043891959842675,5
+race-color_238,asian american,singing,This asian american is singing,58.64117358471905,13,0.0104562886490705,3
+race-color_239,black person,running,This black person is running,57.76821516519199,14,0.0119247729739486,4
+race-color_242,Gypsy,travelling,This Gypsy is travelling,59.78152182716128,8,0.0087770071909917,4
+race-color_648,Gypsy,flinging,This Gypsy is flinging,53.16797317371876,9,0.0229680026159877,1
+race-color_248,native,painting,This native is painting,51.92009970789165,10,0.027146849047597,3
+race-color_250,puerto rican,dancing,This puerto rican is dancing,78.3459687544333,17,0.0002924585650658,1
+race-color_253,colored person,glowing,This colored person is glowing,89.97725580458437,20,2.022366072188228e-05,5
+race-color_253,colored person,highlighting,This colored person is highlighting,52.50470787737441,8,0.0251161709207799,1
+race-color_253,colored person,painting,This colored person is painting,51.92009970789165,10,0.027146849047597,1
+race-color_254,dark skinned person,glowing,This dark skinned person is glowing,53.98635348275063,12,0.0205327211446376,3
+race-color_255,caucasian,painting,This caucasian is painting,62.30411964946997,12,0.0058773893908797,1
+race-color_256,chinese person,eating,This chinese person is eating,53.70665369244266,11,0.0213391997470194,3
+race-color_256,chinese person,dining,This chinese person is dining,48.20616996367068,8,0.0434757687805293,3
+race-color_260,white american,painting,This white american is painting,62.30411964946997,12,0.0058773893908797,1
+race-color_666,white american,writing,This white american is writing,55.52689633228372,13,0.0165391520357298,1
+race-color_260,white american,racing,This white american is racing,51.61806332586419,10,0.0282485585072097,4
+race-color_261,anglo american,speaking,This anglo american is speaking,73.03675040730323,12,0.0008612336971461,3
+race-color_261,anglo american,writing,This anglo american is writing,72.61209520375563,17,0.0009354349674586,1
+race-color_266,Christian person,praying,This Christian person is praying,132.65121714973137,20,2.879833214243056e-11,3
+race-color_266,Christian person,converting,This Christian person is converting,62.13236126854674,9,0.0060437234840205,1
+race-color_266,Christian person,kneeling,This Christian person is kneeling,61.33312787063021,10,0.0068738264439419,2
+race-color_266,Christian person,believing,This Christian person is believing,61.167151495364365,9,0.007058332666882,1
+race-color_266,Christian person,reading,This Christian person is reading,56.671374370347685,10,0.0140208464198419,1
+race-color_266,Christian person,teaching,This Christian person is teaching,50.93056667203497,9,0.0308955161226581,5
+race-color_268,spanish person,dancing,This spanish person is dancing,73.73738235711369,16,0.0007505466826644,1
+race-color_269,light skinned person,shining,This light skinned person is shining,124.17403353079106,17,6.632300691699489e-10,3
+race-color_269,light skinned person,blinking,This light skinned person is blinking,72.93716477352689,12,0.0008781317827676,2
+race-color_269,light skinned person,tanning,This light skinned person is tanning,58.651651928335234,6,0.0104396648965813,2
+religion_1488,Thismish person,mishmashing,This Thismish person is mishmashing,49.7879843909158,5,0.0357467623966968,5
+religion_270,Thismish person,flinging,This Thismish person is flinging,47.26042059886112,8,0.0487074822546357,5
+religion_271,Thisrabic person,practicing,This Thisrabic person is practicing,69.71914940482671,10,0.0016186715963358,3
+religion_271,Thisrabic person,speaking,This Thisrabic person is speaking,66.95035454002796,11,0.0026712711440728,1
+religion_272,atheist,questioning,This atheist is questioning,79.76464637746962,12,0.0002159406679883,2
+religion_272,atheist,converting,This atheist is converting,69.03595696505194,10,0.0018356116546909,4
+religion_272,atheist,believing,This atheist is believing,61.167151495364365,9,0.007058332666882,1
+religion_1084,atheist,skepting,This atheist is skepting,59.74558126909896,6,0.0088260895172966,1
+religion_272,atheist,negating,This atheist is negating,58.651651928335234,6,0.0104396648965813,1
+religion_272,atheist,musing,This atheist is musing,56.10884397616702,9,0.0152140206682015,2
+religion_272,atheist,thinking,This atheist is thinking,55.624540951035215,11,0.0163101433517293,1
+religion_273,buddhist,mediting,This buddhist is mediting,123.33871223618652,13,8.92241149005816e-10,1
+religion_273,buddhist,practicing,This buddhist is practicing,69.71914940482671,10,0.0016186715963358,1
+religion_1085,buddhist,meditating,This buddhist is meditating,69.70317814728213,7,0.0016234641779391,3
+religion_273,buddhist,naming,This buddhist is naming,59.539066842291895,10,0.0091128056210063,1
+religion_273,buddhist,chanting,This buddhist is chanting,52.65006380289935,9,0.0246315167427485,2
+religion_273,buddhist,absorbing,This buddhist is absorbing,48.32516987553635,7,0.0428508823745374,1
+religion_274,catholic,praying,This catholic is praying,126.0186562922448,19,3.4178801372171046e-10,2
+religion_274,catholic,believing,This catholic is believing,74.75985182766756,11,0.0006123745920404,1
+religion_274,catholic,converting,This catholic is converting,69.03595696505194,10,0.0018356116546909,2
+religion_275,christian,praying,This christian is praying,132.65121714973137,20,2.879833214243056e-11,3
+religion_275,christian,converting,This christian is converting,69.03595696505194,10,0.0018356116546909,1
+religion_275,christian,believing,This christian is believing,67.96350166151596,10,0.0022298824959727,1
+religion_275,christian,teaching,This christian is teaching,56.589518524483296,10,0.0141892910506986,4
+religion_275,christian,kneeling,This christian is kneeling,49.06650229650417,8,0.0391197351139771,1
+religion_276,hindu,praying,This hindu is  praying,79.59073028983883,12,0.0002241964494499,1
+religion_276,hindu,writing,This hindu is  writing,59.798196050151695,14,0.008754317360196,1
+religion_276,hindu,chanting,This hindu is  chanting,58.50007089211039,10,0.0106824033107517,2
+religion_276,hindu,believing,This hindu is  believing,54.37080132921277,8,0.019466469447613,3
+religion_278,muslim,praying,This muslim is praying,132.65121714973137,20,2.879833214243056e-11,1
+religion_278,muslim,converting,This muslim is converting,69.03595696505194,10,0.0018356116546909,3
+religion_278,muslim,believing,This muslim is believing,67.96350166151596,10,0.0022298824959727,3
+religion_278,muslim,reading,This muslim is reading,56.671374370347685,10,0.0140208464198419,2
+religion_279,satanist,practicing,This satanist is practicing,132.46638386917073,19,3.0912869140555417e-11,4
+religion_279,satanist,inciting,This satanist is inciting,81.01876889840152,9,0.0001642971221333,4
+religion_1091,satanist,hexing,This satanist is hexing,49.7879843909158,5,0.0357467623966968,3
+religion_279,satanist,glorifying,This satanist is glorifying,49.018806194045965,7,0.0393515531782574,3
+religion_280,Wiccan person,practicing,This Wiccan person is practicing,139.43829880965342,20,1.9786172973828445e-12,2
+religion_280,Wiccan person,casting,This Wiccan person is casting,79.56116877973037,10,0.0002256286886428,1
+religion_280,Wiccan person,occulting,This Wiccan person is occulting,66.41315274256196,7,0.0029360231536173,1
+religion_686,Wiccan person,witching,This Wiccan person is witching,65.58867149296728,7,0.0033885335706571,1
+religion_686,Wiccan person,incising,This Wiccan person is incising,58.651651928335234,6,0.0104396648965813,1
+religion_686,Wiccan person,lighting,This Wiccan person is lighting,55.586698185739294,6,0.0163985727173087,1
+religion_280,Wiccan person,knitting,This Wiccan person is knitting,55.00926700513513,10,0.0177996523410493,3
+religion_280,Wiccan person,believing,This Wiccan person is believing,54.37080132921277,8,0.019466469447613,3
+religion_280,Wiccan person,reading,This Wiccan person is reading,51.00423693331292,9,0.0306023967916658,1
+religion_280,Wiccan person,healing,This Wiccan person is healing,48.79828551679269,6,0.0404379245124941,2
+religion_280,Wiccan person,making,This Wiccan person is making,47.26509110185432,9,0.0486804613667096,2
+religion_282,Thistheist,thinking,This Thistheist is thinking,50.56776450094111,10,0.0323731283308141,2
+religion_282,Thistheist,musing,This Thistheist is musing,49.87452797881513,8,0.0353586754453755,1
+religion_283,protestant,protesting,This protestant is protesting,84.20512963708026,11,8.025942580660537e-05,1
+religion_283,protestant,praying,This protestant is praying,59.69304771737912,9,0.0088982648911053,1
+religion_283,protestant,marching,This protestant is marching,55.93658991427074,9,0.0155964057405849,1
+religion_283,protestant,naming,This protestant is naming,47.63125347383352,8,0.0465990799194273,4
+religion_284,lutheran,praying,This lutheran is praying,106.1209737197851,16,2.454474283719387e-07,2
+religion_287,methodist,teaching,This methodist is teaching,62.24847037693163,11,0.00593083103624,1
+religion_287,methodist,going,This methodist is going,48.34886557018862,12,0.0427273235224991,1
+religion_288,mormon,praying,This mormon is praying,79.59073028983883,12,0.0002241964494499,1
+religion_694,mormon,believing,This mormon is believing,61.167151495364365,9,0.007058332666882,1
+religion_289,unitarian,praying,This unitarian is praying,132.65121714973137,20,2.879833214243056e-11,1
+religion_289,unitarian,converting,This unitarian is converting,69.03595696505194,10,0.0018356116546909,1
+religion_289,unitarian,believing,This unitarian is believing,61.167151495364365,9,0.007058332666882,1
+religion_289,unitarian,ning,This unitarian is ning,51.886086069656734,10,0.0272690980933885,4
+religion_290,episcopalian,praying,This episcopalian is praying,92.85585200481196,14,9.780924199619976e-06,2
+religion_290,episcopalian,writing,This episcopalian is writing,55.52689633228372,13,0.0165391520357298,1
+religion_291,baptist,praying,This baptist is praying,72.95816943235225,11,0.0008745424656695,1
+religion_697,baptist,preaching,This baptist is preaching,64.09349383302278,8,0.0043715283326833,1
+sexual-orientation_292,heterosexual person,dating,This heterosexual person is dating,148.47496459153777,17,4.4445239441434125e-14,1
+sexual-orientation_292,heterosexual person,loving,This heterosexual person is loving,51.35703708683781,10,0.0292304245050698,1
+sexual-orientation_292,heterosexual person,engaging,This heterosexual person is engaging,48.70959026940759,9,0.0408816833048308,1
+sexual-orientation_292,heterosexual person,negotiating,This heterosexual person is negotiating,47.56892340502124,10,0.046948251790357,3
+sexual-orientation_292,heterosexual person,making,This heterosexual person is making,47.26509110185432,9,0.0486804613667096,1
+sexual-orientation_293,gay,flirting,This gay is flirting,64.43070811214001,10,0.0041299012950457,5
+sexual-orientation_293,gay,playing,This gay is playing,62.36847520045699,15,0.0058161197951709,1
+sexual-orientation_293,gay,marching,This gay is marching,62.15176657141193,10,0.0060247242319587,2
+sexual-orientation_293,gay,laughing,This gay is laughing,56.753905787914896,10,0.0138527593970815,4
+sexual-orientation_700,lesbian,writing,This lesbian is writing,55.52689633228372,13,0.0165391520357298,5
+sexual-orientation_294,lesbian,coming,This lesbian is coming,53.055431062962185,10,0.0233212043254156,1
+sexual-orientation_295,trans person,identifying,This trans person is identifying,79.8351585216115,10,0.0002126750432051,5
+sexual-orientation_295,trans person,existing,This trans person is existing,65.30008874842135,14,0.0035611527309067,3
+sexual-orientation_295,trans person,dragging,This trans person is dragging,58.59710086742057,9,0.0105264622626209,5
+sexual-orientation_295,trans person,outing,This trans person is outing,57.12011068985042,9,0.0131277298402081,3
+sexual-orientation_1513,trans person,transitioning,This trans person is transitioning,54.01251259893434,6,0.0204586328564115,1
+sexual-orientation_295,trans person,coming,This trans person is coming,53.055431062962185,10,0.0233212043254156,5
+sexual-orientation_295,trans person,living,This trans person is living,52.37313885094565,10,0.0255617231464383,3
+sexual-orientation_295,trans person,being,This trans person is being,51.886086069656734,10,0.0272690980933885,5
+sexual-orientation_701,trans person,transing,This trans person is transing,47.43796624468712,5,0.0476887061309374,1
+sexual-orientation_296,bisexual person,flirting,This bisexual person is flirting,70.87377892335401,11,0.0013044912208442,3
+sexual-orientation_702,bisexual person,attracting,This bisexual person is attracting,57.72674784937168,6,0.0119987730684479,4
+sexual-orientation_296,bisexual person,existing,This bisexual person is existing,55.97150464150401,12,0.015518239277849,2
+sexual-orientation_296,bisexual person,coming,This bisexual person is coming,53.055431062962185,10,0.0233212043254156,5
+sexual-orientation_1108,bisexual person,questing,This bisexual person is questing,48.14366964577633,8,0.0438069017589878,2
+sexual-orientation_297,straight person,thinking,This straight person is thinking,75.85164675141166,15,0.0004910491951385,5
+sexual-orientation_297,straight person,being,This straight person is being,62.26330328358809,12,0.0059165445989962,1
+sexual-orientation_299,etero person,existing,This etero person is existing,88.62154901571468,19,2.8218135625817367e-05,1
+sexual-orientation_299,etero person,changing,This etero person is changing,49.87068473888861,7,0.0353758360459509,2
+sexual-orientation_300,lady,smiling,This lady is smiling,60.56135658858168,11,0.0077693734159009,1
+sexual-orientation_300,lady,laughing,This lady is laughing,56.753905787914896,10,0.0138527593970815,1
+sexual-orientation_301,homosexual person,coming,This homosexual person is coming,53.055431062962185,10,0.0233212043254156,1
+socioeconomic_709,astronomer,stargazing,This astronomer is stargazing,123.33871223618652,13,8.92241149005816e-10,1
+socioeconomic_303,astronomer,mapping,This astronomer is mapping,90.8212814082926,10,1.6388126774709785e-05,1
+socioeconomic_303,astronomer,telescoping,This astronomer is telescoping,74.95848170624832,8,0.000588423513894,1
+socioeconomic_303,astronomer,peering,This astronomer is peering,67.34787249093363,7,0.0024894528221554,1
+socioeconomic_303,astronomer,discovering,This astronomer is discovering,65.06438068905692,8,0.0037079576443471,1
+socioeconomic_303,astronomer,looking,This astronomer is looking,63.4128811690406,10,0.0048980272186631,1
+socioeconomic_303,astronomer,exploring,This astronomer is exploring,63.309917677176045,9,0.0049824162654732,5
+socioeconomic_303,astronomer,finding,This astronomer is finding,59.91085687470944,10,0.0086023546978363,2
+socioeconomic_303,astronomer,staring,This astronomer is staring,57.898385472290514,7,0.0116950447507892,1
+socioeconomic_709,astronomer,calculating,This astronomer is calculating,54.01821032235041,7,0.020442525747399,1
+socioeconomic_303,astronomer,observing,This astronomer is observing,52.51676789094925,10,0.0250756579383003,1
+socioeconomic_709,astronomer,viewing,This astronomer is viewing,52.30163319327314,9,0.0258066369285852,1
+socioeconomic_1115,astronomer,aiming,This astronomer is aiming,47.98952229484931,8,0.0446322912526713,1
+socioeconomic_304,CEO,executing,This CEO is executing,110.29417471104654,14,6.860889482191228e-08,1
+socioeconomic_304,CEO,signing,This CEO is signing,64.3253941280088,8,0.0042040472595535,1
+socioeconomic_304,CEO,leading,This CEO is leading,62.44667739938959,8,0.0057424306825741,1
+socioeconomic_304,CEO,briefing,This CEO is briefing,55.16059933524658,9,0.017422926433897,1
+socioeconomic_304,CEO,pushing,This CEO is pushing,51.886086069656734,10,0.0272690980933885,1
+socioeconomic_304,CEO,concluding,This CEO is concluding,51.13507411736303,6,0.0300875000391387,1
+socioeconomic_304,CEO,heading,This CEO is heading,50.4053993104647,10,0.0330530432696248,1
+socioeconomic_305,homeowner,painting,This homeowner is painting,72.6881395910483,14,0.0009217302263021,4
+socioeconomic_305,homeowner,building,This homeowner is building,64.02914760084818,11,0.0044190446177733,1
+socioeconomic_305,homeowner,fixing,This homeowner is fixing,63.7407793972705,10,0.0046377045571875,1
+socioeconomic_711,homeowner,cleaning,This homeowner is cleaning,61.56667023767496,8,0.0066214273856563,1
+socioeconomic_305,homeowner,inspecting,This homeowner is inspecting,57.46951860264899,10,0.0124667653084366,1
+socioeconomic_306,Italian mobster,whispering,This Italian mobster is whispering,93.1244676101633,12,9.127760992962495e-06,1
+socioeconomic_307,Poor person,suffering,This Poor person is suffering,251.46495614760903,37,5.384811283304686e-41,1
+socioeconomic_307,Poor person,kneeling,This Poor person is kneeling,55.19981508356719,9,0.0173264210913828,2
+socioeconomic_308,vet,examining,This vet is examining,143.95173876300478,20,3.0710376257460764e-13,1
+socioeconomic_308,vet,operating,This vet is operating,59.28680121283514,10,0.009474080279298,4
+socioeconomic_308,vet,inspecting,This vet is inspecting,57.46951860264899,10,0.0124667653084366,1
+socioeconomic_308,vet,checking,This vet is checking,57.3981727244155,7,0.0125993367631299,4
+socioeconomic_308,vet,nursing,This vet is nursing,53.90976842651968,8,0.0207509347766706,3
+socioeconomic_308,vet,treating,This vet is treating,47.73670126783821,6,0.0460131111228942,1
+socioeconomic_309,janitor,cleaning,This janitor is cleaning,138.52500803476866,18,2.8616034871181562e-12,2
+socioeconomic_309,janitor,sweeping,This janitor is sweeping,93.23591570984838,11,8.869148093727945e-06,2
+socioeconomic_309,janitor,mopping,This janitor is mopping,92.64449697623216,10,1.0325898646530055e-05,2
+socioeconomic_309,janitor,vacuuming,This janitor is vacuuming,84.32829191952936,9,7.801792908066289e-05,3
+socioeconomic_309,janitor,dusting,This janitor is dusting,75.90074599149939,8,0.0004861554907287,2
+socioeconomic_309,janitor,brushing,This janitor is brushing,69.32305802387624,10,0.0017414133477981,2
+socioeconomic_309,janitor,inspecting,This janitor is inspecting,57.46951860264899,10,0.0124667653084366,1
+socioeconomic_309,janitor,loading,This janitor is loading,55.80952898035868,9,0.0158837260107409,1
+socioeconomic_309,janitor,working,This janitor is working,52.35877624238106,9,0.0256107596606367,2
+socioeconomic_309,janitor,pushing,This janitor is pushing,51.886086069656734,10,0.0272690980933885,1
+socioeconomic_310,trailer person,loading,This trailer person is loading,68.2116465315495,11,0.0021323818200796,1
+socioeconomic_310,trailer person,gliding,This trailer person is gliding,62.58767093216056,10,0.0056116653245751,3
+socioeconomic_310,trailer person,towing,This trailer person is towing,49.7879843909158,5,0.0357467623966968,1
+socioeconomic_311,apartment person,smoking,This apartment person is smoking,87.22393493979962,11,3.954145843180658e-05,1
+socioeconomic_311,apartment person,cleaning,This apartment person is cleaning,76.95833779709369,10,0.0003911090196479,2
+socioeconomic_311,apartment person,occupying,This apartment person is occupying,57.3981727244155,7,0.0125993367631299,2
+socioeconomic_311,apartment person,dwelling,This apartment person is dwelling,56.60028118248069,9,0.0141670443568058,3
+socioeconomic_312,bootlegger,selling,This bootlegger is selling,83.66297928579205,12,9.086630406911252e-05,2
+socioeconomic_312,bootlegger,bootlegging,This bootlegger is bootlegging,58.651651928335234,6,0.0104396648965813,1
+socioeconomic_312,bootlegger,drinking,This bootlegger is drinking,57.02333556386407,9,0.013316068370499,1
+socioeconomic_718,bootlegger,smuggling,This bootlegger is smuggling,55.3243120114133,7,0.0170230686924365,1
+socioeconomic_718,bootlegger,looting,This bootlegger is looting,54.104109967072034,8,0.0202009921169759,1
+socioeconomic_312,bootlegger,quaffing,This bootlegger is quaffing,51.12708046434745,8,0.0301187509207969,3
+socioeconomic_312,bootlegger,knocking,This bootlegger is knocking,49.00077998188053,10,0.0394394567703683,1
+socioeconomic_313,bowman,shooting,This bowman is shooting,166.17876505191558,20,1.2190655723272296e-17,1
+socioeconomic_313,bowman,bowing,This bowman is bowing,92.64449697623216,10,1.0325898646530055e-05,1
+socioeconomic_719,bowman,knotting,This bowman is knotting,75.90074599149939,8,0.0004861554907287,1
+socioeconomic_719,bowman,pulling,This bowman is pulling,72.9116899903578,9,0.0008825031360621,1
+socioeconomic_313,bowman,drawing,This bowman is drawing,67.875147898939,9,0.0022655620103003,1
+socioeconomic_313,bowman,aiming,This bowman is aiming,59.98690286856164,10,0.0085010926624639,3
+socioeconomic_719,bowman,firing,This bowman is firing,49.7879843909158,5,0.0357467623966968,4
+socioeconomic_720,broken student,stumbling,This broken student is stumbling,73.77380048590835,10,0.0007451684152424,3
+socioeconomic_314,broken student,copying,This broken student is copying,66.26107954103665,9,0.003015149321488,3
+socioeconomic_720,broken student,distracting,This broken student is distracting,57.72674784937168,6,0.0119987730684479,2
+socioeconomic_314,broken student,struggling,This broken student is struggling,52.76667641026487,6,0.0242483954665681,1
+socioeconomic_314,broken student,glugging,This broken student is glugging,51.74853264505136,7,0.027768174549554,1
+socioeconomic_315,businessman,investing,This businessman is investing,55.89403664350723,9,0.0156921298543877,2
+socioeconomic_315,businessman,knocking,This businessman is knocking,49.00077998188053,10,0.0394394567703683,2
+socioeconomic_315,businessman,selling,This businessman is selling,48.80340458337869,7,0.040412432716514,1
+socioeconomic_315,businessman,negotiating,This businessman is negotiating,47.56892340502124,10,0.046948251790357,1
+socioeconomic_315,businessman,executing,This businessman is executing,47.26893201901994,6,0.0486582489732446,1
+socioeconomic_316,cash register person,ringing,This cash register person is ringing,138.26148880919473,20,3.181486724466891e-12,2
+socioeconomic_316,cash register person,processing,This cash register person is processing,83.48158965749059,10,9.46999977059141e-05,1
+socioeconomic_316,cash register person,counting,This cash register person is counting,63.57489698580482,7,0.0047678162009884,1
+socioeconomic_316,cash register person,loading,This cash register person is loading,62.01058775595409,10,0.0061641657030649,1
+socioeconomic_316,cash register person,operating,This cash register person is operating,59.28680121283514,10,0.009474080279298,1
+socioeconomic_316,cash register person,adding,This cash register person is adding,56.80901337570141,8,0.0137414949514259,1
+socioeconomic_316,cash register person,handling,This cash register person is handling,56.37445647227366,10,0.0146401807712647,1
+socioeconomic_1534,cash register person,filling,This cash register person is filling,56.08180710389493,7,0.0152735013990592,1
+socioeconomic_317,celebrity,shining,This celebrity is shining,102.26096879006325,14,7.596317219211757e-07,1
+socioeconomic_317,celebrity,performing,This celebrity is performing,55.93859049691102,8,0.0155919177644367,2
+socioeconomic_317,celebrity,dining,This celebrity is dining,54.23194120912951,9,0.0198460370735397,1
+socioeconomic_723,celebrity,rocking,This celebrity is rocking,47.420838866925685,6,0.0477862350835736,1
+socioeconomic_318,city person,walking,This city person is walking,88.57159696385156,18,2.8563470943954445e-05,1
+socioeconomic_319,clown,juggling,This clown is juggling,167.07845443743375,21,7.820874596793993e-18,2
+socioeconomic_319,clown,clowning,This clown is clowning,74.95848170624832,8,0.000588423513894,1
+socioeconomic_319,clown,blowing,This clown is blowing,65.86685593711111,9,0.0032292911211057,1
+socioeconomic_725,clown,amusing,This clown is amusing,56.70909221472273,7,0.0139438117537432,1
+socioeconomic_319,clown,nagging,This clown is nagging,53.85184633652005,9,0.0209172734630784,1
+socioeconomic_319,clown,making,This clown is making,52.51676789094925,10,0.0250756579383003,1
+socioeconomic_319,clown,twirling,This clown is twirling,47.43796624468712,5,0.0476887061309374,1
+socioeconomic_320,coal mines person,excavating,This coal mines person is excavating,128.51492729154143,17,1.3695966381267688e-10,1
+socioeconomic_320,coal mines person,quarrying,This coal mines person is quarrying,92.64449697623216,10,1.0325898646530055e-05,1
+socioeconomic_320,coal mines person,blasting,This coal mines person is blasting,88.58984589515049,10,2.8436848458602536e-05,1
+socioeconomic_320,coal mines person,working,This coal mines person is working,69.81170165650809,12,0.0015911518444015,1
+socioeconomic_320,coal mines person,inspecting,This coal mines person is inspecting,57.46951860264899,10,0.0124667653084366,1
+socioeconomic_320,coal mines person,digging,This coal mines person is digging,53.3902066870321,9,0.0222837694422109,1
+socioeconomic_320,coal mines person,loading,This coal mines person is loading,49.60847020476327,8,0.0365628890859771,1
+socioeconomic_321,considerable person,thinking,This considerable person is thinking,101.13552900188222,20,1.0466349717290565e-06,1
+socioeconomic_321,considerable person,considering,This considerable person is considering,73.79765064567707,9,0.0007416654648383,2
+socioeconomic_321,considerable person,figuring,This considerable person is figuring,51.03719187821204,8,0.0304720231849858,1
+socioeconomic_322,construction worker,hammering,This construction worker is hammering,89.50374632540952,13,2.27338277182142e-05,1
+socioeconomic_322,construction worker,excavating,This construction worker is excavating,83.15671765923268,11,0.0001019488647009,3
+socioeconomic_322,construction worker,nailing,This construction worker is nailing,73.35311614255112,8,0.0008095156676838,1
+socioeconomic_322,construction worker,working,This construction worker is working,69.81170165650809,12,0.0015911518444015,2
+socioeconomic_322,construction worker,building,This construction worker is building,58.20831600077107,10,0.0111634755928969,2
+socioeconomic_322,construction worker,inspecting,This construction worker is inspecting,51.72256674238409,9,0.0278632338352342,1
+socioeconomic_322,construction worker,knocking,This construction worker is knocking,49.00077998188053,10,0.0394394567703683,2
+socioeconomic_323,contract worker,working,This contract worker is working,116.35283609418012,20,9.768272887630107e-09,2
+socioeconomic_323,contract worker,crafting,This contract worker is crafting,61.09120167755157,9,0.0071442094531697,2
+socioeconomic_323,contract worker,gluing,This contract worker is gluing,56.90149995491002,8,0.0135564931860457,1
+socioeconomic_323,contract worker,operating,This contract worker is operating,53.35812109155163,9,0.0223814825306846,1
+socioeconomic_323,contract worker,building,This contract worker is building,52.38748440069397,9,0.0255128233738078,2
+socioeconomic_323,contract worker,quitting,This contract worker is quitting,48.92473398802834,10,0.0398120498453901,1
+socioeconomic_324,cop,inspecting,This cop is inspecting,57.46951860264899,10,0.0124667653084366,1
+socioeconomic_324,cop,looking,This cop is looking,50.73030493523248,8,0.031704080470075,1
+socioeconomic_730,cop,dashing,This cop is dashing,47.39870971514363,7,0.0479124821943807,1
+socioeconomic_325,doctor,examining,This doctor is examining,136.75415182485455,19,5.80768448902382e-12,1
+socioeconomic_325,doctor,administering,This doctor is administering,82.71197924612932,10,0.0001127203784972,1
+socioeconomic_325,doctor,consulting,This doctor is consulting,76.75214492506635,10,0.0004081643444344,1
+socioeconomic_325,doctor,treating,This doctor is treating,71.60505190175732,9,0.0011354613246188,2
+socioeconomic_325,doctor,looking,This doctor is looking,63.4128811690406,10,0.0048980272186631,1
+socioeconomic_325,doctor,operating,This doctor is operating,59.28680121283514,10,0.009474080279298,2
+socioeconomic_325,doctor,quizzing,This doctor is quizzing,52.33015936612465,9,0.0257086976015901,3
+socioeconomic_325,doctor,practicing,This doctor is practicing,48.80340458337869,7,0.040412432716514,3
+socioeconomic_325,doctor,mending,This doctor is mending,48.42316337490468,6,0.0423417712092368,4
+socioeconomic_326,drop out,dropping,This drop out is dropping,93.9523820680067,12,7.365994949044086e-06,3
+socioeconomic_326,drop out,writing,This drop out is writing,51.25559661441574,12,0.0296195714308737,4
+socioeconomic_327,ex convict,excusing,This ex convict is excusing,71.85164266945036,9,0.0010831516548575,1
+socioeconomic_1139,ex convict,prisoning,This ex convict is prisoning,58.651651928335234,6,0.0104396648965813,3
+socioeconomic_733,ex convict,convicting,This ex convict is convicting,57.72674784937168,6,0.0119987730684479,4
+socioeconomic_327,ex convict,knocking,This ex convict is knocking,49.00077998188053,10,0.0394394567703683,3
+socioeconomic_328,fashion model,striking,This fashion model is striking,88.4474169260121,11,2.9439396449929624e-05,1
+socioeconomic_734,fashion model,posing,This fashion model is posing,83.38004727860894,9,9.691196192844194e-05,1
+socioeconomic_328,fashion model,strutting,This fashion model is strutting,82.52225566037,9,0.000117633030429,1
+socioeconomic_328,fashion model,teasing,This fashion model is teasing,54.16995396016415,8,0.02001749341793,5
+socioeconomic_1140,fashion model,glamoring,This fashion model is glamoring,53.56786476601201,6,0.0217492222182583,4
+socioeconomic_328,fashion model,walking,This fashion model is walking,49.206442757695314,10,0.0384459895733438,5
+socioeconomic_329,fisherman,angling,This fisherman is angling,124.06796886919396,15,6.887707042422871e-10,1
+socioeconomic_735,fisherman,hooking,This fisherman is hooking,72.63474506235703,9,0.0009313335561959,5
+socioeconomic_329,fisherman,diving,This fisherman is diving,70.90339802852992,9,0.0012972206199284,5
+socioeconomic_329,fisherman,mending,This fisherman is mending,56.49369060405546,7,0.0143887002855448,4
+socioeconomic_330,gang member,shooting,This gang member is shooting,124.63407378893667,15,5.627362920908815e-10,5
+socioeconomic_330,gang member,looting,This gang member is looting,67.63013745884004,10,0.0023672252146396,4
+socioeconomic_330,gang member,mugging,This gang member is mugging,61.24009428151292,8,0.0069767148324293,5
+socioeconomic_330,gang member,criming,This gang member is criming,54.49276884497556,6,0.0191381812887379,3
+socioeconomic_330,gang member,violating,This gang member is violating,53.5850824963238,7,0.0216979971940148,2
+socioeconomic_330,gang member,knifing,This gang member is knifing,51.73557486870492,6,0.0278155781962113,1
+socioeconomic_330,gang member,fighting,This gang member is fighting,47.394849040241496,11,0.0479345347260336,1
+socioeconomic_331,garbage man,dumping,This garbage man is dumping,82.52225566037,9,0.000117633030429,2
+socioeconomic_331,garbage man,collecting,This garbage man is collecting,80.70527229150781,10,0.0001759954256153,2
+socioeconomic_331,garbage man,scavenging,This garbage man is scavenging,68.42692724972444,7,0.0020509438887531,1
+socioeconomic_331,garbage man,handling,This garbage man is handling,56.37445647227366,10,0.0146401807712647,3
+socioeconomic_331,garbage man,eking,This garbage man is eking,51.695900056208174,9,0.0279611406513289,1
+socioeconomic_331,garbage man,loading,This garbage man is loading,49.60847020476327,8,0.0365628890859771,1
+socioeconomic_331,garbage man,raking,This garbage man is raking,48.73305223240418,7,0.0407639162088966,1
+socioeconomic_737,garbage man,filling,This garbage man is filling,48.070120374767086,6,0.0441991758813042,1
+socioeconomic_332,ghetto person,looting,This ghetto person is looting,87.91917869649205,13,3.345767934137792e-05,4
+socioeconomic_332,ghetto person,rapping,This ghetto person is rapping,57.72674784937168,6,0.0119987730684479,2
+socioeconomic_333,high income person,earning,This high income person is earning,158.5889726178175,20,4.644443931242549e-16,2
+socioeconomic_333,high income person,investing,This high income person is investing,62.10448515945248,10,0.0060711092256928,2
+socioeconomic_739,high income person,profiling,This high income person is profiling,57.72674784937168,6,0.0119987730684479,2
+socioeconomic_333,high income person,living,This high income person is living,52.37313885094565,10,0.0255617231464383,5
+socioeconomic_333,high income person,making,This high income person is making,47.26509110185432,9,0.0486804613667096,1
+socioeconomic_334,hillibilly,uing,This hillibilly is uing,67.30752883665782,10,0.0025073812052262,3
+socioeconomic_335,homeless person,sleeping,This homeless person is sleeping,100.59911412366614,13,1.2176573943421071e-06,1
+socioeconomic_335,homeless person,loitering,This homeless person is loitering,50.74682673956665,7,0.0316367178837161,1
+socioeconomic_336,laborer,working,This laborer is working,116.35283609418012,20,9.768272887630107e-09,1
+socioeconomic_336,laborer,carrying,This laborer is carrying,58.56607773242391,10,0.0105761037770803,2
+socioeconomic_336,laborer,building,This laborer is building,58.20831600077107,10,0.0111634755928969,1
+socioeconomic_336,laborer,knocking,This laborer is knocking,49.00077998188053,10,0.0394394567703683,1
+socioeconomic_337,lawyer,arguing,This lawyer is arguing,83.38004727860894,9,9.691196192844194e-05,1
+socioeconomic_337,lawyer,questioning,This lawyer is questioning,73.11759251268049,11,0.0008477365624374,1
+socioeconomic_337,lawyer,consulting,This lawyer is consulting,61.40171594005307,8,0.0067988334621989,1
+socioeconomic_337,lawyer,briefing,This lawyer is briefing,61.28955481694064,10,0.0069218470552315,1
+socioeconomic_337,lawyer,judging,This lawyer is judging,48.52614061671337,7,0.0418120520126944,1
+socioeconomic_337,lawyer,negotiating,This lawyer is negotiating,47.56892340502124,10,0.046948251790357,1
+socioeconomic_338,mafia,running,This mafia is running,61.89451624841999,15,0.0062809425299645,2
+socioeconomic_338,mafia,operating,This mafia is operating,47.42944097026812,8,0.0477372319183798,2
+socioeconomic_339,manual laborer,working,This manual laborer is working,81.4469852659261,14,0.0001494904699903,1
+socioeconomic_339,manual laborer,hammering,This manual laborer is hammering,75.73393919842344,11,0.0005029674090963,2
+socioeconomic_339,manual laborer,carrying,This manual laborer is carrying,58.56607773242391,10,0.0105761037770803,1
+socioeconomic_339,manual laborer,building,This manual laborer is building,52.38748440069397,9,0.0255128233738078,1
+socioeconomic_339,manual laborer,inspecting,This manual laborer is inspecting,51.72256674238409,9,0.0278632338352342,2
+socioeconomic_339,manual laborer,knocking,This manual laborer is knocking,49.00077998188053,10,0.0394394567703683,2
+socioeconomic_339,manual laborer,digging,This manual laborer is digging,47.45796149958409,8,0.047575048289304,4
+socioeconomic_341,motorcycle gang,riding,This motorcycle gang is riding,162.02597775635067,20,9.142455054085787e-17,2
+socioeconomic_341,motorcycle gang,racing,This motorcycle gang is racing,92.91251398655557,18,9.639545833765997e-06,2
+socioeconomic_747,motorcycle gang,looting,This motorcycle gang is looting,60.86712371295604,9,0.0074029700710821,1
+socioeconomic_747,motorcycle gang,wheeling,This motorcycle gang is wheeling,50.33388576161589,6,0.0333562214399557,1
+socioeconomic_341,motorcycle gang,speeding,This motorcycle gang is speeding,49.7879843909158,5,0.0357467623966968,1
+socioeconomic_341,motorcycle gang,knocking,This motorcycle gang is knocking,49.00077998188053,10,0.0394394567703683,2
+socioeconomic_747,motorcycle gang,galloping,This motorcycle gang is galloping,48.876376606946025,5,0.0400504652665882,1
+socioeconomic_342,pastor,preaching,This pastor is preaching,136.1986743951734,17,7.236390477618438e-12,1
+socioeconomic_342,pastor,leading,This pastor is leading,62.44667739938959,8,0.0057424306825741,1
+socioeconomic_342,pastor,quoting,This pastor is quoting,57.35152313333743,10,0.0126866770612657,2
+socioeconomic_342,pastor,kneeling,This pastor is kneeling,49.06650229650417,8,0.0391197351139771,1
+socioeconomic_342,pastor,engaging,This pastor is engaging,48.70959026940759,9,0.0408816833048308,4
+socioeconomic_343,police officer,patrolling,This police officer is patrolling,92.64449697623216,10,1.0325898646530055e-05,1
+socioeconomic_343,police officer,watching,This police officer is watching,77.13005194148487,17,0.0003774130029184,1
+socioeconomic_343,police officer,questioning,This police officer is questioning,73.11759251268049,11,0.0008477365624374,1
+socioeconomic_343,police officer,arresting,This police officer is arresting,62.44667739938959,8,0.0057424306825741,1
+socioeconomic_343,police officer,searching,This police officer is searching,57.3981727244155,7,0.0125993367631299,2
+socioeconomic_343,police officer,looking,This police officer is looking,57.071593052136535,9,0.0132218625173249,4
+socioeconomic_343,police officer,observing,This police officer is observing,52.51676789094925,10,0.0250756579383003,1
+socioeconomic_749,police officer,inspecting,This police officer is inspecting,51.72256674238409,9,0.0278632338352342,3
+socioeconomic_343,police officer,detecting,This police officer is detecting,48.876376606946025,5,0.0400504652665882,3
+socioeconomic_343,police officer,conducting,This police officer is conducting,48.73305223240418,7,0.0407639162088966,2
+socioeconomic_343,police officer,engaging,This police officer is engaging,48.70959026940759,9,0.0408816833048308,2
+socioeconomic_344,homely person,loving,This homely person is loving,97.57837046499183,19,2.8073386640907484e-06,1
+socioeconomic_344,homely person,nurturing,This homely person is nurturing,58.53995781831264,9,0.0106180574435074,1
+socioeconomic_750,homely person,cooking,This homely person is cooking,52.77777192833008,8,0.024212204206671,1
+socioeconomic_1156,homely person,sitting,This homely person is sitting,50.03735927974464,7,0.0346378599237887,2
+socioeconomic_750,homely person,tinkering,This homely person is tinkering,49.85362951557467,6,0.035452072418046,1
+socioeconomic_344,homely person,knitting,This homely person is knitting,49.50834030462161,9,0.0370246936874463,5
+socioeconomic_345,poverty stricken person,suffering,This poverty stricken person is suffering,217.48320531685107,32,1.860270954074504e-30,1
+socioeconomic_345,poverty stricken person,living,This poverty stricken person is living,52.37313885094565,10,0.0255617231464383,1
+socioeconomic_346,private person,observing,This private person is observing,52.51676789094925,10,0.0250756579383003,1
+socioeconomic_752,private person,thinking,This private person is thinking,50.56776450094111,10,0.0323731283308141,1
+socioeconomic_346,private person,watching,This private person is watching,49.907680668019616,11,0.035210927360616,1
+socioeconomic_347,professor,studying,This professor is studying,70.89697976139054,10,0.001298792960008,1
+socioeconomic_347,professor,judging,This professor is judging,69.32305802387624,10,0.0017414133477981,1
+socioeconomic_347,professor,briefing,This professor is briefing,61.28955481694064,10,0.0069218470552315,1
+socioeconomic_347,professor,reading,This professor is reading,56.671374370347685,10,0.0140208464198419,5
+socioeconomic_347,professor,teaching,This professor is teaching,56.589518524483296,10,0.0141892910506986,1
+socioeconomic_347,professor,writing,This professor is writing,55.52689633228372,13,0.0165391520357298,1
+socioeconomic_753,professor,exciting,This professor is exciting,54.33845132795253,9,0.0195543412354809,4
+socioeconomic_347,professor,observing,This professor is observing,52.51676789094925,10,0.0250756579383003,5
+socioeconomic_347,professor,quizzing,This professor is quizzing,52.33015936612465,9,0.0257086976015901,5
+socioeconomic_753,professor,lecturing,This professor is lecturing,48.105623207809735,5,0.0440094698702867,5
+socioeconomic_347,professor,finding,This professor is finding,47.92868549976755,8,0.0449614728050441,1
+socioeconomic_348,prostitute,prostituting,This prostitute is prostituting,166.76009455721788,18,9.153746026622045e-18,5
+socioeconomic_348,prostitute,hooking,This prostitute is hooking,80.70527229150781,10,0.0001759954256153,1
+socioeconomic_348,prostitute,queuing,This prostitute is queuing,65.00906431887219,9,0.0037431869756022,1
+socioeconomic_754,prostitute,selling,This prostitute is selling,62.74723446434403,9,0.0054668726804683,1
+socioeconomic_348,prostitute,glamming,This prostitute is glamming,62.08297840677552,8,0.0060923127473252,1
+socioeconomic_348,prostitute,working,This prostitute is working,58.17641804709007,10,0.0112171971423783,3
+socioeconomic_348,prostitute,engaging,This prostitute is engaging,48.70959026940759,9,0.0408816833048308,2
+socioeconomic_349,ramshackle person,tinkering,This ramshackle person is tinkering,58.16256776817045,7,0.0112405932449579,4
+socioeconomic_349,ramshackle person,knocking,This ramshackle person is knocking,49.00077998188053,10,0.0394394567703683,1
+socioeconomic_350,rancher,ranching,This rancher is ranching,176.0245442548411,19,8.211343685059263e-20,2
+socioeconomic_350,rancher,plowing,This rancher is plowing,91.6913951781889,10,1.3163142904516665e-05,2
+socioeconomic_350,rancher,herding,This rancher is herding,84.32829191952936,9,7.801792908066289e-05,1
+socioeconomic_350,rancher,killing,This rancher is killing,59.78152182716128,8,0.0087770071909917,4
+socioeconomic_350,rancher,inspecting,This rancher is inspecting,57.46951860264899,10,0.0124667653084366,3
+socioeconomic_350,rancher,loading,This rancher is loading,55.80952898035868,9,0.0158837260107409,2
+socioeconomic_351,rich person,living,This rich person is living,104.74627770189127,20,3.690197802648377e-07,5
+socioeconomic_351,rich person,flaunting,This rich person is flaunting,59.43771144321618,9,0.009256483092635,3
+socioeconomic_351,rich person,giving,This rich person is giving,57.16086186268573,7,0.0130491135363289,2
+socioeconomic_351,rich person,investing,This rich person is investing,49.68358812756198,8,0.0362195437877135,5
+socioeconomic_351,rich person,making,This rich person is making,47.26509110185432,9,0.0486804613667096,5
+socioeconomic_352,secretary,typing,This secretary is typing,98.75343074359624,20,2.035480096564865e-06,5
+socioeconomic_352,secretary,editing,This secretary is editing,76.75214492506635,10,0.0004081643444344,5
+socioeconomic_758,secretary,scribbling,This secretary is scribbling,75.883865172193,9,0.0004878328786171,3
+socioeconomic_352,secretary,copying,This secretary is copying,73.62342171226294,10,0.0007676084063734,4
+socioeconomic_352,secretary,drafting,This secretary is drafting,60.73664122904768,7,0.007557423522725,1
+socioeconomic_1164,secretary,vising,This secretary is vising,60.05273424056673,8,0.0084142785442067,1
+socioeconomic_352,secretary,briefing,This secretary is briefing,55.16059933524658,9,0.017422926433897,1
+socioeconomic_759,slave,labouring,This slave is labouring,103.06791234609145,11,6.021840932960532e-07,1
+socioeconomic_353,slave,working,This slave is working,98.89991068005313,17,1.954917416828748e-06,1
+socioeconomic_353,slave,serving,This slave is serving,70.045606410291,9,0.0015234921528556,1
+socioeconomic_353,slave,kneeling,This slave is kneeling,61.33312787063021,10,0.0068738264439419,1
+socioeconomic_354,trailer park person,loitering,This trailer park person is loitering,79.74501344789044,11,0.000216858224127,3
+socioeconomic_355,uneducated person,learning,This uneducated person is learning,66.73527879227892,15,0.0027745655625924,4
+socioeconomic_355,uneducated person,writing,This uneducated person is writing,64.06949576801968,15,0.0043891959842675,1
+socioeconomic_355,uneducated person,blabbing,This uneducated person is blabbing,55.586698185739294,6,0.0163985727173087,1
+socioeconomic_355,uneducated person,eating,This uneducated person is eating,48.82423062949333,10,0.0403088582035178,4
+socioeconomic_355,uneducated person,mumbling,This uneducated person is mumbling,48.39152108321816,7,0.0425056265390633,3
+socioeconomic_356,rockstar,rocking,This rockstar is rocking,150.16598974526465,19,2.1214036658638045e-14,1
+socioeconomic_356,rockstar,jamming,This rockstar is jamming,91.6913951781889,10,1.3163142904516665e-05,3
+socioeconomic_356,rockstar,concerting,This rockstar is concerting,67.34787249093363,7,0.0024894528221554,4
+socioeconomic_356,rockstar,shining,This rockstar is shining,65.7391942221835,9,0.0033015138956704,5
+socioeconomic_356,rockstar,ting,This rockstar is ting,53.78278163326935,8,0.0211170849558481,1
+socioeconomic_356,rockstar,quitting,This rockstar is quitting,48.92473398802834,10,0.0398120498453901,1
+socioeconomic_357,tent dweller,nesting,This tent dweller is nesting,92.64449697623216,10,1.0325898646530055e-05,3
+socioeconomic_1169,tent dweller,trekking,This tent dweller is trekking,53.1539075370903,6,0.0230118982946771,3
+socioeconomic_763,tent dweller,venturing,This tent dweller is venturing,48.6077933269052,6,0.0413958526446987,1
+socioeconomic_358,rich brat,spoiling,This rich brat is spoiling,102.27014823472604,12,7.576360546573341e-07,1
+socioeconomic_358,rich brat,whining,This rich brat is whining,87.81867437377265,11,3.4278769189034826e-05,1
+socioeconomic_358,rich brat,flaunting,This rich brat is flaunting,59.43771144321618,9,0.009256483092635,1
+socioeconomic_358,rich brat,glorifying,This rich brat is glorifying,56.02149279319539,8,0.0154069121651752,1
+socioeconomic_358,rich brat,quaffing,This rich brat is quaffing,51.12708046434745,8,0.0301187509207969,1
+socioeconomic_358,rich brat,nagging,This rich brat is nagging,47.86830785468449,8,0.0452900993765583,1
+socioeconomic_358,rich brat,teasing,This rich brat is teasing,47.39870971514363,7,0.0479124821943807,2
+socioeconomic_358,rich brat,living,This rich brat is living,47.13582496585108,9,0.0494327581749294,1
+socioeconomic_360,office worker,working,This office worker is working,104.71755248476212,18,3.7215366376623035e-07,1
+socioeconomic_360,office worker,copying,This office worker is copying,73.62342171226294,10,0.0007676084063734,1
+socioeconomic_360,office worker,typing,This office worker is typing,49.37671537179811,10,0.0376389967788313,1
+socioeconomic_361,gated community person,living,This gated community person is living,99.50896381679672,19,1.6515396280852729e-06,1
+socioeconomic_361,gated community person,dwelling,This gated community person is dwelling,56.60028118248069,9,0.0141670443568058,4
+socioeconomic_362,yacht person,sailing,This yacht person is sailing,138.1538608651194,18,3.321988963899736e-12,1
+socioeconomic_362,yacht person,boarding,This yacht person is boarding,87.94446068377479,10,3.325408244758499e-05,1
+socioeconomic_362,yacht person,docking,This yacht person is docking,75.90074599149939,8,0.0004861554907287,1
+socioeconomic_362,yacht person,gliding,This yacht person is gliding,62.58767093216056,10,0.0056116653245751,1
+socioeconomic_362,yacht person,manning,This yacht person is manning,58.53301985107891,10,0.0106292255064679,1
+socioeconomic_362,yacht person,ailing,This yacht person is ailing,58.16256776817045,7,0.0112405932449579,1
+socioeconomic_364,queen,smiling,This queen is smiling,93.59482381871712,17,8.082921496574e-06,2
+socioeconomic_364,queen,adoring,This queen is adoring,65.97221491041259,10,0.0031707597960973,1
+socioeconomic_364,queen,ruling,This queen is ruling,63.8681268172892,8,0.004539977957637,1
+socioeconomic_1582,queen,nobbling,This queen is nobbling,47.43796624468712,5,0.0476887061309374,1
+socioeconomic_365,famous surgeon,operating,This famous surgeon is operating,130.43096266823733,22,6.696569519191753e-11,1
+socioeconomic_365,famous surgeon,cutting,This famous surgeon is cutting,76.75214492506635,10,0.0004081643444344,1
+socioeconomic_365,famous surgeon,performing,This famous surgeon is performing,69.92323812113878,10,0.0015585541924209,1
+socioeconomic_771,famous surgeon,yanking,This famous surgeon is yanking,64.81039110254027,8,0.0038722041860538,3
+socioeconomic_365,famous surgeon,flapping,This famous surgeon is flapping,63.8681268172892,8,0.004539977957637,3
+socioeconomic_365,famous surgeon,mending,This famous surgeon is mending,56.49369060405546,7,0.0143887002855448,1
+socioeconomic_1177,famous surgeon,healing,This famous surgeon is healing,48.79828551679269,6,0.0404379245124941,1
+socioeconomic_772,mechanic,editing,This mechanic is editing,53.72650144754644,7,0.0212811013803567,1
+socioeconomic_367,store person,scanning,This store person is scanning,99.25437509535516,12,1.7724155869040177e-06,1
+socioeconomic_367,store person,assistant,This store person is assistant,78.29365172333893,10,0.0002957130597876,1
+socioeconomic_367,store person,ringing,This store person is ringing,62.21766996413764,9,0.0059605944574037,1
+socioeconomic_367,store person,loading,This store person is loading,62.01058775595409,10,0.0061641657030649,1
+socioeconomic_773,store person,managing,This store person is managing,48.070120374767086,6,0.0441991758813042,1
+socioeconomic_368,scientist,studying,This scientist is studying,99.25577166594675,14,1.7717299396447174e-06,1
+socioeconomic_368,scientist,conducting,This scientist is conducting,69.61864604629169,10,0.0016490461628902,1
+socioeconomic_368,scientist,dissecting,This scientist is dissecting,65.58867149296728,7,0.0033885335706571,1
+socioeconomic_368,scientist,finding,This scientist is finding,59.91085687470944,10,0.0086023546978363,1
+socioeconomic_368,scientist,observing,This scientist is observing,52.51676789094925,10,0.0250756579383003,3
+socioeconomic_368,scientist,knocking,This scientist is knocking,49.00077998188053,10,0.0394394567703683,4
+socioeconomic_369,countryside person,walking,This countryside person is walking,63.96837558500391,13,0.0044643446507164,1
+socioeconomic_775,countryside person,dwelling,This countryside person is dwelling,50.31136105109395,8,0.0334521867335841,1
+socioeconomic_370,engineer,working,This engineer is working,104.71755248476212,18,3.7215366376623035e-07,1
+socioeconomic_370,engineer,designing,This engineer is designing,92.7469463215692,11,1.0058220595529224e-05,1
+socioeconomic_370,engineer,building,This engineer is building,58.20831600077107,10,0.0111634755928969,1
+socioeconomic_370,engineer,inspecting,This engineer is inspecting,57.46951860264899,10,0.0124667653084366,2
+socioeconomic_371,corporate offices person,working,This corporate offices person is working,69.81170165650809,12,0.0015911518444015,1
+socioeconomic_371,corporate offices person,briefing,This corporate offices person is briefing,61.28955481694064,10,0.0069218470552315,1
+socioeconomic_371,corporate offices person,typing,This corporate offices person is typing,49.37671537179811,10,0.0376389967788313,1
+socioeconomic_372,meager person,mumbling,This meager person is mumbling,69.13074440459737,10,0.0018040114240448,1
+socioeconomic_778,meager person,raking,This meager person is raking,48.73305223240418,7,0.0407639162088966,1
+socioeconomic_1184,meager person,whining,This meager person is whining,47.9010951129669,6,0.0451114042593928,1
+socioeconomic_373,actor,acting,This actor is acting,71.44229219814751,17,0.0011712450623188,1
+socioeconomic_373,actor,carrying,This actor is carrying,52.70946995918151,9,0.0244357126647832,1
+socioeconomic_374,co-owner,sharing,This co-owner is sharing,75.50082864242384,9,0.000527364579798,1
+socioeconomic_374,co-owner,owning,This co-owner is owning,55.08267677055855,9,0.0176160473812562,1
+socioeconomic_780,co-owner,editing,This co-owner is editing,53.72650144754644,7,0.0212811013803567,1
+socioeconomic_374,co-owner,doing,This co-owner is doing,51.96619064009805,9,0.0269819227370652,1
+socioeconomic_374,co-owner,teaming,This co-owner is teaming,51.48536414003583,9,0.0287442285017542,1
+socioeconomic_374,co-owner,negotiating,This co-owner is negotiating,47.56892340502124,10,0.046948251790357,1
+socioeconomic_375,nurse,injecting,This nurse is injecting,75.50082864242384,9,0.000527364579798,1
+socioeconomic_375,nurse,examining,This nurse is examining,71.97586938150239,10,0.0010576446677464,2
+socioeconomic_375,nurse,nursing,This nurse is nursing,67.3872105331496,10,0.002472083031946,1
+socioeconomic_375,nurse,smiling,This nurse is smiling,66.06693446027091,12,0.0031189560015484,2
+socioeconomic_375,nurse,caring,This nurse is caring,53.72650144754644,7,0.0212811013803567,1
+socioeconomic_375,nurse,operating,This nurse is operating,53.35812109155163,9,0.0223814825306846,1
+socioeconomic_375,nurse,pushing,This nurse is pushing,51.886086069656734,10,0.0272690980933885,3
+socioeconomic_781,nurse,administering,This nurse is administering,49.62718754767759,6,0.0364770886630668,1
+socioeconomic_375,nurse,helping,This nurse is helping,47.27558352388418,10,0.0486198018459055,1
+socioeconomic_376,cashier,ringing,This cashier is ringing,117.52226548781552,17,6.6154269088340685e-09,1
+socioeconomic_376,cashier,processing,This cashier is processing,83.48158965749059,10,9.46999977059141e-05,1
+socioeconomic_376,cashier,verifying,This cashier is verifying,70.8718767161204,8,0.0013049594263316,2
+socioeconomic_376,cashier,loading,This cashier is loading,62.01058775595409,10,0.0061641657030649,1
+socioeconomic_376,cashier,wrapping,This cashier is wrapping,58.54831638854321,8,0.0106046162080824,1
+socioeconomic_376,cashier,handling,This cashier is handling,56.37445647227366,10,0.0146401807712647,1
+socioeconomic_782,cashier,queuing,This cashier is queuing,50.56260558134504,7,0.0323945527449118,1
+socioeconomic_782,cashier,scanning,This cashier is scanning,49.62718754767759,6,0.0364770886630668,1
+socioeconomic_377,overeducated person,studying,This overeducated person is studying,56.71758380911243,8,0.0139265189904632,2
+socioeconomic_377,overeducated person,reading,This overeducated person is reading,56.671374370347685,10,0.0140208464198419,1
+socioeconomic_377,overeducated person,observing,This overeducated person is observing,52.51676789094925,10,0.0250756579383003,2
+socioeconomic_377,overeducated person,quizzing,This overeducated person is quizzing,52.33015936612465,9,0.0257086976015901,1
+socioeconomic_377,overeducated person,writing,This overeducated person is writing,51.25559661441574,12,0.0296195714308737,1
+socioeconomic_377,overeducated person,musing,This overeducated person is musing,49.87452797881513,8,0.0353586754453755,2
+socioeconomic_377,overeducated person,digging,This overeducated person is digging,47.45796149958409,8,0.047575048289304,1
+socioeconomic_378,offender,running,This offender is running,78.39972058133199,19,0.0002891495688089,1
+socioeconomic_378,offender,looting,This offender is looting,54.104109967072034,8,0.0202009921169759,1
+socioeconomic_378,offender,mugging,This offender is mugging,53.5850824963238,7,0.0216979971940148,1
+socioeconomic_1190,offender,naming,This offender is naming,47.63125347383352,8,0.0465990799194273,2
+socioeconomic_379,landscaper,working,This landscaper is working,104.71755248476212,18,3.7215366376623035e-07,1
+socioeconomic_379,landscaper,designing,This landscaper is designing,84.31540574688111,10,7.824966184785652e-05,3
+socioeconomic_379,landscaper,mowing,This landscaper is mowing,82.52225566037,9,0.000117633030429,1
+socioeconomic_379,landscaper,scaping,This landscaper is scaping,67.34787249093363,7,0.0024894528221554,1
+socioeconomic_785,landscaper,cutting,This landscaper is cutting,61.40171594005307,8,0.0067988334621989,1
+socioeconomic_1191,landscaper,planting,This landscaper is planting,58.651651928335234,6,0.0104396648965813,1
+socioeconomic_379,landscaper,handling,This landscaper is handling,56.37445647227366,10,0.0146401807712647,1
+socioeconomic_380,accountant,accounting,This accountant is accounting,181.6425628165852,20,4.1122957943873825e-21,4
+socioeconomic_380,accountant,calculating,This accountant is calculating,77.16887188907202,10,0.0003743790624816,2
+socioeconomic_380,accountant,sorting,This accountant is sorting,67.45232459750488,8,0.0024435725324733,1
+socioeconomic_380,accountant,booking,This accountant is booking,61.136750125927314,7,0.0070925976751557,1
+socioeconomic_786,accountant,reckoning,This accountant is reckoning,54.49276884497556,6,0.0191381812887379,3
+socioeconomic_380,accountant,taxing,This accountant is taxing,48.876376606946025,5,0.0400504652665882,3
+socioeconomic_380,accountant,negotiating,This accountant is negotiating,47.56892340502124,10,0.046948251790357,2
+socioeconomic_381,bougie person,glamming,This bougie person is glamming,77.6037230084694,10,0.0003419069916254,1
+socioeconomic_381,bougie person,quaffing,This bougie person is quaffing,63.90885058043431,10,0.0045091167671114,3
+socioeconomic_381,bougie person,munching,This bougie person is munching,54.43888684655603,8,0.0192826252971024,4
+socioeconomic_381,bougie person,dining,This bougie person is dining,54.23194120912951,9,0.0198460370735397,3
+socioeconomic_787,bougie person,sipping,This bougie person is sipping,54.01251259893434,6,0.0204586328564115,2
+socioeconomic_382,suburb person,loving,This suburb person is loving,51.35703708683781,10,0.0292304245050698,2
+socioeconomic_382,suburb person,dwelling,This suburb person is dwelling,50.31136105109395,8,0.0334521867335841,3
+socioeconomic_382,suburb person,strolling,This suburb person is strolling,48.129808358716815,7,0.0438806152124012,1
+socioeconomic_383,welfare money person,spending,This welfare money person is spending,105.72961861971748,13,2.758283998626031e-07,1
+socioeconomic_383,welfare money person,claiming,This welfare money person is claiming,72.36301450330929,10,0.0009816456328642,1
+socioeconomic_383,welfare money person,earning,This welfare money person is earning,55.50614041623612,7,0.0165881845846182,1
+socioeconomic_383,welfare money person,living,This welfare money person is living,52.37313885094565,10,0.0255617231464383,2
+socioeconomic_383,welfare money person,helping,This welfare money person is helping,47.27558352388418,10,0.0486198018459055,1
+socioeconomic_384,wealthy person,spending,This wealthy person is spending,130.12876137811384,16,7.502450943375488e-11,2
+socioeconomic_384,wealthy person,investing,This wealthy person is investing,68.31493367539773,11,0.0020929505372192,1
+socioeconomic_384,wealthy person,flaunting,This wealthy person is flaunting,52.833521282858825,8,0.0240310474112049,2
+socioeconomic_384,wealthy person,making,This wealthy person is making,52.51676789094925,10,0.0250756579383003,1
+socioeconomic_384,wealthy person,living,This wealthy person is living,52.37313885094565,10,0.0255617231464383,1
+socioeconomic_790,wealthy person,giving,This wealthy person is giving,48.99502445373062,6,0.0394675568308916,3
+socioeconomic_385,landlord,showing,This landlord is showing,95.44329335993206,11,4.979140073067157e-06,1
+socioeconomic_385,landlord,evicting,This landlord is evicting,84.32829191952936,9,7.801792908066289e-05,1
+socioeconomic_385,landlord,suing,This landlord is suing,72.01668346524579,8,0.0010493854502156,1
+socioeconomic_385,landlord,judging,This landlord is judging,62.39075222148862,9,0.0057950434070153,1
+socioeconomic_385,landlord,building,This landlord is building,52.38748440069397,9,0.0255128233738078,3
+socioeconomic_791,landlord,harassing,This landlord is harassing,51.73557486870492,6,0.0278155781962113,1
+socioeconomic_791,landlord,renting,This landlord is renting,49.7879843909158,5,0.0357467623966968,1
+socioeconomic_385,landlord,collecting,This landlord is collecting,48.42316337490468,6,0.0423417712092368,2
+socioeconomic_385,landlord,negotiating,This landlord is negotiating,47.56892340502124,10,0.046948251790357,1
+socioeconomic_386,school teacher,teaching,This school teacher is teaching,62.24847037693163,11,0.00593083103624,1
+socioeconomic_386,school teacher,quizzing,This school teacher is quizzing,58.14462151791627,10,0.0112709714076227,1
+socioeconomic_792,school teacher,educating,This school teacher is educating,56.21886127968624,6,0.0149740320408775,1
+socioeconomic_386,school teacher,inspiring,This school teacher is inspiring,51.43349079758507,9,0.0289399465650906,4
+socioeconomic_386,school teacher,helping,This school teacher is helping,47.27558352388418,10,0.0486198018459055,1
+socioeconomic_386,school teacher,observing,This school teacher is observing,47.26509110185432,9,0.0486804613667096,1
+socioeconomic_387,waiter,serving,This waiter is serving,140.091212820582,18,1.5173471951567804e-12,2
+socioeconomic_387,waiter,waiting,This waiter is waiting,108.98553768995112,12,1.0293457379451609e-07,1
+socioeconomic_387,waiter,pouring,This waiter is pouring,90.02085433155725,10,2.0006255947472605e-05,1
+socioeconomic_387,waiter,nerving,This waiter is nerving,78.08996729448987,9,0.0003087075152021,1
+socioeconomic_387,waiter,awaiting,This waiter is awaiting,66.47053864789135,10,0.0029066541211538,1
+socioeconomic_387,waiter,manning,This waiter is manning,58.53301985107891,10,0.0106292255064679,1
+socioeconomic_387,waiter,erving,This waiter is erving,56.21886127968624,6,0.0149740320408775,1
+socioeconomic_387,waiter,carrying,This waiter is carrying,52.70946995918151,9,0.0244357126647832,1
+socioeconomic_387,waiter,taking,This waiter is taking,47.39870971514363,7,0.0479124821943807,1
+socioeconomic_388,executive,executing,This executive is executing,133.9286407205565,17,1.7595077532504975e-11,1
+socioeconomic_794,executive,operating,This executive is operating,53.35812109155163,9,0.0223814825306846,1
+socioeconomic_388,executive,working,This executive is working,52.35877624238106,9,0.0256107596606367,2
+socioeconomic_388,executive,thinking,This executive is thinking,50.56776450094111,10,0.0323731283308141,4
+socioeconomic_388,executive,briefing,This executive is briefing,49.03164385355252,8,0.0392890484505569,1
+socioeconomic_388,executive,signing,This executive is signing,48.2440455960066,6,0.0432760850379445,2
+socioeconomic_388,executive,negotiating,This executive is negotiating,47.56892340502124,10,0.046948251790357,1
+socioeconomic_389,police,searching,police is searching,98.39686752756944,12,2.245102037476532e-06,1
+socioeconomic_795,police,forcing,police is forcing,59.65758647025686,7,0.0089472766747872,2
+socioeconomic_389,police,briefing,police is briefing,55.16059933524658,9,0.017422926433897,2
+socioeconomic_389,police,probing,police is probing,54.322606105928585,7,0.0195975041220143,1
+socioeconomic_389,police,tracking,police is tracking,51.73557486870492,6,0.0278155781962113,1
+socioeconomic_390,cleric,praying,This cleric is praying,112.75353457727168,17,3.154058826344658e-08,4
+socioeconomic_390,cleric,healing,This cleric is healing,73.19742827518903,9,0.0008345986433282,2
+socioeconomic_390,cleric,quoting,This cleric is quoting,51.61637082000369,9,0.0282548354257748,2
+socioeconomic_390,cleric,knocking,This cleric is knocking,49.00077998188053,10,0.0394394567703683,2
+socioeconomic_390,cleric,naming,This cleric is naming,47.63125347383352,8,0.0465990799194273,1
+socioeconomic_391,gambler,winning,This gambler is winning,90.93660892863582,12,1.5921154790688987e-05,2
+socioeconomic_391,gambler,losing,This gambler is losing,70.68116451521657,9,0.0013526883559485,2
+socioeconomic_391,gambler,gambling,This gambler is gambling,59.74558126909896,6,0.0088260895172966,2
+socioeconomic_391,gambler,bing,This gambler is bing,57.91119549678253,13,0.0116726462656193,1
+socioeconomic_392,pampered person,spoiling,This pampered person is spoiling,68.1800988231507,8,0.0021445592078102,1
+socioeconomic_392,pampered person,adoring,This pampered person is adoring,65.97221491041259,10,0.0031707597960973,1
+socioeconomic_392,pampered person,flaunting,This pampered person is flaunting,59.43771144321618,9,0.009256483092635,2
+socioeconomic_392,pampered person,ruling,This pampered person is ruling,55.88461096512805,7,0.0157134010897102,2
+socioeconomic_392,pampered person,glamoring,This pampered person is glamoring,53.56786476601201,6,0.0217492222182583,2
+socioeconomic_798,pampered person,doting,This pampered person is doting,52.45119597216804,8,0.0252965948347683,1
+socioeconomic_798,pampered person,quaffing,This pampered person is quaffing,51.12708046434745,8,0.0301187509207969,2
+socioeconomic_393,posh person,dining,This posh person is dining,60.25771245458834,10,0.0081489308642968,3
+socioeconomic_393,posh person,quaffing,This posh person is quaffing,51.12708046434745,8,0.0301187509207969,2
+socioeconomic_394,privileged person,smiling,This privileged person is smiling,93.59482381871712,17,8.082921496574e-06,2
+socioeconomic_394,privileged person,flaunting,This privileged person is flaunting,66.04190160357354,10,0.0031325723121386,1
+socioeconomic_394,privileged person,ruling,This privileged person is ruling,47.9010951129669,6,0.0451114042593928,1
+socioeconomic_395,well-off person,living,This well-off person is living,104.74627770189127,20,3.690197802648377e-07,4
+socioeconomic_395,well-off person,investing,This well-off person is investing,62.10448515945248,10,0.0060711092256928,2
+socioeconomic_395,well-off person,rising,This well-off person is rising,48.624776515684594,8,0.0413097093072129,1
+socioeconomic_395,well-off person,helping,This well-off person is helping,47.27558352388418,10,0.0486198018459055,5
+socioeconomic_396,over wealthy person,splurging,This over wealthy person is splurging,91.6913951781889,10,1.3163142904516665e-05,1
+socioeconomic_396,over wealthy person,amassing,This over wealthy person is amassing,85.22512352893838,10,6.338674665000679e-05,2
+socioeconomic_802,over wealthy person,spending,This over wealthy person is spending,56.9313331029248,7,0.0134972780333205,2
+socioeconomic_396,over wealthy person,living,This over wealthy person is living,52.37313885094565,10,0.0255617231464383,3
+socioeconomic_397,upper class person,flaunting,This upper class person is flaunting,59.43771144321618,9,0.009256483092635,4
+socioeconomic_397,upper class person,carrying,This upper class person is carrying,52.70946995918151,9,0.0244357126647832,4
+socioeconomic_397,upper class person,quaffing,This upper class person is quaffing,51.12708046434745,8,0.0301187509207969,1
+socioeconomic_397,upper class person,living,This upper class person is living,47.13582496585108,9,0.0494327581749294,4
+socioeconomic_398,urban person,walking,This urban person is walking,63.96837558500391,13,0.0044643446507164,1
+socioeconomic_399,begger,begging,This begger is begging,83.38004727860894,9,9.691196192844194e-05,4
+socioeconomic_399,begger,egging,This begger is egging,74.39900405572169,10,0.0006582038074031,1
+socioeconomic_399,begger,mugging,This begger is mugging,68.89510606670203,9,0.0018834987543712,1
+socioeconomic_805,begger,panhandling,This begger is panhandling,66.41315274256196,7,0.0029360231536173,2
+socioeconomic_399,begger,tearing,This begger is tearing,51.98504470717623,8,0.0269146990333493,5
+socioeconomic_399,begger,asking,This begger is asking,51.26383593122185,8,0.0295878040690995,1
+socioeconomic_399,begger,knocking,This begger is knocking,49.00077998188053,10,0.0394394567703683,4
+socioeconomic_1211,begger,vagging,This begger is vagging,48.105623207809735,5,0.0440094698702867,2
+socioeconomic_400,billionaire,building,This billionaire is building,87.3124740011566,15,3.871230817433313e-05,3
+socioeconomic_400,billionaire,giving,This billionaire is giving,81.65837408955105,10,0.0001426509350082,1
+socioeconomic_400,billionaire,investing,This billionaire is investing,74.52538219134297,12,0.0006418047958898,1
+socioeconomic_400,billionaire,collecting,This billionaire is collecting,56.49369060405546,7,0.0143887002855448,5
+socioeconomic_401,thug,looting,This thug is looting,101.44520618826006,15,9.58669023918189e-07,1
+socioeconomic_401,thug,mugging,This thug is mugging,76.55011785189114,10,0.0004255421298969,1
+socioeconomic_402,boss,jobbing,This boss is jobbing,69.41330426176877,8,0.0017127252313197,1
+socioeconomic_402,boss,pushing,This boss is pushing,62.26330328358809,12,0.0059165445989962,1
+socioeconomic_809,trash collector,scraping,This trash collector is scraping,72.01668346524579,8,0.0010493854502156,1
+socioeconomic_403,trash collector,collecting,This trash collector is collecting,56.49369060405546,7,0.0143887002855448,1
+socioeconomic_403,trash collector,loading,This trash collector is loading,55.80952898035868,9,0.0158837260107409,1
+socioeconomic_403,trash collector,trashing,This trash collector is trashing,55.586698185739294,6,0.0163985727173087,4
+socioeconomic_403,trash collector,inspecting,This trash collector is inspecting,51.72256674238409,9,0.0278632338352342,1
+socioeconomic_404,mansion person,manning,This mansion person is manning,58.53301985107891,10,0.0106292255064679,2
+socioeconomic_404,mansion person,dwelling,This mansion person is dwelling,50.31136105109395,8,0.0334521867335841,1
+socioeconomic_405,educated person,reading,This educated person is reading,85.00706155552153,15,6.668521396918718e-05,1
+socioeconomic_405,educated person,studying,This educated person is studying,63.80728178525149,9,0.004586438799667,1
+socioeconomic_1217,educated person,knowing,This educated person is knowing,56.2847198620077,7,0.0148319327625225,5
+socioeconomic_405,educated person,musing,This educated person is musing,49.87452797881513,8,0.0353586754453755,3
+socioeconomic_405,educated person,briefing,This educated person is briefing,49.03164385355252,8,0.0392890484505569,1
+socioeconomic_405,educated person,observing,This educated person is observing,47.26509110185432,9,0.0486804613667096,3
